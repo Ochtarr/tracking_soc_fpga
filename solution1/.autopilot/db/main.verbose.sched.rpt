@@ -1,0 +1,181 @@
+
+
+================================================================
+== Vivado HLS Report for 'main'
+================================================================
+* Date:           Tue May 15 13:41:41 2018
+
+* Version:        2017.4.1 (Build 2117188 on Tue Jan 30 15:53:01 MST 2018)
+* Project:        project_tracking_on_soc
+* Solution:       solution1
+* Product family: zynq
+* Target device:  xc7z020clg484-1
+
+
+================================================================
+== Performance Estimates
+================================================================
++ Timing (ns): 
+    * Summary: 
+    +--------+-------+----------+------------+
+    |  Clock | Target| Estimated| Uncertainty|
+    +--------+-------+----------+------------+
+    |ap_clk  |  10.00|      7.27|        1.25|
+    +--------+-------+----------+------------+
+
++ Latency (clock cycles): 
+    * Summary: 
+    +-----+-----+-----+-----+----------+
+    |  Latency  |  Interval | Pipeline |
+    | min | max | min | max |   Type   |
+    +-----+-----+-----+-----+----------+
+    |    ?|    ?|    ?|    ?| dataflow |
+    +-----+-----+-----+-----+----------+
+
+    + Detail: 
+        * Instance: 
+        N/A
+
+        * Loop: 
+        N/A
+
+============================================================
++ Verbose Summary: Synthesis Manager
+============================================================
+InlineROM: 1
+ExposeGlobal: 0
+============================================================
++ Verbose Summary: CDFG Model
+============================================================
+IsTopModel: 1
+ResetActiveHigh: 1
+IsCombinational: 2
+IsDatapathOnly: 0
+HasWiredReturn: 1
+HasMFsm: 0
+HasVarLatency: 1
+IsPipeline: 0
+IsRtlPipelined: 0
+IsInstanceOverlapped: 0
+IsDontTouch: 0
+HasImplIP: 0
+IsGatedGlobalClock: 0
+
+
+============================================================
++ Verbose Summary: Schedule
+============================================================
+* Number of FSM states : 5
+* Pipeline : 0
+* Dataflow Pipeline: 1
+  DF-Pipeline-0: Size = 5, States = { 1 2 3 4 5 }
+
+* FSM state transitions: 
+1 --> 
+	2  / true
+2 --> 
+	3  / true
+3 --> 
+	4  / true
+4 --> 
+	5  / true
+5 --> 
+
+* FSM state operations: 
+
+ <State 1> : 0.00ns
+ST_1 : Operation 6 [1/1] (0.00ns)   --->   "%imgColor_cols_V_c41 = alloca i11, align 2"   --->   Core 32 'FIFO' <Latency = 0> <II = 1> <Delay = 3.63> <Storage> <Opcode : 'read' 'write' 'nbread' 'nbwrite'> <Ports = 0> <Width = 8> <Depth = 1> <FIFO>
+ST_1 : Operation 7 [1/1] (0.00ns)   --->   "%imgColor_rows_V_c40 = alloca i12, align 2"   --->   Core 32 'FIFO' <Latency = 0> <II = 1> <Delay = 3.63> <Storage> <Opcode : 'read' 'write' 'nbread' 'nbwrite'> <Ports = 0> <Width = 8> <Depth = 1> <FIFO>
+ST_1 : Operation 8 [1/1] (0.00ns)   --->   "%imgColor_cols_V_c = alloca i11, align 2"   --->   Core 32 'FIFO' <Latency = 0> <II = 1> <Delay = 3.63> <Storage> <Opcode : 'read' 'write' 'nbread' 'nbwrite'> <Ports = 0> <Width = 8> <Depth = 1> <FIFO>
+ST_1 : Operation 9 [1/1] (0.00ns)   --->   "%imgColor_rows_V_c = alloca i12, align 2"   --->   Core 32 'FIFO' <Latency = 0> <II = 1> <Delay = 3.63> <Storage> <Opcode : 'read' 'write' 'nbread' 'nbwrite'> <Ports = 0> <Width = 8> <Depth = 1> <FIFO>
+ST_1 : Operation 10 [1/1] (0.00ns)   --->   "%video_in_V_data_V = alloca i24, align 4" [project_tracking_on_soc/sources/main.cpp:7]
+ST_1 : Operation 11 [1/1] (0.00ns)   --->   "%video_in_V_keep_V = alloca i3, align 1" [project_tracking_on_soc/sources/main.cpp:7]
+ST_1 : Operation 12 [1/1] (0.00ns)   --->   "%video_in_V_strb_V = alloca i3, align 1" [project_tracking_on_soc/sources/main.cpp:7]
+ST_1 : Operation 13 [1/1] (0.00ns)   --->   "%video_in_V_user_V = alloca i1, align 1" [project_tracking_on_soc/sources/main.cpp:7]
+ST_1 : Operation 14 [1/1] (0.00ns)   --->   "%video_in_V_last_V = alloca i1, align 1" [project_tracking_on_soc/sources/main.cpp:7]
+ST_1 : Operation 15 [1/1] (0.00ns)   --->   "%video_in_V_id_V = alloca i1, align 1" [project_tracking_on_soc/sources/main.cpp:7]
+ST_1 : Operation 16 [1/1] (0.00ns)   --->   "%video_in_V_dest_V = alloca i1, align 1" [project_tracking_on_soc/sources/main.cpp:7]
+ST_1 : Operation 17 [1/1] (0.00ns)   --->   "%imgColor_data_stream = alloca i8, align 1" [project_tracking_on_soc/sources/main.cpp:30]   --->   Core 32 'FIFO' <Latency = 0> <II = 1> <Delay = 3.63> <Storage> <Opcode : 'read' 'write' 'nbread' 'nbwrite'> <Ports = 0> <Width = 8> <Depth = 1> <FIFO>
+ST_1 : Operation 18 [1/1] (0.00ns)   --->   "%imgColor_data_stream_1 = alloca i8, align 1" [project_tracking_on_soc/sources/main.cpp:30]   --->   Core 32 'FIFO' <Latency = 0> <II = 1> <Delay = 3.63> <Storage> <Opcode : 'read' 'write' 'nbread' 'nbwrite'> <Ports = 0> <Width = 8> <Depth = 1> <FIFO>
+ST_1 : Operation 19 [1/1] (0.00ns)   --->   "%imgColor_data_stream_2 = alloca i8, align 1" [project_tracking_on_soc/sources/main.cpp:30]   --->   Core 32 'FIFO' <Latency = 0> <II = 1> <Delay = 3.63> <Storage> <Opcode : 'read' 'write' 'nbread' 'nbwrite'> <Ports = 0> <Width = 8> <Depth = 1> <FIFO>
+ST_1 : Operation 20 [1/1] (0.00ns)   --->   "%imgNdg_data_stream_0 = alloca i8, align 1" [project_tracking_on_soc/sources/main.cpp:32]
+ST_1 : Operation 21 [1/1] (0.00ns)   --->   "call fastcc void @Block__proc(i12* %imgColor_rows_V_c, i11* %imgColor_cols_V_c) nounwind"   --->   Core 0 '' <Latency = 0> <II = 1> <Delay = 1.00> <Generic> <Opcode : >
+
+ <State 2> : 1.77ns
+ST_2 : Operation 22 [2/2] (1.76ns)   --->   "call fastcc void @AXIvideo2Mat(i24* %video_in_V_data_V, i3* %video_in_V_keep_V, i3* %video_in_V_strb_V, i1* %video_in_V_user_V, i1* %video_in_V_last_V, i1* %video_in_V_id_V, i1* %video_in_V_dest_V, i12* nocapture %imgColor_rows_V_c, i11* nocapture %imgColor_cols_V_c, i8* %imgColor_data_stream, i8* %imgColor_data_stream_1, i8* %imgColor_data_stream_2, i12* %imgColor_rows_V_c40, i11* %imgColor_cols_V_c41) nounwind" [project_tracking_on_soc/sources/main.cpp:31]   --->   Core 0 '' <Latency = 0> <II = 1> <Delay = 1.00> <Generic> <Opcode : >
+
+ <State 3> : 0.00ns
+ST_3 : Operation 23 [1/2] (0.00ns)   --->   "call fastcc void @AXIvideo2Mat(i24* %video_in_V_data_V, i3* %video_in_V_keep_V, i3* %video_in_V_strb_V, i1* %video_in_V_user_V, i1* %video_in_V_last_V, i1* %video_in_V_id_V, i1* %video_in_V_dest_V, i12* nocapture %imgColor_rows_V_c, i11* nocapture %imgColor_cols_V_c, i8* %imgColor_data_stream, i8* %imgColor_data_stream_1, i8* %imgColor_data_stream_2, i12* %imgColor_rows_V_c40, i11* %imgColor_cols_V_c41) nounwind" [project_tracking_on_soc/sources/main.cpp:31]   --->   Core 0 '' <Latency = 0> <II = 1> <Delay = 1.00> <Generic> <Opcode : >
+
+ <State 4> : 0.00ns
+ST_4 : Operation 24 [2/2] (0.00ns)   --->   "call fastcc void @colorToNdg(i12* nocapture %imgColor_rows_V_c40, i11* nocapture %imgColor_cols_V_c41, i8* %imgColor_data_stream, i8* %imgColor_data_stream_1, i8* %imgColor_data_stream_2, i8* %imgNdg_data_stream_0) nounwind" [project_tracking_on_soc/sources/main.cpp:34]   --->   Core 0 '' <Latency = 0> <II = 1> <Delay = 1.00> <Generic> <Opcode : >
+
+ <State 5> : 6.38ns
+ST_5 : Operation 25 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecDataflowPipeline(i32 -1, [1 x i8]* @p_str4) nounwind" [project_tracking_on_soc/sources/main.cpp:29]
+ST_5 : Operation 26 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecBitsMap(i32 0) nounwind, !map !112"
+ST_5 : Operation 27 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecTopModule([5 x i8]* @main_str) nounwind"
+ST_5 : Operation 28 [1/1] (0.00ns)   --->   "%empty = call i32 (...)* @_ssdm_op_SpecChannel([26 x i8]* @imgColor_OC_data_str_2, i32 1, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 1, i32 1, i8* %imgColor_data_stream, i8* %imgColor_data_stream) nounwind"
+ST_5 : Operation 29 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i8* %imgColor_data_stream, [8 x i8]* @ap_fifo_str, i32 0, i32 0, [1 x i8]* @p_str, i32 0, i32 0, [1 x i8]* @p_str, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str, [1 x i8]* @p_str)"
+ST_5 : Operation 30 [1/1] (0.00ns)   --->   "%empty_10 = call i32 (...)* @_ssdm_op_SpecChannel([26 x i8]* @imgColor_OC_data_str_1, i32 1, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 1, i32 1, i8* %imgColor_data_stream_1, i8* %imgColor_data_stream_1) nounwind"
+ST_5 : Operation 31 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i8* %imgColor_data_stream_1, [8 x i8]* @ap_fifo_str, i32 0, i32 0, [1 x i8]* @p_str, i32 0, i32 0, [1 x i8]* @p_str, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str, [1 x i8]* @p_str)"
+ST_5 : Operation 32 [1/1] (0.00ns)   --->   "%empty_11 = call i32 (...)* @_ssdm_op_SpecChannel([26 x i8]* @imgColor_OC_data_str, i32 1, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 1, i32 1, i8* %imgColor_data_stream_2, i8* %imgColor_data_stream_2) nounwind"
+ST_5 : Operation 33 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i8* %imgColor_data_stream_2, [8 x i8]* @ap_fifo_str, i32 0, i32 0, [1 x i8]* @p_str, i32 0, i32 0, [1 x i8]* @p_str, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str, [1 x i8]* @p_str)"
+ST_5 : Operation 34 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i32 0, [10 x i8]* @p_str6, i32 0, i32 0, [1 x i8]* @p_str4, i32 0, i32 0, [12 x i8]* @p_str7, [1 x i8]* @p_str4, [1 x i8]* @p_str4, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str4, [1 x i8]* @p_str4) nounwind" [project_tracking_on_soc/sources/main.cpp:17]
+ST_5 : Operation 35 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i32 300, [10 x i8]* @p_str6, i32 0, i32 0, [1 x i8]* @p_str4, i32 0, i32 0, [12 x i8]* @p_str7, [5 x i8]* @p_str8, [1 x i8]* @p_str4, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str4, [1 x i8]* @p_str4) nounwind" [project_tracking_on_soc/sources/main.cpp:19]
+ST_5 : Operation 36 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i32 300, [10 x i8]* @p_str6, i32 0, i32 0, [1 x i8]* @p_str4, i32 0, i32 0, [12 x i8]* @p_str7, [5 x i8]* @p_str9, [1 x i8]* @p_str4, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str4, [1 x i8]* @p_str4) nounwind" [project_tracking_on_soc/sources/main.cpp:20]
+ST_5 : Operation 37 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i32 300, [10 x i8]* @p_str10, i32 0, i32 0, [1 x i8]* @p_str4, i32 0, i32 0, [1 x i8]* @p_str4, [1 x i8]* @p_str4, [1 x i8]* @p_str4, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str4, [1 x i8]* @p_str4) nounwind" [project_tracking_on_soc/sources/main.cpp:21]
+ST_5 : Operation 38 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i32 300, [10 x i8]* @p_str10, i32 0, i32 0, [1 x i8]* @p_str4, i32 0, i32 0, [1 x i8]* @p_str4, [1 x i8]* @p_str4, [1 x i8]* @p_str4, i32 0, i32 0, i32 0, i32 0, [1 x i8]* @p_str4, [1 x i8]* @p_str4) nounwind" [project_tracking_on_soc/sources/main.cpp:22]
+ST_5 : Operation 39 [1/1] (0.00ns)   --->   "%empty_12 = call i32 (...)* @_ssdm_op_SpecChannel([18 x i8]* @imgColor_OC_rows_OC_1, i32 1, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 1, i32 0, i12* %imgColor_rows_V_c, i12* %imgColor_rows_V_c) nounwind"
+ST_5 : Operation 40 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i12* %imgColor_rows_V_c, [8 x i8]* @ap_fifo_str, i32 0, i32 0, [1 x i8]* @p_str, i32 0, i32 0, [1 x i8]* @p_str, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str, [1 x i8]* @p_str)"
+ST_5 : Operation 41 [1/1] (0.00ns)   --->   "%empty_13 = call i32 (...)* @_ssdm_op_SpecChannel([18 x i8]* @imgColor_OC_cols_OC_1, i32 1, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 1, i32 0, i11* %imgColor_cols_V_c, i11* %imgColor_cols_V_c) nounwind"
+ST_5 : Operation 42 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i11* %imgColor_cols_V_c, [8 x i8]* @ap_fifo_str, i32 0, i32 0, [1 x i8]* @p_str, i32 0, i32 0, [1 x i8]* @p_str, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str, [1 x i8]* @p_str)"
+ST_5 : Operation 43 [1/1] (0.00ns)   --->   "%empty_14 = call i32 (...)* @_ssdm_op_SpecChannel([20 x i8]* @imgColor_OC_rows_OC_s, i32 1, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 1, i32 0, i12* %imgColor_rows_V_c40, i12* %imgColor_rows_V_c40) nounwind"
+ST_5 : Operation 44 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i12* %imgColor_rows_V_c40, [8 x i8]* @ap_fifo_str, i32 0, i32 0, [1 x i8]* @p_str, i32 0, i32 0, [1 x i8]* @p_str, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str, [1 x i8]* @p_str)"
+ST_5 : Operation 45 [1/1] (0.00ns)   --->   "%empty_15 = call i32 (...)* @_ssdm_op_SpecChannel([20 x i8]* @imgColor_OC_cols_OC_s, i32 1, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 1, i32 0, i11* %imgColor_cols_V_c41, i11* %imgColor_cols_V_c41) nounwind"
+ST_5 : Operation 46 [1/1] (0.00ns)   --->   "call void (...)* @_ssdm_op_SpecInterface(i11* %imgColor_cols_V_c41, [8 x i8]* @ap_fifo_str, i32 0, i32 0, [1 x i8]* @p_str, i32 0, i32 0, [1 x i8]* @p_str, [1 x i8]* @p_str, [1 x i8]* @p_str, i32 2, i32 2, i32 16, i32 16, [1 x i8]* @p_str, [1 x i8]* @p_str)"
+ST_5 : Operation 47 [1/2] (6.38ns)   --->   "call fastcc void @colorToNdg(i12* nocapture %imgColor_rows_V_c40, i11* nocapture %imgColor_cols_V_c41, i8* %imgColor_data_stream, i8* %imgColor_data_stream_1, i8* %imgColor_data_stream_2, i8* %imgNdg_data_stream_0) nounwind" [project_tracking_on_soc/sources/main.cpp:34]   --->   Core 0 '' <Latency = 0> <II = 1> <Delay = 1.00> <Generic> <Opcode : >
+ST_5 : Operation 48 [1/1] (0.00ns)   --->   "ret i32 0" [project_tracking_on_soc/sources/main.cpp:35]
+
+
+============================================================
++ Verbose Summary: Timing violations
+============================================================
+Target clock period: 10ns, clock uncertainty: 1.25ns.
+
+ <State 1>: 0ns
+The critical path consists of the following:
+
+ <State 2>: 1.77ns
+The critical path consists of the following:
+	'call' operation (project_tracking_on_soc/sources/main.cpp:31) to 'AXIvideo2Mat' [39]  (1.77 ns)
+
+ <State 3>: 0ns
+The critical path consists of the following:
+
+ <State 4>: 0ns
+The critical path consists of the following:
+
+ <State 5>: 6.38ns
+The critical path consists of the following:
+	'call' operation (project_tracking_on_soc/sources/main.cpp:34) to 'colorToNdg' [40]  (6.38 ns)
+
+
+============================================================
++ Verbose Summary: Binding
+============================================================
+N/A
+* FSMD analyzer results:
+  - Output states:
+ - Input state : 
+  - Chain level:
+	State 1
+	State 2
+	State 3
+	State 4
+	State 5
+
+
+============================================================
++ Verbose Summary: Datapath Resource usage 
+============================================================
+N/A

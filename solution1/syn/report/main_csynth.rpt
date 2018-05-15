@@ -1,0 +1,158 @@
+
+
+================================================================
+== Vivado HLS Report for 'main'
+================================================================
+* Date:           Tue May 15 13:41:42 2018
+
+* Version:        2017.4.1 (Build 2117188 on Tue Jan 30 15:53:01 MST 2018)
+* Project:        project_tracking_on_soc
+* Solution:       solution1
+* Product family: zynq
+* Target device:  xc7z020clg484-1
+
+
+================================================================
+== Performance Estimates
+================================================================
++ Timing (ns): 
+    * Summary: 
+    +--------+-------+----------+------------+
+    |  Clock | Target| Estimated| Uncertainty|
+    +--------+-------+----------+------------+
+    |ap_clk  |  10.00|      7.27|        1.25|
+    +--------+-------+----------+------------+
+
++ Latency (clock cycles): 
+    * Summary: 
+    +-----+-----+-----+-----+----------+
+    |  Latency  |  Interval | Pipeline |
+    | min | max | min | max |   Type   |
+    +-----+-----+-----+-----+----------+
+    |    ?|    ?|    ?|    ?| dataflow |
+    +-----+-----+-----+-----+----------+
+
+    + Detail: 
+        * Instance: 
+        +-----------------+--------------+-----+--------+-----+--------+---------+
+        |                 |              |    Latency   |   Interval   | Pipeline|
+        |     Instance    |    Module    | min |   max  | min |   max  |   Type  |
+        +-----------------+--------------+-----+--------+-----+--------+---------+
+        |colorToNdg_U0    |colorToNdg    |    ?|       ?|    ?|       ?|   none  |
+        |AXIvideo2Mat_U0  |AXIvideo2Mat  |    3|  791555|    3|  791555|   none  |
+        |Block_proc_U0    |Block_proc    |    0|       0|    0|       0|   none  |
+        +-----------------+--------------+-----+--------+-----+--------+---------+
+
+        * Loop: 
+        N/A
+
+
+
+================================================================
+== Utilization Estimates
+================================================================
+* Summary: 
++-----------------+---------+-------+--------+-------+
+|       Name      | BRAM_18K| DSP48E|   FF   |  LUT  |
++-----------------+---------+-------+--------+-------+
+|DSP              |        -|      -|       -|      -|
+|Expression       |        -|      -|       0|      8|
+|FIFO             |        0|      -|      35|    154|
+|Instance         |        0|      1|     503|    841|
+|Memory           |        -|      -|       -|      -|
+|Multiplexer      |        -|      -|       -|      -|
+|Register         |        -|      -|       1|      -|
++-----------------+---------+-------+--------+-------+
+|Total            |        0|      1|     539|   1003|
++-----------------+---------+-------+--------+-------+
+|Available        |      280|    220|  106400|  53200|
++-----------------+---------+-------+--------+-------+
+|Utilization (%)  |        0|   ~0  |   ~0   |      1|
++-----------------+---------+-------+--------+-------+
+
++ Detail: 
+    * Instance: 
+    +--------------------------+------------------------+---------+-------+-----+-----+
+    |         Instance         |         Module         | BRAM_18K| DSP48E|  FF | LUT |
+    +--------------------------+------------------------+---------+-------+-----+-----+
+    |AXIvideo2Mat_U0           |AXIvideo2Mat            |        0|      0|  219|  418|
+    |Block_proc_U0             |Block_proc              |        0|      0|    2|   35|
+    |colorToNdg_U0             |colorToNdg              |        0|      1|  214|  284|
+    |main_CONTROL_BUS_s_axi_U  |main_CONTROL_BUS_s_axi  |        0|      0|   68|  104|
+    +--------------------------+------------------------+---------+-------+-----+-----+
+    |Total                     |                        |        0|      1|  503|  841|
+    +--------------------------+------------------------+---------+-------+-----+-----+
+
+    * DSP48: 
+    N/A
+
+    * Memory: 
+    N/A
+
+    * FIFO: 
+    +--------------------------+---------+---+----+------+-----+---------+
+    |           Name           | BRAM_18K| FF| LUT| Depth| Bits| Size:D*B|
+    +--------------------------+---------+---+----+------+-----+---------+
+    |imgColor_cols_V_c41_U     |        0|  5|  23|     1|   11|       11|
+    |imgColor_cols_V_c_U       |        0|  5|  23|     1|   11|       11|
+    |imgColor_data_stream_1_U  |        0|  5|  20|     1|    8|        8|
+    |imgColor_data_stream_2_U  |        0|  5|  20|     1|    8|        8|
+    |imgColor_data_stream_U    |        0|  5|  20|     1|    8|        8|
+    |imgColor_rows_V_c40_U     |        0|  5|  24|     1|   12|       12|
+    |imgColor_rows_V_c_U       |        0|  5|  24|     1|   12|       12|
+    +--------------------------+---------+---+----+------+-----+---------+
+    |Total                     |        0| 35| 154|     7|   70|       70|
+    +--------------------------+---------+---+----+------+-----+---------+
+
+    * Expression: 
+    +--------------+----------+-------+---+----+------------+------------+
+    | Variable Name| Operation| DSP48E| FF| LUT| Bitwidth P0| Bitwidth P1|
+    +--------------+----------+-------+---+----+------------+------------+
+    |ap_idle       |    and   |      0|  0|   8|           1|           1|
+    +--------------+----------+-------+---+----+------------+------------+
+    |Total         |          |      0|  0|   8|           1|           1|
+    +--------------+----------+-------+---+----+------------+------------+
+
+    * Multiplexer: 
+    N/A
+
+    * Register: 
+    +------------------------+---+----+-----+-----------+
+    |          Name          | FF| LUT| Bits| Const Bits|
+    +------------------------+---+----+-----+-----------+
+    |colorToNdg_U0_ap_start  |  1|   0|    1|          0|
+    +------------------------+---+----+-----+-----------+
+    |Total                   |  1|   0|    1|          0|
+    +------------------------+---+----+-----+-----------+
+
+
+
+================================================================
+== Interface
+================================================================
+* Summary: 
++---------------------------+-----+-----+------------+--------------+--------------+
+|         RTL Ports         | Dir | Bits|  Protocol  | Source Object|    C Type    |
++---------------------------+-----+-----+------------+--------------+--------------+
+|s_axi_CONTROL_BUS_AWVALID  |  in |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_AWREADY  | out |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_AWADDR   |  in |    5|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_WVALID   |  in |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_WREADY   | out |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_WDATA    |  in |   32|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_WSTRB    |  in |    4|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_ARVALID  |  in |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_ARREADY  | out |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_ARADDR   |  in |    5|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_RVALID   | out |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_RREADY   |  in |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_RDATA    | out |   32|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_RRESP    | out |    2|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_BVALID   | out |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_BREADY   |  in |    1|    s_axi   |  CONTROL_BUS | return value |
+|s_axi_CONTROL_BUS_BRESP    | out |    2|    s_axi   |  CONTROL_BUS | return value |
+|ap_clk                     |  in |    1| ap_ctrl_hs |     main     | return value |
+|ap_rst_n                   |  in |    1| ap_ctrl_hs |     main     | return value |
+|interrupt                  | out |    1| ap_ctrl_hs |     main     | return value |
++---------------------------+-----+-----+------------+--------------+--------------+
+
