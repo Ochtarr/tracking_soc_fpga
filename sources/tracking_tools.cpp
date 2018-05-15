@@ -34,3 +34,50 @@ void ndgToBinary(IMAGE_C1& imgNdg, IMAGE_C1& imgBinary)
 		}
 	}
 }
+
+// retourne un tableau de LEN_IMAGESET IMAGE_C1, LEN_IMAGESET must be a PAIR number
+void extractRefImage(IMAGE_C1[LEN_IMAGESET] setImage, IMAGE_C1& refImage, int rows, int cols)
+{
+	int cmpImage, cmpLig, cmpCol;
+	for( cmp=1; cmp<=(NB_IMAGE_TOTAL-1); cmp++)
+	{
+		for(cmpLig=0; cmpLig<=rows; cmpLig++)
+		{
+			for(cmpCol=0;cmpCol<=cols; cmpCol++)
+			{
+				int moy
+			}
+		}
+	}
+}
+
+int getMedian(int* tabPixels, long cols)
+{
+	int copieTabPixels[cols];
+	int cmpCol;
+		for(cmpCol=0; cmpCol<cols; cmpCol++)
+		{
+			copieTabPixels[cmpCol] = tabPixels[cmpCol];
+		}
+
+	for(cmpCol=0; cmpCol<cols; cmpCol++)
+	{
+		qsort(copieTabPixels, cols, sizeof(int), compare_int);
+	}
+
+	if(cols%2 == 0)
+		return copieTabPixels[cols/2];
+	if(cols%2 == 1)
+		return copieTabPixels[cols/2+1];
+}
+
+int compare_int(const void* a, const void* b)
+{
+    int arg1 = *(const int*)a;
+    int arg2 = *(const int*)b;
+ 
+    if (arg1 < arg2) return -1;
+    if (arg1 > arg2) return 1;
+    return 0;
+}
+

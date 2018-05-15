@@ -1,3 +1,6 @@
+// used to disable possible scan of filename
+// relates to "cannot execute testbench"
+
 #include <stdio.h>
 
 #include "traitement.h"
