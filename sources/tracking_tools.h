@@ -1,9 +1,16 @@
+
+#ifndef TRACKING_TOOLS_
+#define TRACKING_TOOLS_
+
 #include "hls_video.h"
 
 #include <stdlib.h>
 
 #define MAX_HEIGHT 1024
 #define MAX_WIDTH 768
+#define SEUIL_BINARISATION 200
+
+//template<int ROWS, int COLS, int T>
 
 // typedef video library core structures
 typedef hls::stream<ap_axiu<24,1,1,1> >               AXI_STREAM;
@@ -17,3 +24,6 @@ typedef hls::Scalar<3, unsigned char> PIXEL_COLOR;
 typedef hls::Scalar<1, unsigned char> PIXEL_GRAY;
 
 void colorToNdg(IMAGE_C3& imgColor, IMAGE_C1& imgNdg);
+void ndgToBinary(IMAGE_C1& imgNdg, IMAGE_C1& imgBinary);
+
+#endif

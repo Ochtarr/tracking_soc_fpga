@@ -1,17 +1,17 @@
-# 1 "project_tracking_on_soc/sources/tracking_tools.cpp"
-# 1 "project_tracking_on_soc/sources/tracking_tools.cpp" 1
-# 1 "<built-in>" 1
-# 1 "<built-in>" 3
-# 155 "<built-in>" 3
-# 1 "<command line>" 1
+#1 "project_tracking_on_soc/sources/traitement.cpp"
+#1 "project_tracking_on_soc/sources/traitement.cpp" 1
+#1 "<built-in>" 1
+#1 "<built-in>" 3
+#155 "<built-in>" 3
+#1 "<command line>" 1
 
 
 
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_ssdm_op.h" 1
-# 156 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_ssdm_op.h" 1
+#156 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 extern "C" {
 
 
@@ -141,30 +141,30 @@ extern "C" {
 
 
 }
-# 8 "<command line>" 2
-# 1 "<built-in>" 2
-# 1 "project_tracking_on_soc/sources/tracking_tools.cpp" 2
-# 1 "project_tracking_on_soc/sources/tracking_tools.h" 1
+#8 "<command line>" 2
+#1 "<built-in>" 2
+#1 "project_tracking_on_soc/sources/traitement.cpp" 2
+#1 "project_tracking_on_soc/sources/traitement.h" 1
 
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 1
-# 48 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 1
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_axi_sdata.h" 1
-# 86 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_axi_sdata.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 1
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h" 1
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 1
+#48 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 1
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_axi_sdata.h" 1
+#86 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_axi_sdata.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 1
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h" 1
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 1 3
-# 153 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 1 3
+#153 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 3
 namespace std
 {
   typedef long unsigned int size_t;
@@ -174,36 +174,36 @@ namespace std
 
 
 }
-# 393 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/os_defines.h" 1 3
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/os_defines.h" 3
-# 1 "/usr/include/features.h" 1 3 4
-# 345 "/usr/include/features.h" 3 4
-# 1 "/usr/include/stdc-predef.h" 1 3 4
-# 346 "/usr/include/features.h" 2 3 4
-# 375 "/usr/include/features.h" 3 4
-# 1 "/usr/include/sys/cdefs.h" 1 3 4
-# 392 "/usr/include/sys/cdefs.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 393 "/usr/include/sys/cdefs.h" 2 3 4
-# 376 "/usr/include/features.h" 2 3 4
-# 399 "/usr/include/features.h" 3 4
-# 1 "/usr/include/gnu/stubs.h" 1 3 4
-# 10 "/usr/include/gnu/stubs.h" 3 4
-# 1 "/usr/include/gnu/stubs-64.h" 1 3 4
-# 11 "/usr/include/gnu/stubs.h" 2 3 4
-# 400 "/usr/include/features.h" 2 3 4
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/os_defines.h" 2 3
-# 394 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 2 3
+#393 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/os_defines.h" 1 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/os_defines.h" 3
+#1 "/usr/include/features.h" 1 3 4
+#345 "/usr/include/features.h" 3 4
+#1 "/usr/include/stdc-predef.h" 1 3 4
+#346 "/usr/include/features.h" 2 3 4
+#375 "/usr/include/features.h" 3 4
+#1 "/usr/include/sys/cdefs.h" 1 3 4
+#392 "/usr/include/sys/cdefs.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#393 "/usr/include/sys/cdefs.h" 2 3 4
+#376 "/usr/include/features.h" 2 3 4
+#399 "/usr/include/features.h" 3 4
+#1 "/usr/include/gnu/stubs.h" 1 3 4
+#10 "/usr/include/gnu/stubs.h" 3 4
+#1 "/usr/include/gnu/stubs-64.h" 1 3 4
+#11 "/usr/include/gnu/stubs.h" 2 3 4
+#400 "/usr/include/features.h" 2 3 4
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/os_defines.h" 2 3
+#394 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 2 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/cpu_defines.h" 1 3
-# 397 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 2 3
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 1 3
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
-# 68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/cpu_defines.h" 1 3
+#397 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++config.h" 2 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 1 3
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
+#68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
 namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
@@ -316,7 +316,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       enum { __value = 1 };
       typedef __true_type __type;
     };
-# 198 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
+#198 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
   template<>
     struct __is_integer<short>
     {
@@ -527,12 +527,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
       enum { __value = 0 };
       typedef __false_type __type;
     };
-# 422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
+#422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cpp_type_traits.h" 3
 }
-# 44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/type_traits.h" 1 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/type_traits.h" 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/type_traits.h" 3
+#44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/type_traits.h" 1 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/type_traits.h" 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/type_traits.h" 3
 
 
 
@@ -712,40 +712,41 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
-# 1 "/usr/include/math.h" 1 3 4
-# 29 "/usr/include/math.h" 3 4
+#45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
+extern "C" {
+#1 "/usr/include/math.h" 1 3 4
+#29 "/usr/include/math.h" 3 4
 extern "C" {
 
 
 
 
-# 1 "/usr/include/bits/huge_val.h" 1 3 4
-# 34 "/usr/include/math.h" 2 3 4
+#1 "/usr/include/bits/huge_val.h" 1 3 4
+#34 "/usr/include/math.h" 2 3 4
 
-# 1 "/usr/include/bits/huge_valf.h" 1 3 4
-# 36 "/usr/include/math.h" 2 3 4
-# 1 "/usr/include/bits/huge_vall.h" 1 3 4
-# 37 "/usr/include/math.h" 2 3 4
-
-
-# 1 "/usr/include/bits/inf.h" 1 3 4
-# 40 "/usr/include/math.h" 2 3 4
+#1 "/usr/include/bits/huge_valf.h" 1 3 4
+#36 "/usr/include/math.h" 2 3 4
+#1 "/usr/include/bits/huge_vall.h" 1 3 4
+#37 "/usr/include/math.h" 2 3 4
 
 
-# 1 "/usr/include/bits/nan.h" 1 3 4
-# 43 "/usr/include/math.h" 2 3 4
+#1 "/usr/include/bits/inf.h" 1 3 4
+#40 "/usr/include/math.h" 2 3 4
+
+
+#1 "/usr/include/bits/nan.h" 1 3 4
+#43 "/usr/include/math.h" 2 3 4
 
 
 
-# 1 "/usr/include/bits/mathdef.h" 1 3 4
-# 28 "/usr/include/bits/mathdef.h" 3 4
+#1 "/usr/include/bits/mathdef.h" 1 3 4
+#28 "/usr/include/bits/mathdef.h" 3 4
 typedef float float_t;
 typedef double double_t;
-# 47 "/usr/include/math.h" 2 3 4
-# 70 "/usr/include/math.h" 3 4
-# 1 "/usr/include/bits/mathcalls.h" 1 3 4
-# 54 "/usr/include/bits/mathcalls.h" 3 4
+#47 "/usr/include/math.h" 2 3 4
+#70 "/usr/include/math.h" 3 4
+#1 "/usr/include/bits/mathcalls.h" 1 3 4
+#54 "/usr/include/bits/mathcalls.h" 3 4
 extern double acos (double __x) throw (); extern double __acos (double __x) throw ();
 
 extern double asin (double __x) throw (); extern double __asin (double __x) throw ();
@@ -838,7 +839,7 @@ extern double exp2 (double __x) throw (); extern double __exp2 (double __x) thro
 
 
 extern double log2 (double __x) throw (); extern double __log2 (double __x) throw ();
-# 154 "/usr/include/bits/mathcalls.h" 3 4
+#154 "/usr/include/bits/mathcalls.h" 3 4
 extern double pow (double __x, double __y) throw (); extern double __pow (double __x, double __y) throw ();
 
 
@@ -856,7 +857,7 @@ extern double hypot (double __x, double __y) throw (); extern double __hypot (do
 
 
 extern double cbrt (double __x) throw (); extern double __cbrt (double __x) throw ();
-# 179 "/usr/include/bits/mathcalls.h" 3 4
+#179 "/usr/include/bits/mathcalls.h" 3 4
 extern double ceil (double __x) throw () __attribute__ ((__const__)); extern double __ceil (double __x) throw () __attribute__ ((__const__));
 
 
@@ -1034,12 +1035,12 @@ extern int __signbit (double __value) throw ()
 
 
 extern double fma (double __x, double __y, double __z) throw (); extern double __fma (double __x, double __y, double __z) throw ();
-# 364 "/usr/include/bits/mathcalls.h" 3 4
+#364 "/usr/include/bits/mathcalls.h" 3 4
 extern double scalb (double __x, double __n) throw (); extern double __scalb (double __x, double __n) throw ();
-# 71 "/usr/include/math.h" 2 3 4
-# 89 "/usr/include/math.h" 3 4
-# 1 "/usr/include/bits/mathcalls.h" 1 3 4
-# 54 "/usr/include/bits/mathcalls.h" 3 4
+#71 "/usr/include/math.h" 2 3 4
+#89 "/usr/include/math.h" 3 4
+#1 "/usr/include/bits/mathcalls.h" 1 3 4
+#54 "/usr/include/bits/mathcalls.h" 3 4
 extern float acosf (float __x) throw (); extern float __acosf (float __x) throw ();
 
 extern float asinf (float __x) throw (); extern float __asinf (float __x) throw ();
@@ -1132,7 +1133,7 @@ extern float exp2f (float __x) throw (); extern float __exp2f (float __x) throw 
 
 
 extern float log2f (float __x) throw (); extern float __log2f (float __x) throw ();
-# 154 "/usr/include/bits/mathcalls.h" 3 4
+#154 "/usr/include/bits/mathcalls.h" 3 4
 extern float powf (float __x, float __y) throw (); extern float __powf (float __x, float __y) throw ();
 
 
@@ -1150,7 +1151,7 @@ extern float hypotf (float __x, float __y) throw (); extern float __hypotf (floa
 
 
 extern float cbrtf (float __x) throw (); extern float __cbrtf (float __x) throw ();
-# 179 "/usr/include/bits/mathcalls.h" 3 4
+#179 "/usr/include/bits/mathcalls.h" 3 4
 extern float ceilf (float __x) throw () __attribute__ ((__const__)); extern float __ceilf (float __x) throw () __attribute__ ((__const__));
 
 
@@ -1328,12 +1329,12 @@ extern int __signbitf (float __value) throw ()
 
 
 extern float fmaf (float __x, float __y, float __z) throw (); extern float __fmaf (float __x, float __y, float __z) throw ();
-# 364 "/usr/include/bits/mathcalls.h" 3 4
+#364 "/usr/include/bits/mathcalls.h" 3 4
 extern float scalbf (float __x, float __n) throw (); extern float __scalbf (float __x, float __n) throw ();
-# 90 "/usr/include/math.h" 2 3 4
-# 133 "/usr/include/math.h" 3 4
-# 1 "/usr/include/bits/mathcalls.h" 1 3 4
-# 54 "/usr/include/bits/mathcalls.h" 3 4
+#90 "/usr/include/math.h" 2 3 4
+#133 "/usr/include/math.h" 3 4
+#1 "/usr/include/bits/mathcalls.h" 1 3 4
+#54 "/usr/include/bits/mathcalls.h" 3 4
 extern long double acosl (long double __x) throw (); extern long double __acosl (long double __x) throw ();
 
 extern long double asinl (long double __x) throw (); extern long double __asinl (long double __x) throw ();
@@ -1426,7 +1427,7 @@ extern long double exp2l (long double __x) throw (); extern long double __exp2l 
 
 
 extern long double log2l (long double __x) throw (); extern long double __log2l (long double __x) throw ();
-# 154 "/usr/include/bits/mathcalls.h" 3 4
+#154 "/usr/include/bits/mathcalls.h" 3 4
 extern long double powl (long double __x, long double __y) throw (); extern long double __powl (long double __x, long double __y) throw ();
 
 
@@ -1444,7 +1445,7 @@ extern long double hypotl (long double __x, long double __y) throw (); extern lo
 
 
 extern long double cbrtl (long double __x) throw (); extern long double __cbrtl (long double __x) throw ();
-# 179 "/usr/include/bits/mathcalls.h" 3 4
+#179 "/usr/include/bits/mathcalls.h" 3 4
 extern long double ceill (long double __x) throw () __attribute__ ((__const__)); extern long double __ceill (long double __x) throw () __attribute__ ((__const__));
 
 
@@ -1622,12 +1623,12 @@ extern int __signbitl (long double __value) throw ()
 
 
 extern long double fmal (long double __x, long double __y, long double __z) throw (); extern long double __fmal (long double __x, long double __y, long double __z) throw ();
-# 364 "/usr/include/bits/mathcalls.h" 3 4
+#364 "/usr/include/bits/mathcalls.h" 3 4
 extern long double scalbl (long double __x, long double __n) throw (); extern long double __scalbl (long double __x, long double __n) throw ();
-# 134 "/usr/include/math.h" 2 3 4
-# 149 "/usr/include/math.h" 3 4
+#134 "/usr/include/math.h" 2 3 4
+#149 "/usr/include/math.h" 3 4
 extern int signgam;
-# 190 "/usr/include/math.h" 3 4
+#190 "/usr/include/math.h" 3 4
 enum
   {
     FP_NAN =
@@ -1646,7 +1647,7 @@ enum
 
       4
   };
-# 288 "/usr/include/math.h" 3 4
+#288 "/usr/include/math.h" 3 4
 typedef enum
 {
   _IEEE_ = -1,
@@ -1660,7 +1661,7 @@ typedef enum
 
 
 extern _LIB_VERSION_TYPE _LIB_VERSION;
-# 311 "/usr/include/math.h" 3 4
+#311 "/usr/include/math.h" 3 4
 struct __exception
 
 
@@ -1675,10 +1676,13 @@ struct __exception
 
 
 extern int matherr (struct __exception *__exc) throw ();
-# 475 "/usr/include/math.h" 3 4
+#475 "/usr/include/math.h" 3 4
 }
-# 46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
-# 76 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
+#46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 2 3
+}
+#46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath"
+
+#76 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
 
@@ -2065,10 +2069,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 480 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
+#480 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 730 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
+#730 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
   template<typename _Tp>
     inline typename __gnu_cxx::__enable_if<__is_arithmetic<_Tp>::__value,
         int>::__type
@@ -2182,7 +2186,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h" 2
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h" 2
 using std::fpclassify;
 using std::isfinite;
 
@@ -2205,7 +2209,7 @@ using std::isunordered;
 
 
 typedef __fp16 half;
-# 3274 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h"
+#3274 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_half.h"
 extern half half_nan(const char *tagp);
 
 
@@ -2277,30 +2281,30 @@ extern half half_fmod(half x, half y);
 extern half half_remainder(half x, half y);
 extern half half_remquo(half x, half y, int* quo);
 extern half half_divide(half x, half y);
-# 61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 1
-# 68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 1 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 3
+#61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 1
+#68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 1 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 1 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 1 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 1 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 1 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 1 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 1 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 3
 
 
 
@@ -2332,58 +2336,58 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<> struct char_traits<wchar_t>;
 
   typedef basic_string<wchar_t> wstring;
-# 85 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 3
+#85 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stringfwd.h" 3
 }
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 1 3
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 1 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
-
-
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
 
 
-# 1 "/usr/include/wchar.h" 1 3 4
-# 36 "/usr/include/wchar.h" 3 4
-# 1 "/usr/include/stdio.h" 1 3 4
-# 44 "/usr/include/stdio.h" 3 4
+
+
+#1 "/usr/include/wchar.h" 1 3 4
+#36 "/usr/include/wchar.h" 3 4
+#1 "/usr/include/stdio.h" 1 3 4
+#44 "/usr/include/stdio.h" 3 4
 struct _IO_FILE;
 
 
 
 typedef struct _IO_FILE FILE;
-# 64 "/usr/include/stdio.h" 3 4
+#64 "/usr/include/stdio.h" 3 4
 typedef struct _IO_FILE __FILE;
-# 37 "/usr/include/wchar.h" 2 3 4
+#37 "/usr/include/wchar.h" 2 3 4
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdarg.h" 1 3 4
-# 30 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdarg.h" 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdarg.h" 1 3 4
+#30 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdarg.h" 3 4
 typedef __builtin_va_list va_list;
-# 48 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdarg.h" 3 4
+#48 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdarg.h" 3 4
 typedef __builtin_va_list __gnuc_va_list;
-# 40 "/usr/include/wchar.h" 2 3 4
+#40 "/usr/include/wchar.h" 2 3 4
 
-# 1 "/usr/include/bits/wchar.h" 1 3 4
-# 22 "/usr/include/bits/wchar.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 23 "/usr/include/bits/wchar.h" 2 3 4
-# 42 "/usr/include/wchar.h" 2 3 4
-# 51 "/usr/include/wchar.h" 3 4
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 31 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 3 4
+#1 "/usr/include/bits/wchar.h" 1 3 4
+#22 "/usr/include/bits/wchar.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#23 "/usr/include/bits/wchar.h" 2 3 4
+#42 "/usr/include/wchar.h" 2 3 4
+#51 "/usr/include/wchar.h" 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#31 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 3 4
 typedef __typeof__(((int*)0)-((int*)0)) ptrdiff_t;
 
 
 
 typedef __typeof__(sizeof(int)) size_t;
-# 61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 3 4
+#61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 3 4
 typedef unsigned int wint_t;
-# 52 "/usr/include/wchar.h" 2 3 4
-# 82 "/usr/include/wchar.h" 3 4
+#52 "/usr/include/wchar.h" 2 3 4
+#82 "/usr/include/wchar.h" 3 4
 typedef struct
 {
   int __count;
@@ -2397,16 +2401,16 @@ typedef struct
     char __wchb[4];
   } __value;
 } __mbstate_t;
-# 106 "/usr/include/wchar.h" 3 4
+#106 "/usr/include/wchar.h" 3 4
 typedef __mbstate_t mbstate_t;
-# 132 "/usr/include/wchar.h" 3 4
+#132 "/usr/include/wchar.h" 3 4
 extern "C" {
 
 
 
 
 struct tm;
-# 147 "/usr/include/wchar.h" 3 4
+#147 "/usr/include/wchar.h" 3 4
 extern wchar_t *wcscpy (wchar_t *__restrict __dest,
    const wchar_t *__restrict __src) throw ();
 
@@ -2441,8 +2445,8 @@ extern int wcsncasecmp (const wchar_t *__s1, const wchar_t *__s2,
 
 
 
-# 1 "/usr/include/xlocale.h" 1 3 4
-# 27 "/usr/include/xlocale.h" 3 4
+#1 "/usr/include/xlocale.h" 1 3 4
+#27 "/usr/include/xlocale.h" 3 4
 typedef struct __locale_struct
 {
 
@@ -2455,11 +2459,15 @@ typedef struct __locale_struct
 
 
   const char *__names[13];
+
+public :
+inline __attribute__((always_inline)) __locale_struct() { _ssdm_SpecConstant(__names);  }
+#39 "/usr/include/xlocale.h"
 } *__locale_t;
 
 
 typedef __locale_t locale_t;
-# 181 "/usr/include/wchar.h" 2 3 4
+#181 "/usr/include/wchar.h" 2 3 4
 
 extern int wcscasecmp_l (const wchar_t *__s1, const wchar_t *__s2,
     __locale_t __loc) throw ();
@@ -2477,7 +2485,7 @@ extern int wcscoll (const wchar_t *__s1, const wchar_t *__s2) throw ();
 
 extern size_t wcsxfrm (wchar_t *__restrict __s1,
          const wchar_t *__restrict __s2, size_t __n) throw ();
-# 206 "/usr/include/wchar.h" 3 4
+#206 "/usr/include/wchar.h" 3 4
 extern int wcscoll_l (const wchar_t *__s1, const wchar_t *__s2,
         __locale_t __loc) throw ();
 
@@ -2489,10 +2497,10 @@ extern size_t wcsxfrm_l (wchar_t *__s1, const wchar_t *__s2,
 
 
 extern wchar_t *wcsdup (const wchar_t *__s) throw () __attribute__ ((__malloc__));
-# 227 "/usr/include/wchar.h" 3 4
+#227 "/usr/include/wchar.h" 3 4
 extern wchar_t *wcschr (const wchar_t *__wcs, wchar_t __wc)
      throw () __attribute__ ((__pure__));
-# 237 "/usr/include/wchar.h" 3 4
+#237 "/usr/include/wchar.h" 3 4
 extern wchar_t *wcsrchr (const wchar_t *__wcs, wchar_t __wc)
      throw () __attribute__ ((__pure__));
 
@@ -2514,10 +2522,10 @@ extern size_t wcscspn (const wchar_t *__wcs, const wchar_t *__reject)
 
 extern size_t wcsspn (const wchar_t *__wcs, const wchar_t *__accept)
      throw () __attribute__ ((__pure__));
-# 266 "/usr/include/wchar.h" 3 4
+#266 "/usr/include/wchar.h" 3 4
 extern wchar_t *wcspbrk (const wchar_t *__wcs, const wchar_t *__accept)
      throw () __attribute__ ((__pure__));
-# 277 "/usr/include/wchar.h" 3 4
+#277 "/usr/include/wchar.h" 3 4
 extern wchar_t *wcsstr (const wchar_t *__haystack, const wchar_t *__needle)
      throw () __attribute__ ((__pure__));
 
@@ -2529,7 +2537,7 @@ extern wchar_t *wcstok (wchar_t *__restrict __s,
 
 
 extern size_t wcslen (const wchar_t *__s) throw () __attribute__ ((__pure__));
-# 299 "/usr/include/wchar.h" 3 4
+#299 "/usr/include/wchar.h" 3 4
 extern wchar_t *wcswcs (const wchar_t *__haystack, const wchar_t *__needle)
      throw () __attribute__ ((__pure__));
 
@@ -2539,7 +2547,7 @@ extern wchar_t *wcswcs (const wchar_t *__haystack, const wchar_t *__needle)
 
 extern size_t wcsnlen (const wchar_t *__s, size_t __maxlen)
      throw () __attribute__ ((__pure__));
-# 320 "/usr/include/wchar.h" 3 4
+#320 "/usr/include/wchar.h" 3 4
 extern wchar_t *wmemchr (const wchar_t *__s, wchar_t __c, size_t __n)
      throw () __attribute__ ((__pure__));
 
@@ -2598,7 +2606,7 @@ extern size_t __mbrlen (const char *__restrict __s, size_t __n,
    mbstate_t *__restrict __ps) throw ();
 extern size_t mbrlen (const char *__restrict __s, size_t __n,
         mbstate_t *__restrict __ps) throw ();
-# 408 "/usr/include/wchar.h" 3 4
+#408 "/usr/include/wchar.h" 3 4
 extern size_t mbsrtowcs (wchar_t *__restrict __dst,
     const char **__restrict __src, size_t __len,
     mbstate_t *__restrict __ps) throw ();
@@ -2701,7 +2709,7 @@ __extension__
 extern unsigned long long int wcstouq (const wchar_t *__restrict __nptr,
            wchar_t **__restrict __endptr,
            int __base) throw ();
-# 530 "/usr/include/wchar.h" 3 4
+#530 "/usr/include/wchar.h" 3 4
 extern long int wcstol_l (const wchar_t *__restrict __nptr,
      wchar_t **__restrict __endptr, int __base,
      __locale_t __loc) throw ();
@@ -2820,7 +2828,7 @@ extern int wscanf (const wchar_t *__restrict __format, ...)
 extern int swscanf (const wchar_t *__restrict __s,
       const wchar_t *__restrict __format, ...)
      throw () ;
-# 689 "/usr/include/wchar.h" 3 4
+#689 "/usr/include/wchar.h" 3 4
 extern int vfwscanf (__FILE *__restrict __s,
        const wchar_t *__restrict __format,
        __gnuc_va_list __arg)
@@ -2837,7 +2845,7 @@ extern int vswscanf (const wchar_t *__restrict __s,
        const wchar_t *__restrict __format,
        __gnuc_va_list __arg)
      throw () ;
-# 745 "/usr/include/wchar.h" 3 4
+#745 "/usr/include/wchar.h" 3 4
 extern wint_t fgetwc (__FILE *__stream);
 extern wint_t getwc (__FILE *__stream);
 
@@ -2883,7 +2891,7 @@ extern int fputws (const wchar_t *__restrict __ws,
 
 
 extern wint_t ungetwc (wint_t __wc, __FILE *__stream);
-# 801 "/usr/include/wchar.h" 3 4
+#801 "/usr/include/wchar.h" 3 4
 extern wint_t getwc_unlocked (__FILE *__stream);
 extern wint_t getwchar_unlocked (void);
 
@@ -2902,10 +2910,10 @@ extern wint_t fgetwc_unlocked (__FILE *__stream);
 
 
 extern wint_t fputwc_unlocked (wchar_t __wc, __FILE *__stream);
-# 827 "/usr/include/wchar.h" 3 4
+#827 "/usr/include/wchar.h" 3 4
 extern wint_t putwc_unlocked (wchar_t __wc, __FILE *__stream);
 extern wint_t putwchar_unlocked (wchar_t __wc);
-# 837 "/usr/include/wchar.h" 3 4
+#837 "/usr/include/wchar.h" 3 4
 extern wchar_t *fgetws_unlocked (wchar_t *__restrict __ws, int __n,
      __FILE *__restrict __stream);
 
@@ -2938,15 +2946,15 @@ extern size_t wcsftime_l (wchar_t *__restrict __s, size_t __maxsize,
      const wchar_t *__restrict __format,
      const struct tm *__restrict __tp,
      __locale_t __loc) throw ();
-# 891 "/usr/include/wchar.h" 3 4
+#891 "/usr/include/wchar.h" 3 4
 }
-# 46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 2 3
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
+#46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 2 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
 namespace std
 {
   using ::mbstate_t;
 }
-# 136 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
+#136 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
 
@@ -3061,7 +3069,7 @@ namespace __gnu_cxx
 
 
   using ::wcstold;
-# 258 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
+#258 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
   using ::wcstoll;
   using ::wcstoull;
 
@@ -3073,15 +3081,15 @@ namespace std
   using ::__gnu_cxx::wcstoll;
   using ::__gnu_cxx::wcstoull;
 }
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 2 3
-# 69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 2 3
+#69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 89 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#89 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
   typedef long streamoff;
-# 99 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#99 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
   typedef ptrdiff_t streamsize;
-# 112 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#112 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
   template<typename _StateT>
     class fpos
     {
@@ -3096,7 +3104,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       fpos()
       : _M_off(0), _M_state() { }
-# 134 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#134 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
       fpos(streamoff __off)
       : _M_off(__off), _M_state() { }
 
@@ -3195,13 +3203,13 @@ namespace std __attribute__ ((__visibility__ ("default")))
   typedef fpos<mbstate_t> streampos;
 
   typedef fpos<mbstate_t> wstreampos;
-# 241 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
+#241 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/postypes.h" 3
 }
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 2 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 75 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 3
+#75 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iosfwd" 3
   class ios_base;
 
   template<typename _CharT, typename _Traits = char_traits<_CharT> >
@@ -3337,10 +3345,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 1 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 1 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
 
 #pragma GCC visibility push(default)
 
@@ -3350,7 +3358,7 @@ extern "C++" {
 
 namespace std
 {
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
   class exception
   {
   public:
@@ -3396,7 +3404,7 @@ namespace std
 
 
   void unexpected() __attribute__ ((__noreturn__));
-# 117 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
+#117 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
   bool uncaught_exception() throw() __attribute__ ((__pure__));
 
 
@@ -3404,7 +3412,7 @@ namespace std
 
 namespace __gnu_cxx
 {
-# 142 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
+#142 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/exception" 3
   void __verbose_terminate_handler();
 
 
@@ -3413,17 +3421,17 @@ namespace __gnu_cxx
 }
 
 #pragma GCC visibility pop
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 1 3
-# 61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/functexcept.h" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/functexcept.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/exception_defines.h" 1 3
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/functexcept.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 1 3
+#61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/functexcept.h" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/functexcept.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/exception_defines.h" 1 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/functexcept.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -3488,19 +3496,19 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
+#62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 1 3
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 1 3
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
 
 
 
 
 namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
-# 53 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
+#53 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
   template<typename _Value>
     struct __numeric_traits_integer
     {
@@ -3525,7 +3533,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
   template<typename _Value>
     const int __numeric_traits_integer<_Value>::__digits;
-# 98 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
+#98 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/numeric_traits.h" 3
   template<typename _Value>
     struct __numeric_traits_floating
     {
@@ -3559,15 +3567,15 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 1 3
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 1 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/concept_check.h" 1 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/concept_check.h" 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/concept_check.h" 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 2 3
+#65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 1 3
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 1 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/concept_check.h" 1 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/concept_check.h" 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/concept_check.h" 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -3584,10 +3592,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 109 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 3
+#109 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 120 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 3
+#120 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/move.h" 3
   template<typename _Tp>
     inline void
     swap(_Tp& __a, _Tp& __b)
@@ -3612,7 +3620,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 2 3
+#61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 2 3
 
 
 
@@ -3620,7 +3628,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 86 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
+#86 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
   template<class _T1, class _T2>
     struct pair
     {
@@ -3645,7 +3653,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       template<class _U1, class _U2>
                     pair(const pair<_U1, _U2>& __p)
  : first(__p.first), second(__p.second) { }
-# 196 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
+#196 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
     };
 
 
@@ -3684,7 +3692,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     inline bool
     operator>=(const pair<_T1, _T2>& __x, const pair<_T1, _T2>& __y)
     { return !(__x < __y); }
-# 270 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
+#270 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_pair.h" 3
   template<class _T1, class _T2>
     inline pair<_T1, _T2>
     make_pair(_T1 __x, _T2 __y)
@@ -3693,10 +3701,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 1 3
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
+#66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 1 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
 
 
 
@@ -3706,7 +3714,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 89 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
+#89 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
   struct input_iterator_tag { };
 
 
@@ -3722,7 +3730,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
   struct random_access_iterator_tag : public bidirectional_iterator_tag { };
-# 116 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
+#116 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
   template<typename _Category, typename _Tp, typename _Distance = ptrdiff_t,
            typename _Pointer = _Tp*, typename _Reference = _Tp&>
     struct iterator
@@ -3738,7 +3746,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       typedef _Reference reference;
     };
-# 162 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
+#162 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_types.h" 3
   template<typename _Iterator>
     struct iterator_traits
     {
@@ -3803,10 +3811,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 1 3
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
+#67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 1 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
 
 
 
@@ -3841,7 +3849,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       return __last - __first;
     }
-# 110 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
+#110 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
   template<typename _InputIterator>
     inline typename iterator_traits<_InputIterator>::difference_type
     distance(_InputIterator __first, _InputIterator __last)
@@ -3887,7 +3895,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       __i += __n;
     }
-# 168 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
+#168 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
   template<typename _InputIterator, typename _Distance>
     inline void
     advance(_InputIterator& __i, _Distance __n)
@@ -3896,14 +3904,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
       typename iterator_traits<_InputIterator>::difference_type __d = __n;
       std::__advance(__i, __d, std::__iterator_category(__i));
     }
-# 200 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
+#200 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator_base_funcs.h" 3
 }
-# 68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 1 3
-# 68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 1 3
+#68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 96 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#96 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Iterator>
     class reverse_iterator
     : public iterator<typename iterator_traits<_Iterator>::iterator_category,
@@ -4080,7 +4088,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator[](difference_type __n) const
       { return *(*this + __n); }
     };
-# 283 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#283 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Iterator>
     inline bool
     operator==(const reverse_iterator<_Iterator>& __x,
@@ -4180,7 +4188,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
        const reverse_iterator<_IteratorR>& __y)
 
     { return __y.base() - __x.base(); }
-# 395 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#395 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Container>
     class back_insert_iterator
     : public iterator<output_iterator_tag, void, void, void, void>
@@ -4195,14 +4203,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       explicit
       back_insert_iterator(_Container& __x) : container(&__x) { }
-# 422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
       back_insert_iterator&
       operator=(typename _Container::const_reference __value)
       {
  container->push_back(__value);
  return *this;
       }
-# 445 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#445 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
       back_insert_iterator&
       operator*()
       { return *this; }
@@ -4217,12 +4225,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator++(int)
       { return *this; }
     };
-# 471 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#471 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Container>
     inline back_insert_iterator<_Container>
     back_inserter(_Container& __x)
     { return back_insert_iterator<_Container>(__x); }
-# 486 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#486 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Container>
     class front_insert_iterator
     : public iterator<output_iterator_tag, void, void, void, void>
@@ -4236,14 +4244,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
       explicit front_insert_iterator(_Container& __x) : container(&__x) { }
-# 512 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#512 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
       front_insert_iterator&
       operator=(typename _Container::const_reference __value)
       {
  container->push_front(__value);
  return *this;
       }
-# 535 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#535 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
       front_insert_iterator&
       operator*()
       { return *this; }
@@ -4258,12 +4266,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator++(int)
       { return *this; }
     };
-# 561 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#561 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Container>
     inline front_insert_iterator<_Container>
     front_inserter(_Container& __x)
     { return front_insert_iterator<_Container>(__x); }
-# 580 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#580 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Container>
     class insert_iterator
     : public iterator<output_iterator_tag, void, void, void, void>
@@ -4282,7 +4290,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       insert_iterator(_Container& __x, typename _Container::iterator __i)
       : container(&__x), iter(__i) {}
-# 623 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#623 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
       insert_iterator&
       operator=(typename _Container::const_reference __value)
       {
@@ -4290,7 +4298,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  ++iter;
  return *this;
       }
-# 649 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#649 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
       insert_iterator&
       operator*()
       { return *this; }
@@ -4305,7 +4313,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator++(int)
       { return *this; }
     };
-# 675 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#675 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _Container, typename _Iterator>
     inline insert_iterator<_Container>
     inserter(_Container& __x, _Iterator __i)
@@ -4321,7 +4329,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
-# 699 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#699 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   using std::iterator_traits;
   using std::iterator;
   template<typename _Iterator, typename _Container>
@@ -4410,7 +4418,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
       base() const
       { return _M_current; }
     };
-# 797 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
+#797 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_iterator.h" 3
   template<typename _IteratorL, typename _IteratorR, typename _Container>
     inline bool
     operator==(const __normal_iterator<_IteratorL, _Container>& __lhs,
@@ -4516,10 +4524,10 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
+#69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/debug/debug.h" 1 3
-# 47 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/debug/debug.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/debug/debug.h" 1 3
+#47 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/debug/debug.h" 3
 namespace std
 {
   namespace __debug { }
@@ -4532,7 +4540,7 @@ namespace __gnu_debug
 {
   using namespace std::__debug;
 }
-# 71 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
+#71 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 2 3
 
 
 namespace std __attribute__ ((__visibility__ ("default")))
@@ -4567,7 +4575,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
           swap(*__a, *__b);
         }
     };
-# 116 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#116 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _ForwardIterator1, typename _ForwardIterator2>
     inline void
     iter_swap(_ForwardIterator1 __a, _ForwardIterator2 __b)
@@ -4576,7 +4584,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  _ValueType1;
       typedef typename iterator_traits<_ForwardIterator2>::value_type
  _ValueType2;
-# 135 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#135 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
       typedef typename iterator_traits<_ForwardIterator1>::reference
  _ReferenceType1;
       typedef typename iterator_traits<_ForwardIterator2>::reference
@@ -4586,7 +4594,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  && __are_same<_ValueType2&, _ReferenceType2>::__value>::
  iter_swap(__a, __b);
     }
-# 157 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#157 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _ForwardIterator1, typename _ForwardIterator2>
     _ForwardIterator2
     swap_ranges(_ForwardIterator1 __first1, _ForwardIterator1 __last1,
@@ -4603,7 +4611,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  std::iter_swap(__first1, __first2);
       return __first2;
     }
-# 185 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#185 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _Tp>
     inline const _Tp&
     min(const _Tp& __a, const _Tp& __b)
@@ -4615,7 +4623,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  return __b;
       return __a;
     }
-# 208 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#208 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _Tp>
     inline const _Tp&
     max(const _Tp& __a, const _Tp& __b)
@@ -4627,7 +4635,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  return __b;
       return __a;
     }
-# 231 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#231 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _Tp, typename _Compare>
     inline const _Tp&
     min(const _Tp& __a, const _Tp& __b, _Compare __comp)
@@ -4637,7 +4645,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  return __b;
       return __a;
     }
-# 252 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#252 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _Tp, typename _Compare>
     inline const _Tp&
     max(const _Tp& __a, const _Tp& __b, _Compare __comp)
@@ -4689,7 +4697,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    return __result;
  }
     };
-# 319 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#319 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<>
     struct __copy_move<false, false, random_access_iterator_tag>
     {
@@ -4707,7 +4715,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    return __result;
  }
     };
-# 357 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#357 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<bool _IsMove>
     struct __copy_move<_IsMove, true, random_access_iterator_tag>
     {
@@ -4775,7 +4783,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
           std::__niter_base(__last),
           std::__niter_base(__result)));
     }
-# 442 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#442 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _II, typename _OI>
     inline _OI
     copy(_II __first, _II __last, _OI __result)
@@ -4790,7 +4798,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
        (std::__miter_base(__first), std::__miter_base(__last),
         __result));
     }
-# 494 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#494 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<bool, bool, typename>
     struct __copy_move_backward
     {
@@ -4803,7 +4811,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    return __result;
  }
     };
-# 522 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#522 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<>
     struct __copy_move_backward<false, false, random_access_iterator_tag>
     {
@@ -4817,7 +4825,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    return __result;
  }
     };
-# 552 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#552 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<bool _IsMove>
     struct __copy_move_backward<_IsMove, true, random_access_iterator_tag>
     {
@@ -4858,7 +4866,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     (std::__niter_base(__first), std::__niter_base(__last),
      std::__niter_base(__result)));
     }
-# 611 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#611 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _BI1, typename _BI2>
     inline _BI2
     copy_backward(_BI1 __first, _BI1 __last, _BI2 __result)
@@ -4875,7 +4883,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
        (std::__miter_base(__first), std::__miter_base(__last),
         __result));
     }
-# 669 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#669 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _ForwardIterator, typename _Tp>
     inline typename
     __gnu_cxx::__enable_if<!__is_scalar<_Tp>::__value, void>::__type
@@ -4907,7 +4915,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __builtin_memset(__first, static_cast<unsigned char>(__tmp),
          __last - __first);
     }
-# 713 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#713 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _ForwardIterator, typename _Tp>
     inline void
     fill(_ForwardIterator __first, _ForwardIterator __last, const _Tp& __value)
@@ -4952,7 +4960,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       std::__fill_a(__first, __first + __n, __c);
       return __first + __n;
     }
-# 773 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#773 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _OI, typename _Size, typename _Tp>
     inline _OI
     fill_n(_OI __first, _Size __n, const _Tp& __value)
@@ -5102,7 +5110,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       return std::__lexicographical_compare<__simple>::__lc(__first1, __last1,
            __first2, __last2);
     }
-# 934 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#934 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _ForwardIterator, typename _Tp>
     _ForwardIterator
     lower_bound(_ForwardIterator __first, _ForwardIterator __last,
@@ -5160,7 +5168,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   inline long long
   __lg(long long __n)
   { return sizeof(long long) * 8 - 1 - __builtin_clzll(__n); }
-# 1008 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#1008 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _II1, typename _II2>
     inline bool
     equal(_II1 __first1, _II1 __last1, _II2 __first2)
@@ -5177,7 +5185,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
          std::__niter_base(__last1),
          std::__niter_base(__first2));
     }
-# 1040 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#1040 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _IIter1, typename _IIter2, typename _BinaryPredicate>
     inline bool
     equal(_IIter1 __first1, _IIter1 __last1,
@@ -5193,7 +5201,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    return false;
       return true;
     }
-# 1071 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#1071 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _II1, typename _II2>
     inline bool
     lexicographical_compare(_II1 __first1, _II1 __last1,
@@ -5214,7 +5222,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       std::__niter_base(__first2),
       std::__niter_base(__last2));
     }
-# 1105 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#1105 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _II1, typename _II2, typename _Compare>
     bool
     lexicographical_compare(_II1 __first1, _II1 __last1,
@@ -5241,7 +5249,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  }
       return __first1 == __last1 && __first2 != __last2;
     }
-# 1145 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#1145 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _InputIterator1, typename _InputIterator2>
     pair<_InputIterator1, _InputIterator2>
     mismatch(_InputIterator1 __first1, _InputIterator1 __last1,
@@ -5262,7 +5270,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
         }
       return pair<_InputIterator1, _InputIterator2>(__first1, __first2);
     }
-# 1182 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
+#1182 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_algobase.h" 3
   template<typename _InputIterator1, typename _InputIterator2,
     typename _BinaryPredicate>
     pair<_InputIterator1, _InputIterator2>
@@ -5284,22 +5292,22 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 2 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 2 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
-
-
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 3
 
 
-# 1 "/usr/include/wchar.h" 1 3 4
-# 46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 2 3
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 2 3
+
+
+#1 "/usr/include/wchar.h" 1 3 4
+#46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwchar" 2 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 2 3
 
 namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
-# 58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
+#58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
   template<typename _CharT>
     struct _Char_types
     {
@@ -5308,7 +5316,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
       typedef std::streamoff off_type;
       typedef std::mbstate_t state_type;
     };
-# 83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
+#83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
   template<typename _CharT>
     struct char_traits
     {
@@ -5438,7 +5446,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 227 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
+#227 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/char_traits.h" 3
   template<class _CharT>
     struct char_traits : public __gnu_cxx::char_traits<_CharT>
     { };
@@ -5585,30 +5593,30 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 1 3
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 3
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 1 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 3
 
 
-# 1 "/usr/include/locale.h" 1 3 4
-# 29 "/usr/include/locale.h" 3 4
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 30 "/usr/include/locale.h" 2 3 4
-# 1 "/usr/include/bits/locale.h" 1 3 4
-# 31 "/usr/include/locale.h" 2 3 4
+#1 "/usr/include/locale.h" 1 3 4
+#29 "/usr/include/locale.h" 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#30 "/usr/include/locale.h" 2 3 4
+#1 "/usr/include/bits/locale.h" 1 3 4
+#31 "/usr/include/locale.h" 2 3 4
 
 extern "C" {
-# 54 "/usr/include/locale.h" 3 4
+#54 "/usr/include/locale.h" 3 4
 struct lconv
 {
 
@@ -5668,7 +5676,7 @@ struct lconv
 
   char int_p_sign_posn;
   char int_n_sign_posn;
-# 121 "/usr/include/locale.h" 3 4
+#121 "/usr/include/locale.h" 3 4
 };
 
 
@@ -5677,10 +5685,10 @@ extern char *setlocale (int __category, const char *__locale) throw ();
 
 
 extern struct lconv *localeconv (void) throw ();
-# 152 "/usr/include/locale.h" 3 4
+#152 "/usr/include/locale.h" 3 4
 extern __locale_t newlocale (int __category_mask, const char *__locale,
         __locale_t __base) throw ();
-# 187 "/usr/include/locale.h" 3 4
+#187 "/usr/include/locale.h" 3 4
 extern __locale_t duplocale (__locale_t __dataset) throw ();
 
 
@@ -5701,7 +5709,7 @@ extern __locale_t uselocale (__locale_t __dataset) throw ();
 
 
 }
-# 44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 2 3
+#44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/clocale" 2 3
 
 
 
@@ -5716,7 +5724,7 @@ namespace std
   using ::setlocale;
   using ::localeconv;
 }
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 2 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 2 3
 
 
 
@@ -5751,7 +5759,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   {
 
     __c_locale __old = __gnu_cxx::__uselocale(__cloc);
-# 88 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 3
+#88 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++locale.h" 3
     __builtin_va_list __args;
     __builtin_va_start(__args, __fmt);
 
@@ -5777,19 +5785,19 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 2 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 2 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
 
 
-# 1 "/usr/include/ctype.h" 1 3 4
-# 27 "/usr/include/ctype.h" 3 4
-# 1 "/usr/include/bits/types.h" 1 3 4
-# 27 "/usr/include/bits/types.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 28 "/usr/include/bits/types.h" 2 3 4
+#1 "/usr/include/ctype.h" 1 3 4
+#27 "/usr/include/ctype.h" 3 4
+#1 "/usr/include/bits/types.h" 1 3 4
+#27 "/usr/include/bits/types.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#28 "/usr/include/bits/types.h" 2 3 4
 
 
 typedef unsigned char __u_char;
@@ -5816,9 +5824,9 @@ typedef unsigned long int __uint64_t;
 
 typedef long int __quad_t;
 typedef unsigned long int __u_quad_t;
-# 130 "/usr/include/bits/types.h" 3 4
-# 1 "/usr/include/bits/typesizes.h" 1 3 4
-# 131 "/usr/include/bits/types.h" 2 3 4
+#130 "/usr/include/bits/types.h" 3 4
+#1 "/usr/include/bits/typesizes.h" 1 3 4
+#131 "/usr/include/bits/types.h" 2 3 4
 
 
 typedef unsigned long int __dev_t;
@@ -5887,29 +5895,29 @@ typedef long int __intptr_t;
 
 
 typedef unsigned int __socklen_t;
-# 28 "/usr/include/ctype.h" 2 3 4
+#28 "/usr/include/ctype.h" 2 3 4
 
 extern "C" {
-# 40 "/usr/include/ctype.h" 3 4
-# 1 "/usr/include/endian.h" 1 3 4
-# 36 "/usr/include/endian.h" 3 4
-# 1 "/usr/include/bits/endian.h" 1 3 4
-# 37 "/usr/include/endian.h" 2 3 4
-# 60 "/usr/include/endian.h" 3 4
-# 1 "/usr/include/bits/byteswap.h" 1 3 4
-# 28 "/usr/include/bits/byteswap.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 29 "/usr/include/bits/byteswap.h" 2 3 4
+#40 "/usr/include/ctype.h" 3 4
+#1 "/usr/include/endian.h" 1 3 4
+#36 "/usr/include/endian.h" 3 4
+#1 "/usr/include/bits/endian.h" 1 3 4
+#37 "/usr/include/endian.h" 2 3 4
+#60 "/usr/include/endian.h" 3 4
+#1 "/usr/include/bits/byteswap.h" 1 3 4
+#28 "/usr/include/bits/byteswap.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#29 "/usr/include/bits/byteswap.h" 2 3 4
 
 
 
 
 
 
-# 1 "/usr/include/bits/byteswap-16.h" 1 3 4
-# 36 "/usr/include/bits/byteswap.h" 2 3 4
-# 61 "/usr/include/endian.h" 2 3 4
-# 41 "/usr/include/ctype.h" 2 3 4
+#1 "/usr/include/bits/byteswap-16.h" 1 3 4
+#36 "/usr/include/bits/byteswap.h" 2 3 4
+#61 "/usr/include/endian.h" 2 3 4
+#41 "/usr/include/ctype.h" 2 3 4
 
 
 
@@ -5931,14 +5939,14 @@ enum
   _ISpunct = ((10) < 8 ? ((1 << (10)) << 8) : ((1 << (10)) >> 8)),
   _ISalnum = ((11) < 8 ? ((1 << (11)) << 8) : ((1 << (11)) >> 8))
 };
-# 80 "/usr/include/ctype.h" 3 4
+#80 "/usr/include/ctype.h" 3 4
 extern const unsigned short int **__ctype_b_loc (void)
      throw () __attribute__ ((__const__));
 extern const __int32_t **__ctype_tolower_loc (void)
      throw () __attribute__ ((__const__));
 extern const __int32_t **__ctype_toupper_loc (void)
      throw () __attribute__ ((__const__));
-# 111 "/usr/include/ctype.h" 3 4
+#111 "/usr/include/ctype.h" 3 4
 extern int isalnum (int) throw ();
 extern int isalpha (int) throw ();
 extern int iscntrl (int) throw ();
@@ -5957,7 +5965,7 @@ extern int tolower (int __c) throw ();
 
 
 extern int toupper (int __c) throw ();
-# 137 "/usr/include/ctype.h" 3 4
+#137 "/usr/include/ctype.h" 3 4
 extern int isblank (int) throw ();
 
 
@@ -5982,7 +5990,7 @@ extern int toascii (int __c) throw ();
 
 extern int _toupper (int) throw ();
 extern int _tolower (int) throw ();
-# 272 "/usr/include/ctype.h" 3 4
+#272 "/usr/include/ctype.h" 3 4
 extern int isalnum_l (int, __locale_t) throw ();
 extern int isalpha_l (int, __locale_t) throw ();
 extern int iscntrl_l (int, __locale_t) throw ();
@@ -6005,10 +6013,10 @@ extern int tolower_l (int __c, __locale_t __l) throw ();
 
 extern int __toupper_l (int __c, __locale_t __l) throw ();
 extern int toupper_l (int __c, __locale_t __l) throw ();
-# 348 "/usr/include/ctype.h" 3 4
+#348 "/usr/include/ctype.h" 3 4
 }
-# 44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 2 3
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
+#44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 2 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
 namespace std
 {
   using ::isalnum;
@@ -6025,11 +6033,11 @@ namespace std
   using ::tolower;
   using ::toupper;
 }
-# 44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 2 3
+#44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 56 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 3
+#56 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/localefwd.h" 3
   class locale;
 
   template<typename _Facet>
@@ -6164,38 +6172,38 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 1 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 1 3
-# 30 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 1 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 1 3
+#30 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 3
 #pragma GCC visibility push(default)
-# 170 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
-# 1 "/usr/include/pthread.h" 1 3 4
-# 23 "/usr/include/pthread.h" 3 4
-# 1 "/usr/include/sched.h" 1 3 4
-# 29 "/usr/include/sched.h" 3 4
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 30 "/usr/include/sched.h" 2 3 4
+#170 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
+#1 "/usr/include/pthread.h" 1 3 4
+#23 "/usr/include/pthread.h" 3 4
+#1 "/usr/include/sched.h" 1 3 4
+#29 "/usr/include/sched.h" 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#30 "/usr/include/sched.h" 2 3 4
 
 
 
-# 1 "/usr/include/time.h" 1 3 4
-# 75 "/usr/include/time.h" 3 4
+#1 "/usr/include/time.h" 1 3 4
+#75 "/usr/include/time.h" 3 4
 typedef __time_t time_t;
-# 120 "/usr/include/time.h" 3 4
+#120 "/usr/include/time.h" 3 4
 struct timespec
   {
     __time_t tv_sec;
     __syscall_slong_t tv_nsec;
   };
-# 34 "/usr/include/sched.h" 2 3 4
+#34 "/usr/include/sched.h" 2 3 4
 
 
 typedef __pid_t pid_t;
@@ -6205,8 +6213,8 @@ typedef __pid_t pid_t;
 
 
 
-# 1 "/usr/include/bits/sched.h" 1 3 4
-# 73 "/usr/include/bits/sched.h" 3 4
+#1 "/usr/include/bits/sched.h" 1 3 4
+#73 "/usr/include/bits/sched.h" 3 4
 struct sched_param
   {
     int __sched_priority;
@@ -6242,7 +6250,7 @@ struct __sched_param
   {
     int __sched_priority;
   };
-# 119 "/usr/include/bits/sched.h" 3 4
+#119 "/usr/include/bits/sched.h" 3 4
 typedef unsigned long int __cpu_mask;
 
 
@@ -6254,7 +6262,7 @@ typedef struct
 {
   __cpu_mask __bits[1024 / (8 * sizeof (__cpu_mask))];
 } cpu_set_t;
-# 202 "/usr/include/bits/sched.h" 3 4
+#202 "/usr/include/bits/sched.h" 3 4
 extern "C" {
 
 extern int __sched_cpucount (size_t __setsize, const cpu_set_t *__setp)
@@ -6263,7 +6271,7 @@ extern cpu_set_t *__sched_cpualloc (size_t __count) throw () ;
 extern void __sched_cpufree (cpu_set_t *__set) throw ();
 
 }
-# 43 "/usr/include/sched.h" 2 3 4
+#43 "/usr/include/sched.h" 2 3 4
 
 
 
@@ -6295,7 +6303,7 @@ extern int sched_get_priority_min (int __algorithm) throw ();
 
 
 extern int sched_rr_get_interval (__pid_t __pid, struct timespec *__t) throw ();
-# 117 "/usr/include/sched.h" 3 4
+#117 "/usr/include/sched.h" 3 4
 extern int sched_setaffinity (__pid_t __pid, size_t __cpusetsize,
          const cpu_set_t *__cpuset) throw ();
 
@@ -6305,9 +6313,9 @@ extern int sched_getaffinity (__pid_t __pid, size_t __cpusetsize,
 
 
 }
-# 24 "/usr/include/pthread.h" 2 3 4
-# 1 "/usr/include/time.h" 1 3 4
-# 29 "/usr/include/time.h" 3 4
+#24 "/usr/include/pthread.h" 2 3 4
+#1 "/usr/include/time.h" 1 3 4
+#29 "/usr/include/time.h" 3 4
 extern "C" {
 
 
@@ -6317,21 +6325,21 @@ extern "C" {
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 38 "/usr/include/time.h" 2 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#38 "/usr/include/time.h" 2 3 4
 
 
 
-# 1 "/usr/include/bits/time.h" 1 3 4
-# 30 "/usr/include/bits/time.h" 3 4
+#1 "/usr/include/bits/time.h" 1 3 4
+#30 "/usr/include/bits/time.h" 3 4
 struct timeval
   {
     __time_t tv_sec;
     __suseconds_t tv_usec;
   };
-# 86 "/usr/include/bits/time.h" 3 4
-# 1 "/usr/include/bits/timex.h" 1 3 4
-# 25 "/usr/include/bits/timex.h" 3 4
+#86 "/usr/include/bits/time.h" 3 4
+#1 "/usr/include/bits/timex.h" 1 3 4
+#25 "/usr/include/bits/timex.h" 3 4
 struct timex
 {
   unsigned int modes;
@@ -6361,7 +6369,7 @@ struct timex
   int :32; int :32; int :32; int :32;
   int :32; int :32; int :32;
 };
-# 87 "/usr/include/bits/time.h" 2 3 4
+#87 "/usr/include/bits/time.h" 2 3 4
 
 extern "C" {
 
@@ -6369,14 +6377,14 @@ extern "C" {
 extern int clock_adjtime (__clockid_t __clock_id, struct timex *__utx) throw ();
 
 }
-# 42 "/usr/include/time.h" 2 3 4
-# 59 "/usr/include/time.h" 3 4
+#42 "/usr/include/time.h" 2 3 4
+#59 "/usr/include/time.h" 3 4
 typedef __clock_t clock_t;
-# 91 "/usr/include/time.h" 3 4
+#91 "/usr/include/time.h" 3 4
 typedef __clockid_t clockid_t;
-# 103 "/usr/include/time.h" 3 4
+#103 "/usr/include/time.h" 3 4
 typedef __timer_t timer_t;
-# 133 "/usr/include/time.h" 3 4
+#133 "/usr/include/time.h" 3 4
 struct tm
 {
   int tm_sec;
@@ -6397,7 +6405,7 @@ struct tm
 
 
 };
-# 161 "/usr/include/time.h" 3 4
+#161 "/usr/include/time.h" 3 4
 struct itimerspec
   {
     struct timespec it_interval;
@@ -6406,7 +6414,7 @@ struct itimerspec
 
 
 struct sigevent;
-# 189 "/usr/include/time.h" 3 4
+#189 "/usr/include/time.h" 3 4
 extern clock_t clock (void) throw ();
 
 
@@ -6523,7 +6531,7 @@ extern long int timezone;
 
 
 extern int stime (const time_t *__when) throw ();
-# 319 "/usr/include/time.h" 3 4
+#319 "/usr/include/time.h" 3 4
 extern time_t timegm (struct tm *__tp) throw ();
 
 
@@ -6531,7 +6539,7 @@ extern time_t timelocal (struct tm *__tp) throw ();
 
 
 extern int dysize (int __year) throw () __attribute__ ((__const__));
-# 334 "/usr/include/time.h" 3 4
+#334 "/usr/include/time.h" 3 4
 extern int nanosleep (const struct timespec *__requested_time,
         struct timespec *__remaining);
 
@@ -6586,23 +6594,23 @@ extern int timer_getoverrun (timer_t __timerid) throw ();
 
 extern int timespec_get (struct timespec *__ts, int __base)
      throw () __attribute__ ((__nonnull__ (1)));
-# 403 "/usr/include/time.h" 3 4
+#403 "/usr/include/time.h" 3 4
 extern int getdate_err;
-# 412 "/usr/include/time.h" 3 4
+#412 "/usr/include/time.h" 3 4
 extern struct tm *getdate (const char *__string);
-# 426 "/usr/include/time.h" 3 4
+#426 "/usr/include/time.h" 3 4
 extern int getdate_r (const char *__restrict __string,
         struct tm *__restrict __resbufp);
 
 
 }
-# 25 "/usr/include/pthread.h" 2 3 4
+#25 "/usr/include/pthread.h" 2 3 4
 
-# 1 "/usr/include/bits/pthreadtypes.h" 1 3 4
-# 21 "/usr/include/bits/pthreadtypes.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 22 "/usr/include/bits/pthreadtypes.h" 2 3 4
-# 60 "/usr/include/bits/pthreadtypes.h" 3 4
+#1 "/usr/include/bits/pthreadtypes.h" 1 3 4
+#21 "/usr/include/bits/pthreadtypes.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#22 "/usr/include/bits/pthreadtypes.h" 2 3 4
+#60 "/usr/include/bits/pthreadtypes.h" 3 4
 typedef unsigned long int pthread_t;
 
 
@@ -6623,7 +6631,7 @@ typedef struct __pthread_internal_list
   struct __pthread_internal_list *__prev;
   struct __pthread_internal_list *__next;
 } __pthread_list_t;
-# 90 "/usr/include/bits/pthreadtypes.h" 3 4
+#90 "/usr/include/bits/pthreadtypes.h" 3 4
 typedef union
 {
   struct __pthread_mutex_s
@@ -6641,7 +6649,7 @@ typedef union
     short __spins;
     short __elision;
     __pthread_list_t __list;
-# 124 "/usr/include/bits/pthreadtypes.h" 3 4
+#124 "/usr/include/bits/pthreadtypes.h" 3 4
   } __data;
   char __size[40];
   long int __align;
@@ -6711,7 +6719,7 @@ typedef union
     unsigned int __flags;
 
   } __data;
-# 211 "/usr/include/bits/pthreadtypes.h" 3 4
+#211 "/usr/include/bits/pthreadtypes.h" 3 4
   char __size[56];
   long int __align;
 } pthread_rwlock_t;
@@ -6742,19 +6750,19 @@ typedef union
   char __size[4];
   int __align;
 } pthread_barrierattr_t;
-# 27 "/usr/include/pthread.h" 2 3 4
-# 1 "/usr/include/bits/setjmp.h" 1 3 4
-# 26 "/usr/include/bits/setjmp.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 27 "/usr/include/bits/setjmp.h" 2 3 4
+#27 "/usr/include/pthread.h" 2 3 4
+#1 "/usr/include/bits/setjmp.h" 1 3 4
+#26 "/usr/include/bits/setjmp.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#27 "/usr/include/bits/setjmp.h" 2 3 4
 
 
 
 
 typedef long int __jmp_buf[8];
-# 28 "/usr/include/pthread.h" 2 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 29 "/usr/include/pthread.h" 2 3 4
+#28 "/usr/include/pthread.h" 2 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#29 "/usr/include/pthread.h" 2 3 4
 
 
 
@@ -6808,7 +6816,7 @@ enum
   PTHREAD_PRIO_INHERIT,
   PTHREAD_PRIO_PROTECT
 };
-# 125 "/usr/include/pthread.h" 3 4
+#125 "/usr/include/pthread.h" 3 4
 enum
 {
   PTHREAD_RWLOCK_PREFER_READER_NP,
@@ -6816,7 +6824,7 @@ enum
   PTHREAD_RWLOCK_PREFER_WRITER_NONRECURSIVE_NP,
   PTHREAD_RWLOCK_DEFAULT_NP = PTHREAD_RWLOCK_PREFER_READER_NP
 };
-# 166 "/usr/include/pthread.h" 3 4
+#166 "/usr/include/pthread.h" 3 4
 enum
 {
   PTHREAD_INHERIT_SCHED,
@@ -6844,7 +6852,7 @@ enum
   PTHREAD_PROCESS_SHARED
 
 };
-# 201 "/usr/include/pthread.h" 3 4
+#201 "/usr/include/pthread.h" 3 4
 struct _pthread_cleanup_buffer
 {
   void (*__routine) (void *);
@@ -6868,7 +6876,7 @@ enum
   PTHREAD_CANCEL_ASYNCHRONOUS
 
 };
-# 239 "/usr/include/pthread.h" 3 4
+#239 "/usr/include/pthread.h" 3 4
 extern "C" {
 
 
@@ -7115,10 +7123,10 @@ extern int pthread_setaffinity_np (pthread_t __th, size_t __cpusetsize,
 extern int pthread_getaffinity_np (pthread_t __th, size_t __cpusetsize,
        cpu_set_t *__cpuset)
      throw () __attribute__ ((__nonnull__ (3)));
-# 497 "/usr/include/pthread.h" 3 4
+#497 "/usr/include/pthread.h" 3 4
 extern int pthread_once (pthread_once_t *__once_control,
     void (*__init_routine) (void)) __attribute__ ((__nonnull__ (1, 2)));
-# 509 "/usr/include/pthread.h" 3 4
+#509 "/usr/include/pthread.h" 3 4
 extern int pthread_setcancelstate (int __state, int *__oldstate);
 
 
@@ -7145,7 +7153,7 @@ typedef struct
   } __cancel_jmp_buf[1];
   void *__pad[4];
 } __pthread_unwind_buf_t __attribute__ ((__aligned__));
-# 543 "/usr/include/pthread.h" 3 4
+#543 "/usr/include/pthread.h" 3 4
 struct __pthread_cleanup_frame
 {
   void (*__cancel_routine) (void *);
@@ -7153,16 +7161,16 @@ struct __pthread_cleanup_frame
   int __do_it;
   int __cancel_type;
 };
-# 683 "/usr/include/pthread.h" 3 4
+#683 "/usr/include/pthread.h" 3 4
 extern void __pthread_register_cancel (__pthread_unwind_buf_t *__buf)
                             ;
-# 695 "/usr/include/pthread.h" 3 4
+#695 "/usr/include/pthread.h" 3 4
 extern void __pthread_unregister_cancel (__pthread_unwind_buf_t *__buf)
                          ;
-# 718 "/usr/include/pthread.h" 3 4
+#718 "/usr/include/pthread.h" 3 4
 extern void __pthread_register_cancel_defer (__pthread_unwind_buf_t *__buf)
                             ;
-# 731 "/usr/include/pthread.h" 3 4
+#731 "/usr/include/pthread.h" 3 4
 extern void __pthread_unregister_cancel_restore (__pthread_unwind_buf_t *__buf)
                          ;
 
@@ -7233,7 +7241,7 @@ extern int pthread_mutex_consistent (pthread_mutex_t *__mutex)
 
 extern int pthread_mutex_consistent_np (pthread_mutex_t *__mutex)
      throw () __attribute__ ((__nonnull__ (1)));
-# 809 "/usr/include/pthread.h" 3 4
+#809 "/usr/include/pthread.h" 3 4
 extern int pthread_mutexattr_init (pthread_mutexattr_t *__attr)
      throw () __attribute__ ((__nonnull__ (1)));
 
@@ -7307,7 +7315,7 @@ extern int pthread_mutexattr_setrobust (pthread_mutexattr_t *__attr,
 extern int pthread_mutexattr_setrobust_np (pthread_mutexattr_t *__attr,
         int __robustness)
      throw () __attribute__ ((__nonnull__ (1)));
-# 891 "/usr/include/pthread.h" 3 4
+#891 "/usr/include/pthread.h" 3 4
 extern int pthread_rwlock_init (pthread_rwlock_t *__restrict __rwlock,
     const pthread_rwlockattr_t *__restrict
     __attr) throw () __attribute__ ((__nonnull__ (1)));
@@ -7412,7 +7420,7 @@ extern int pthread_cond_broadcast (pthread_cond_t *__cond)
 extern int pthread_cond_wait (pthread_cond_t *__restrict __cond,
          pthread_mutex_t *__restrict __mutex)
      __attribute__ ((__nonnull__ (1, 2)));
-# 1003 "/usr/include/pthread.h" 3 4
+#1003 "/usr/include/pthread.h" 3 4
 extern int pthread_cond_timedwait (pthread_cond_t *__restrict __cond,
        pthread_mutex_t *__restrict __mutex,
        const struct timespec *__restrict __abstime)
@@ -7449,7 +7457,7 @@ extern int pthread_condattr_getclock (const pthread_condattr_t *
 extern int pthread_condattr_setclock (pthread_condattr_t *__attr,
           __clockid_t __clock_id)
      throw () __attribute__ ((__nonnull__ (1)));
-# 1047 "/usr/include/pthread.h" 3 4
+#1047 "/usr/include/pthread.h" 3 4
 extern int pthread_spin_init (pthread_spinlock_t *__lock, int __pshared)
      throw () __attribute__ ((__nonnull__ (1)));
 
@@ -7506,7 +7514,7 @@ extern int pthread_barrierattr_getpshared (const pthread_barrierattr_t *
 extern int pthread_barrierattr_setpshared (pthread_barrierattr_t *__attr,
         int __pshared)
      throw () __attribute__ ((__nonnull__ (1)));
-# 1114 "/usr/include/pthread.h" 3 4
+#1114 "/usr/include/pthread.h" 3 4
 extern int pthread_key_create (pthread_key_t *__key,
           void (*__destr_function) (void *))
      throw () __attribute__ ((__nonnull__ (1)));
@@ -7527,28 +7535,28 @@ extern int pthread_setspecific (pthread_key_t __key,
 extern int pthread_getcpuclockid (pthread_t __thread_id,
       __clockid_t *__clock_id)
      throw () __attribute__ ((__nonnull__ (2)));
-# 1148 "/usr/include/pthread.h" 3 4
+#1148 "/usr/include/pthread.h" 3 4
 extern int pthread_atfork (void (*__prepare) (void),
       void (*__parent) (void),
       void (*__child) (void)) throw ();
-# 1162 "/usr/include/pthread.h" 3 4
+#1162 "/usr/include/pthread.h" 3 4
 }
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 2 3
-# 1 "/usr/include/unistd.h" 1 3 4
-# 27 "/usr/include/unistd.h" 3 4
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 2 3
+#1 "/usr/include/unistd.h" 1 3 4
+#27 "/usr/include/unistd.h" 3 4
 extern "C" {
-# 202 "/usr/include/unistd.h" 3 4
-# 1 "/usr/include/bits/posix_opt.h" 1 3 4
-# 203 "/usr/include/unistd.h" 2 3 4
+#202 "/usr/include/unistd.h" 3 4
+#1 "/usr/include/bits/posix_opt.h" 1 3 4
+#203 "/usr/include/unistd.h" 2 3 4
 
 
 
-# 1 "/usr/include/bits/environments.h" 1 3 4
-# 22 "/usr/include/bits/environments.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 23 "/usr/include/bits/environments.h" 2 3 4
-# 207 "/usr/include/unistd.h" 2 3 4
-# 220 "/usr/include/unistd.h" 3 4
+#1 "/usr/include/bits/environments.h" 1 3 4
+#22 "/usr/include/bits/environments.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#23 "/usr/include/bits/environments.h" 2 3 4
+#207 "/usr/include/unistd.h" 2 3 4
+#220 "/usr/include/unistd.h" 3 4
 typedef __ssize_t ssize_t;
 
 
@@ -7556,8 +7564,8 @@ typedef __ssize_t ssize_t;
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 227 "/usr/include/unistd.h" 2 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#227 "/usr/include/unistd.h" 2 3 4
 
 
 
@@ -7587,7 +7595,7 @@ typedef __off64_t off64_t;
 
 
 typedef __useconds_t useconds_t;
-# 267 "/usr/include/unistd.h" 3 4
+#267 "/usr/include/unistd.h" 3 4
 typedef __intptr_t intptr_t;
 
 
@@ -7596,7 +7604,7 @@ typedef __intptr_t intptr_t;
 
 
 typedef __socklen_t socklen_t;
-# 287 "/usr/include/unistd.h" 3 4
+#287 "/usr/include/unistd.h" 3 4
 extern int access (const char *__name, int __type) throw () __attribute__ ((__nonnull__ (1)));
 
 
@@ -7616,9 +7624,9 @@ extern int eaccess (const char *__name, int __type)
 
 extern int faccessat (int __fd, const char *__file, int __type, int __flag)
      throw () __attribute__ ((__nonnull__ (2))) ;
-# 334 "/usr/include/unistd.h" 3 4
+#334 "/usr/include/unistd.h" 3 4
 extern __off_t lseek (int __fd, __off_t __offset, int __whence) throw ();
-# 345 "/usr/include/unistd.h" 3 4
+#345 "/usr/include/unistd.h" 3 4
 extern __off64_t lseek64 (int __fd, __off64_t __offset, int __whence)
      throw ();
 
@@ -7641,7 +7649,7 @@ extern ssize_t read (int __fd, void *__buf, size_t __nbytes) ;
 
 
 extern ssize_t write (int __fd, const void *__buf, size_t __n) ;
-# 376 "/usr/include/unistd.h" 3 4
+#376 "/usr/include/unistd.h" 3 4
 extern ssize_t pread (int __fd, void *__buf, size_t __nbytes,
         __off_t __offset) ;
 
@@ -7652,7 +7660,7 @@ extern ssize_t pread (int __fd, void *__buf, size_t __nbytes,
 
 extern ssize_t pwrite (int __fd, const void *__buf, size_t __n,
          __off_t __offset) ;
-# 404 "/usr/include/unistd.h" 3 4
+#404 "/usr/include/unistd.h" 3 4
 extern ssize_t pread64 (int __fd, void *__buf, size_t __nbytes,
    __off64_t __offset) ;
 
@@ -7672,9 +7680,9 @@ extern int pipe (int __pipedes[2]) throw () ;
 
 
 extern int pipe2 (int __pipedes[2], int __flags) throw () ;
-# 432 "/usr/include/unistd.h" 3 4
+#432 "/usr/include/unistd.h" 3 4
 extern unsigned int alarm (unsigned int __seconds) throw ();
-# 444 "/usr/include/unistd.h" 3 4
+#444 "/usr/include/unistd.h" 3 4
 extern unsigned int sleep (unsigned int __seconds);
 
 
@@ -7692,7 +7700,7 @@ extern __useconds_t ualarm (__useconds_t __value, __useconds_t __interval)
 
 
 extern int usleep (__useconds_t __useconds);
-# 469 "/usr/include/unistd.h" 3 4
+#469 "/usr/include/unistd.h" 3 4
 extern int pause (void);
 
 
@@ -7726,7 +7734,7 @@ extern int chdir (const char *__path) throw () __attribute__ ((__nonnull__ (1)))
 
 
 extern int fchdir (int __fd) throw () ;
-# 511 "/usr/include/unistd.h" 3 4
+#511 "/usr/include/unistd.h" 3 4
 extern char *getcwd (char *__buf, size_t __size) throw () ;
 
 
@@ -7826,8 +7834,8 @@ extern void _exit (int __status) __attribute__ ((__noreturn__));
 
 
 
-# 1 "/usr/include/bits/confname.h" 1 3 4
-# 25 "/usr/include/bits/confname.h" 3 4
+#1 "/usr/include/bits/confname.h" 1 3 4
+#25 "/usr/include/bits/confname.h" 3 4
 enum
   {
     _PC_LINK_MAX,
@@ -8480,7 +8488,7 @@ enum
     _CS_V7_ENV
 
   };
-# 610 "/usr/include/unistd.h" 2 3 4
+#610 "/usr/include/unistd.h" 2 3 4
 
 
 extern long int pathconf (const char *__path, int __name)
@@ -8508,7 +8516,7 @@ extern __pid_t getppid (void) throw ();
 
 
 extern __pid_t getpgrp (void) throw ();
-# 646 "/usr/include/unistd.h" 3 4
+#646 "/usr/include/unistd.h" 3 4
 extern __pid_t __getpgid (__pid_t __pid) throw ();
 
 extern __pid_t getpgid (__pid_t __pid) throw ();
@@ -8519,9 +8527,9 @@ extern __pid_t getpgid (__pid_t __pid) throw ();
 
 
 extern int setpgid (__pid_t __pid, __pid_t __pgid) throw ();
-# 672 "/usr/include/unistd.h" 3 4
+#672 "/usr/include/unistd.h" 3 4
 extern int setpgrp (void) throw ();
-# 689 "/usr/include/unistd.h" 3 4
+#689 "/usr/include/unistd.h" 3 4
 extern __pid_t setsid (void) throw ();
 
 
@@ -8718,13 +8726,13 @@ extern int getlogin_r (char *__name, size_t __name_len) __attribute__ ((__nonnul
 
 
 extern int setlogin (const char *__name) throw () __attribute__ ((__nonnull__ (1)));
-# 893 "/usr/include/unistd.h" 3 4
-# 1 "/usr/include/getopt.h" 1 3 4
-# 49 "/usr/include/getopt.h" 3 4
+#893 "/usr/include/unistd.h" 3 4
+#1 "/usr/include/getopt.h" 1 3 4
+#49 "/usr/include/getopt.h" 3 4
 extern "C" {
-# 58 "/usr/include/getopt.h" 3 4
+#58 "/usr/include/getopt.h" 3 4
 extern char *optarg;
-# 72 "/usr/include/getopt.h" 3 4
+#72 "/usr/include/getopt.h" 3 4
 extern int optind;
 
 
@@ -8735,12 +8743,12 @@ extern int opterr;
 
 
 extern int optopt;
-# 151 "/usr/include/getopt.h" 3 4
+#151 "/usr/include/getopt.h" 3 4
 extern int getopt (int ___argc, char *const *___argv, const char *__shortopts)
        throw ();
-# 186 "/usr/include/getopt.h" 3 4
+#186 "/usr/include/getopt.h" 3 4
 }
-# 894 "/usr/include/unistd.h" 2 3 4
+#894 "/usr/include/unistd.h" 2 3 4
 
 
 
@@ -8853,17 +8861,17 @@ extern int getpagesize (void) throw () __attribute__ ((__const__));
 
 
 extern int getdtablesize (void) throw ();
-# 1015 "/usr/include/unistd.h" 3 4
+#1015 "/usr/include/unistd.h" 3 4
 extern int truncate (const char *__file, __off_t __length)
      throw () __attribute__ ((__nonnull__ (1))) ;
-# 1027 "/usr/include/unistd.h" 3 4
+#1027 "/usr/include/unistd.h" 3 4
 extern int truncate64 (const char *__file, __off64_t __length)
      throw () __attribute__ ((__nonnull__ (1))) ;
-# 1038 "/usr/include/unistd.h" 3 4
+#1038 "/usr/include/unistd.h" 3 4
 extern int ftruncate (int __fd, __off_t __length) throw () ;
-# 1048 "/usr/include/unistd.h" 3 4
+#1048 "/usr/include/unistd.h" 3 4
 extern int ftruncate64 (int __fd, __off64_t __length) throw () ;
-# 1059 "/usr/include/unistd.h" 3 4
+#1059 "/usr/include/unistd.h" 3 4
 extern int brk (void *__addr) throw () ;
 
 
@@ -8871,13 +8879,13 @@ extern int brk (void *__addr) throw () ;
 
 
 extern void *sbrk (intptr_t __delta) throw ();
-# 1080 "/usr/include/unistd.h" 3 4
+#1080 "/usr/include/unistd.h" 3 4
 extern long int syscall (long int __sysno, ...) throw ();
-# 1103 "/usr/include/unistd.h" 3 4
+#1103 "/usr/include/unistd.h" 3 4
 extern int lockf (int __fd, int __cmd, __off_t __len) ;
-# 1113 "/usr/include/unistd.h" 3 4
+#1113 "/usr/include/unistd.h" 3 4
 extern int lockf64 (int __fd, int __cmd, __off64_t __len) ;
-# 1134 "/usr/include/unistd.h" 3 4
+#1134 "/usr/include/unistd.h" 3 4
 extern int fdatasync (int __fildes);
 
 
@@ -8900,9 +8908,9 @@ extern void encrypt (char *__block, int __edflag) throw () __attribute__ ((__non
 
 extern void swab (const void *__restrict __from, void *__restrict __to,
     ssize_t __n) throw () __attribute__ ((__nonnull__ (1, 2)));
-# 1172 "/usr/include/unistd.h" 3 4
+#1172 "/usr/include/unistd.h" 3 4
 }
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 2 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 2 3
 
 typedef pthread_t __gthread_t;
 typedef pthread_key_t __gthread_key_t;
@@ -8911,7 +8919,7 @@ typedef pthread_mutex_t __gthread_mutex_t;
 typedef pthread_mutex_t __gthread_recursive_mutex_t;
 typedef pthread_cond_t __gthread_cond_t;
 typedef struct timespec __gthread_time_t;
-# 118 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
+#118 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
 static __typeof(pthread_once) __gthrw_pthread_once __attribute__ ((__weakref__("pthread_once")));
 static __typeof(pthread_getspecific) __gthrw_pthread_getspecific __attribute__ ((__weakref__("pthread_getspecific")));
 static __typeof(pthread_setspecific) __gthrw_pthread_setspecific __attribute__ ((__weakref__("pthread_setspecific")));
@@ -8949,7 +8957,7 @@ static __typeof(pthread_key_delete) __gthrw_pthread_key_delete __attribute__ ((_
 static __typeof(pthread_mutexattr_init) __gthrw_pthread_mutexattr_init __attribute__ ((__weakref__("pthread_mutexattr_init")));
 static __typeof(pthread_mutexattr_settype) __gthrw_pthread_mutexattr_settype __attribute__ ((__weakref__("pthread_mutexattr_settype")));
 static __typeof(pthread_mutexattr_destroy) __gthrw_pthread_mutexattr_destroy __attribute__ ((__weakref__("pthread_mutexattr_destroy")));
-# 239 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
+#239 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
 static inline int
 __gthread_active_p (void)
 {
@@ -8963,7 +8971,7 @@ __gthread_active_p (void)
 
   return __gthread_active_ptr != 0;
 }
-# 657 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
+#657 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
 static inline int
 __gthread_create (__gthread_t *__threadid, void *(*__func) (void*),
     void *__args)
@@ -9083,7 +9091,7 @@ __gthread_mutex_unlock (__gthread_mutex_t *__mutex)
   else
     return 0;
 }
-# 800 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
+#800 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr-default.h" 3
 static inline int
 __gthread_recursive_mutex_lock (__gthread_recursive_mutex_t *__mutex)
 {
@@ -9158,7 +9166,7 @@ __gthread_cond_destroy (__gthread_cond_t* __cond)
 {
   return __gthrw_pthread_cond_destroy (__cond);
 }
-# 171 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 2 3
+#171 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/gthr.h" 2 3
 
 
 
@@ -9167,11 +9175,11 @@ __gthread_cond_destroy (__gthread_cond_t* __cond)
 
 
 #pragma GCC visibility pop
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/atomic_word.h" 1 3
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/atomic_word.h" 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/atomic_word.h" 1 3
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/atomic_word.h" 3
 typedef int _Atomic_word;
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 2 3
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 2 3
 
 namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
@@ -9189,7 +9197,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
   static inline void
   __atomic_add(volatile _Atomic_word* __mem, int __val)
   { __sync_fetch_and_add(__mem, __val); }
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/atomicity.h" 3
   static inline _Atomic_word
   __exchange_and_add_single(_Atomic_word* __mem, int __val)
   {
@@ -9232,29 +9240,29 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 2 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 2 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
-
-
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 1 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
 
 
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 1 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 1 3
-# 48 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++allocator.h" 1 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++allocator.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 1 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 3
+
+
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 1 3
+#48 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++allocator.h" 1 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++allocator.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 1 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 3
 
 
 
@@ -9296,7 +9304,7 @@ namespace std
 
   new_handler set_new_handler(new_handler) throw();
 }
-# 92 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 3
+#92 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/new" 3
 void* operator new(std::size_t) throw (std::bad_alloc);
 void* operator new[](std::size_t) throw (std::bad_alloc);
 void operator delete(void*) throw();
@@ -9317,7 +9325,7 @@ inline void operator delete[](void*, void*) throw() { }
 }
 
 #pragma GCC visibility pop
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 2 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 2 3
 
 
 
@@ -9327,7 +9335,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
   using std::size_t;
   using std::ptrdiff_t;
-# 53 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 3
+#53 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 3
   template<typename _Tp>
     class new_allocator
     {
@@ -9384,7 +9392,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
       void
       construct(pointer __p, const _Tp& __val)
       { ::new((void *)__p) _Tp(__val); }
-# 117 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 3
+#117 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ext/new_allocator.h" 3
       void
       destroy(pointer __p) { __p->~_Tp(); }
     };
@@ -9401,8 +9409,8 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++allocator.h" 2 3
-# 49 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 2 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/c++allocator.h" 2 3
+#49 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 2 3
 
 
 
@@ -9410,7 +9418,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
+#65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
   template<typename _Tp>
     class allocator;
 
@@ -9429,7 +9437,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
         struct rebind
         { typedef allocator<_Tp1> other; };
     };
-# 91 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
+#91 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
   template<typename _Tp>
     class allocator: public __gnu_cxx::new_allocator<_Tp>
     {
@@ -9522,19 +9530,19 @@ namespace std __attribute__ ((__visibility__ ("default")))
       _S_do_it(const _Alloc& __one, const _Alloc& __two)
       { return __one != __two; }
     };
-# 237 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
+#237 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/allocator.h" 3
 }
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 1 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 1 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h" 1 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h" 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h" 1 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h" 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h" 3
 
 #pragma GCC visibility push(default)
 
@@ -9548,18 +9556,30 @@ namespace __cxxabiv1
 
 
 
-  class __forced_unwind
+  
+#define virtual
+#47 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h"
+class __forced_unwind
   {
     virtual ~__forced_unwind() throw();
 
 
-    virtual void __pure_dummy() = 0;
+    
+#if 0
+#52 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h"
+virtual void __pure_dummy() = 0;
+
+#endif
+#53 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h"
   };
+#undef virtual
+#54 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/cxxabi_forced.h"
+
 }
 
 
 #pragma GCC visibility pop
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 2 3
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream_insert.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -9651,15 +9671,15 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
+#46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 1 3
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 1 3
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 101 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#101 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
   template<typename _Arg, typename _Result>
     struct unary_function
     {
@@ -9685,7 +9705,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       typedef _Result result_type;
     };
-# 140 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#140 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
   template<typename _Tp>
     struct plus : public binary_function<_Tp, _Tp, _Tp>
     {
@@ -9738,7 +9758,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator()(const _Tp& __x) const
       { return -__x; }
     };
-# 204 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#204 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
   template<typename _Tp>
     struct equal_to : public binary_function<_Tp, _Tp, bool>
     {
@@ -9791,7 +9811,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x <= __y; }
     };
-# 268 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#268 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
   template<typename _Tp>
     struct logical_and : public binary_function<_Tp, _Tp, bool>
     {
@@ -9844,7 +9864,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator()(const _Tp& __x, const _Tp& __y) const
       { return __x ^ __y; }
     };
-# 351 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#351 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
   template<typename _Predicate>
     class unary_negate
     : public unary_function<typename _Predicate::argument_type, bool>
@@ -9891,7 +9911,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     inline binary_negate<_Predicate>
     not2(const _Predicate& __pred)
     { return binary_negate<_Predicate>(__pred); }
-# 422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
   template<typename _Arg, typename _Result>
     class pointer_to_unary_function : public unary_function<_Arg, _Result>
     {
@@ -9966,7 +9986,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       const typename _Pair::first_type&
       operator()(const _Pair& __x) const
       { return __x.first; }
-# 508 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#508 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
     };
 
   template<typename _Pair>
@@ -9981,7 +10001,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       operator()(const _Pair& __x) const
       { return __x.second; }
     };
-# 541 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
+#541 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 3
   template<typename _Ret, typename _Tp>
     class mem_fun_t : public unary_function<_Tp*, _Ret>
     {
@@ -10173,11 +10193,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/backward/binders.h" 1 3
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/backward/binders.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/backward/binders.h" 1 3
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/backward/binders.h" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 99 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/backward/binders.h" 3
+#99 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/backward/binders.h" 3
   template<typename _Operation>
     class binder1st
     : public unary_function<typename _Operation::second_argument_type,
@@ -10250,28 +10270,28 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 732 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 2 3
-# 50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
+#732 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/stl_function.h" 2 3
+#50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/range_access.h" 1 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/range_access.h" 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/range_access.h" 3
-# 53 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/range_access.h" 1 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/range_access.h" 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/range_access.h" 3
+#53 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/initializer_list" 1 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/initializer_list" 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/initializer_list" 3
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/initializer_list" 1 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/initializer_list" 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/initializer_list" 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 105 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#105 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     class basic_string
     {
@@ -10295,7 +10315,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       typedef std::reverse_iterator<iterator> reverse_iterator;
 
     private:
-# 142 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#142 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       struct _Rep_base
       {
  size_type _M_length;
@@ -10307,7 +10327,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       {
 
  typedef typename _Alloc::template rebind<char>::other _Raw_bytes_alloc;
-# 167 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#167 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
  static const size_type _S_max_size;
  static const _CharT _S_terminal;
 
@@ -10608,7 +10628,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       basic_string(const basic_string& __str, size_type __pos,
      size_type __n, const _Alloc& __a);
-# 477 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#477 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string(const _CharT* __s, size_type __n,
      const _Alloc& __a = _Alloc());
 
@@ -10624,7 +10644,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
       basic_string(size_type __n, _CharT __c, const _Alloc& __a = _Alloc());
-# 525 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#525 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       template<class _InputIterator>
         basic_string(_InputIterator __beg, _InputIterator __end,
        const _Alloc& __a = _Alloc());
@@ -10650,14 +10670,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
       basic_string&
       operator=(const _CharT* __s)
       { return this->assign(__s); }
-# 558 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#558 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       operator=(_CharT __c)
       {
  this->assign(1, __c);
  return *this;
       }
-# 598 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#598 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       iterator
       begin()
       {
@@ -10727,7 +10747,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       const_reverse_iterator
       rend() const
       { return const_reverse_iterator(this->begin()); }
-# 704 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#704 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
     public:
 
 
@@ -10746,18 +10766,18 @@ namespace std __attribute__ ((__visibility__ ("default")))
       size_type
       max_size() const
       { return _Rep::_S_max_size; }
-# 733 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#733 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       void
       resize(size_type __n, _CharT __c);
-# 746 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#746 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       void
       resize(size_type __n)
       { this->resize(__n, _CharT()); }
-# 766 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#766 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       capacity() const
       { return _M_rep()->_M_capacity; }
-# 787 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#787 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       void
       reserve(size_type __res_arg = 0);
 
@@ -10775,14 +10795,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
       bool
       empty() const
       { return this->size() == 0; }
-# 816 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#816 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       const_reference
       operator[] (size_type __pos) const
       {
                                        ;
  return _M_data()[__pos];
       }
-# 833 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#833 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       reference
       operator[](size_type __pos)
       {
@@ -10793,7 +10813,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  _M_leak();
  return _M_data()[__pos];
       }
-# 854 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#854 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       const_reference
       at(size_type __n) const
       {
@@ -10801,7 +10821,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __throw_out_of_range(("basic_string::at"));
  return _M_data()[__n];
       }
-# 907 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#907 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       reference
       at(size_type __n)
       {
@@ -10841,10 +10861,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
  this->push_back(__c);
  return *this;
       }
-# 963 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#963 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       append(const basic_string& __str);
-# 978 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#978 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       append(const basic_string& __str, size_type __pos, size_type __n);
 
@@ -10868,10 +10888,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
                                ;
  return this->append(__s, traits_type::length(__s));
       }
-# 1010 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1010 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       append(size_type __n, _CharT __c);
-# 1032 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1032 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       template<class _InputIterator>
         basic_string&
         append(_InputIterator __first, _InputIterator __last)
@@ -10898,67 +10918,67 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       basic_string&
       assign(const basic_string& __str);
-# 1088 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1088 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       assign(const basic_string& __str, size_type __pos, size_type __n)
       { return this->assign(__str._M_data()
        + __str._M_check(__pos, "basic_string::assign"),
        __str._M_limit(__pos, __n)); }
-# 1104 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1104 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       assign(const _CharT* __s, size_type __n);
-# 1116 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1116 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       assign(const _CharT* __s)
       {
                                ;
  return this->assign(__s, traits_type::length(__s));
       }
-# 1132 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1132 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       assign(size_type __n, _CharT __c)
       { return _M_replace_aux(size_type(0), this->size(), __n, __c); }
-# 1144 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1144 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       template<class _InputIterator>
         basic_string&
         assign(_InputIterator __first, _InputIterator __last)
         { return this->replace(_M_ibegin(), _M_iend(), __first, __last); }
-# 1172 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1172 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       void
       insert(iterator __p, size_type __n, _CharT __c)
       { this->replace(__p, __p, __n, __c); }
-# 1187 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1187 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       template<class _InputIterator>
         void
         insert(iterator __p, _InputIterator __beg, _InputIterator __end)
         { this->replace(__p, __p, __beg, __end); }
-# 1218 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1218 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos1, const basic_string& __str)
       { return this->insert(__pos1, __str, size_type(0), __str.size()); }
-# 1240 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1240 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos1, const basic_string& __str,
       size_type __pos2, size_type __n)
       { return this->insert(__pos1, __str._M_data()
        + __str._M_check(__pos2, "basic_string::insert"),
        __str._M_limit(__pos2, __n)); }
-# 1263 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1263 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos, const _CharT* __s, size_type __n);
-# 1281 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1281 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos, const _CharT* __s)
       {
                                ;
  return this->insert(__pos, __s, traits_type::length(__s));
       }
-# 1304 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1304 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       insert(size_type __pos, size_type __n, _CharT __c)
       { return _M_replace_aux(_M_check(__pos, "basic_string::insert"),
          size_type(0), __n, __c); }
-# 1321 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1321 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       iterator
       insert(iterator __p, _CharT __c)
       {
@@ -10968,7 +10988,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  _M_rep()->_M_set_leaked();
  return iterator(_M_data() + __pos);
       }
-# 1345 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1345 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       erase(size_type __pos = 0, size_type __n = npos)
       {
@@ -10976,7 +10996,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     _M_limit(__pos, __n), size_type(0));
  return *this;
       }
-# 1361 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1361 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       iterator
       erase(iterator __position)
       {
@@ -10987,41 +11007,41 @@ namespace std __attribute__ ((__visibility__ ("default")))
  _M_rep()->_M_set_leaked();
  return iterator(_M_data() + __pos);
       }
-# 1381 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1381 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       iterator
       erase(iterator __first, iterator __last);
-# 1400 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1400 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n, const basic_string& __str)
       { return this->replace(__pos, __n, __str._M_data(), __str.size()); }
-# 1422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1422 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos1, size_type __n1, const basic_string& __str,
        size_type __pos2, size_type __n2)
       { return this->replace(__pos1, __n1, __str._M_data()
         + __str._M_check(__pos2, "basic_string::replace"),
         __str._M_limit(__pos2, __n2)); }
-# 1446 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1446 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n1, const _CharT* __s,
        size_type __n2);
-# 1465 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1465 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n1, const _CharT* __s)
       {
                                ;
  return this->replace(__pos, __n1, __s, traits_type::length(__s));
       }
-# 1488 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1488 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(size_type __pos, size_type __n1, size_type __n2, _CharT __c)
       { return _M_replace_aux(_M_check(__pos, "basic_string::replace"),
          _M_limit(__pos, __n1), __n2, __c); }
-# 1506 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1506 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(iterator __i1, iterator __i2, const basic_string& __str)
       { return this->replace(__i1, __i2, __str._M_data(), __str.size()); }
-# 1524 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1524 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(iterator __i1, iterator __i2, const _CharT* __s, size_type __n)
       {
@@ -11029,14 +11049,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
                           ;
  return this->replace(__i1 - _M_ibegin(), __i2 - __i1, __s, __n);
       }
-# 1545 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1545 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(iterator __i1, iterator __i2, const _CharT* __s)
       {
                                ;
  return this->replace(__i1, __i2, __s, traits_type::length(__s));
       }
-# 1566 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1566 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string&
       replace(iterator __i1, iterator __i2, size_type __n, _CharT __c)
       {
@@ -11044,7 +11064,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
                           ;
  return _M_replace_aux(__i1 - _M_ibegin(), __i2 - __i1, __n, __c);
       }
-# 1588 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1588 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       template<class _InputIterator>
         basic_string&
         replace(iterator __i1, iterator __i2,
@@ -11100,7 +11120,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  return this->replace(__i1 - _M_ibegin(), __i2 - __i1,
         __k1.base(), __k2 - __k1);
       }
-# 1663 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1663 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
     private:
       template<class _Integer>
  basic_string&
@@ -11170,13 +11190,13 @@ namespace std __attribute__ ((__visibility__ ("default")))
       _S_construct(size_type __req, _CharT __c, const _Alloc& __a);
 
     public:
-# 1744 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1744 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       copy(_CharT* __s, size_type __n, size_type __pos = 0) const;
-# 1754 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1754 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       void
       swap(basic_string& __s);
-# 1764 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1764 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       const _CharT*
       c_str() const
       { return _M_data(); }
@@ -11197,118 +11217,118 @@ namespace std __attribute__ ((__visibility__ ("default")))
       allocator_type
       get_allocator() const
       { return _M_dataplus; }
-# 1796 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1796 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find(const _CharT* __s, size_type __pos, size_type __n) const;
-# 1809 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1809 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find(const basic_string& __str, size_type __pos = 0) const
       { return this->find(__str.data(), __pos, __str.size()); }
-# 1823 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1823 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find(const _CharT* __s, size_type __pos = 0) const
       {
                                ;
  return this->find(__s, __pos, traits_type::length(__s));
       }
-# 1840 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1840 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find(_CharT __c, size_type __pos = 0) const;
-# 1853 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1853 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       rfind(const basic_string& __str, size_type __pos = npos) const
       { return this->rfind(__str.data(), __pos, __str.size()); }
-# 1868 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1868 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       rfind(const _CharT* __s, size_type __pos, size_type __n) const;
-# 1881 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1881 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       rfind(const _CharT* __s, size_type __pos = npos) const
       {
                                ;
  return this->rfind(__s, __pos, traits_type::length(__s));
       }
-# 1898 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1898 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       rfind(_CharT __c, size_type __pos = npos) const;
-# 1911 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1911 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_of(const basic_string& __str, size_type __pos = 0) const
       { return this->find_first_of(__str.data(), __pos, __str.size()); }
-# 1926 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1926 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_of(const _CharT* __s, size_type __pos, size_type __n) const;
-# 1939 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1939 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_of(const _CharT* __s, size_type __pos = 0) const
       {
                                ;
  return this->find_first_of(__s, __pos, traits_type::length(__s));
       }
-# 1958 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1958 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_of(_CharT __c, size_type __pos = 0) const
       { return this->find(__c, __pos); }
-# 1972 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1972 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_of(const basic_string& __str, size_type __pos = npos) const
       { return this->find_last_of(__str.data(), __pos, __str.size()); }
-# 1987 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#1987 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_of(const _CharT* __s, size_type __pos, size_type __n) const;
-# 2000 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2000 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_of(const _CharT* __s, size_type __pos = npos) const
       {
                                ;
  return this->find_last_of(__s, __pos, traits_type::length(__s));
       }
-# 2019 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2019 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_of(_CharT __c, size_type __pos = npos) const
       { return this->rfind(__c, __pos); }
-# 2033 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2033 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_not_of(const basic_string& __str, size_type __pos = 0) const
       { return this->find_first_not_of(__str.data(), __pos, __str.size()); }
-# 2048 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2048 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_not_of(const _CharT* __s, size_type __pos,
    size_type __n) const;
-# 2062 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2062 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_not_of(const _CharT* __s, size_type __pos = 0) const
       {
                                ;
  return this->find_first_not_of(__s, __pos, traits_type::length(__s));
       }
-# 2079 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2079 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_first_not_of(_CharT __c, size_type __pos = 0) const;
-# 2092 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2092 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_not_of(const basic_string& __str, size_type __pos = npos) const
       { return this->find_last_not_of(__str.data(), __pos, __str.size()); }
-# 2108 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2108 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_not_of(const _CharT* __s, size_type __pos,
          size_type __n) const;
-# 2121 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2121 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_not_of(const _CharT* __s, size_type __pos = npos) const
       {
                                ;
  return this->find_last_not_of(__s, __pos, traits_type::length(__s));
       }
-# 2138 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2138 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       size_type
       find_last_not_of(_CharT __c, size_type __pos = npos) const;
-# 2153 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2153 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       basic_string
       substr(size_type __pos = 0, size_type __n = npos) const
       { return basic_string(*this,
        _M_check(__pos, "basic_string::substr"), __n); }
-# 2171 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2171 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       int
       compare(const basic_string& __str) const
       {
@@ -11321,25 +11341,25 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __r = _S_compare(__size, __osize);
  return __r;
       }
-# 2201 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2201 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       int
       compare(size_type __pos, size_type __n, const basic_string& __str) const;
-# 2225 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2225 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       int
       compare(size_type __pos1, size_type __n1, const basic_string& __str,
        size_type __pos2, size_type __n2) const;
-# 2243 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2243 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       int
       compare(const _CharT* __s) const;
-# 2266 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2266 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       int
       compare(size_type __pos, size_type __n1, const _CharT* __s) const;
-# 2291 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2291 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
       int
       compare(size_type __pos, size_type __n1, const _CharT* __s,
        size_type __n2) const;
   };
-# 2303 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2303 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_string<_CharT, _Traits, _Alloc>
     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -11403,7 +11423,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __str.append(__size_type(1), __rhs);
       return __str;
     }
-# 2424 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2424 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator==(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -11442,7 +11462,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     operator==(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
         const _CharT* __rhs)
     { return __lhs.compare(__rhs) == 0; }
-# 2470 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2470 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator!=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -11472,7 +11492,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     operator!=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
         const _CharT* __rhs)
     { return !(__lhs == __rhs); }
-# 2507 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2507 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator<(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -11502,7 +11522,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     operator<(const _CharT* __lhs,
        const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) > 0; }
-# 2544 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2544 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator>(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -11532,7 +11552,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     operator>(const _CharT* __lhs,
        const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) < 0; }
-# 2581 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2581 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator<=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -11562,7 +11582,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     operator<=(const _CharT* __lhs,
         const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) >= 0; }
-# 2618 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2618 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline bool
     operator>=(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
@@ -11592,13 +11612,13 @@ namespace std __attribute__ ((__visibility__ ("default")))
     operator>=(const _CharT* __lhs,
       const basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { return __rhs.compare(__lhs) <= 0; }
-# 2655 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2655 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline void
     swap(basic_string<_CharT, _Traits, _Alloc>& __lhs,
   basic_string<_CharT, _Traits, _Alloc>& __rhs)
     { __lhs.swap(__rhs); }
-# 2672 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2672 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_istream<_CharT, _Traits>&
     operator>>(basic_istream<_CharT, _Traits>& __is,
@@ -11607,7 +11627,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<>
     basic_istream<char>&
     operator>>(basic_istream<char>& __is, basic_string<char>& __str);
-# 2690 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2690 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline basic_ostream<_CharT, _Traits>&
     operator<<(basic_ostream<_CharT, _Traits>& __os,
@@ -11617,12 +11637,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       return __ostream_insert(__os, __str.data(), __str.size());
     }
-# 2713 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2713 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_istream<_CharT, _Traits>&
     getline(basic_istream<_CharT, _Traits>& __is,
      basic_string<_CharT, _Traits, _Alloc>& __str, _CharT __delim);
-# 2731 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
+#2731 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.h" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     inline basic_istream<_CharT, _Traits>&
     getline(basic_istream<_CharT, _Traits>& __is,
@@ -11643,10 +11663,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 54 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 1 3
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
+#54 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 1 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
 
 
 
@@ -11837,7 +11857,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     basic_string(_InputIterator __beg, _InputIterator __end, const _Alloc& __a)
     : _M_dataplus(_S_construct(__beg, __end, __a), __a)
     { }
-# 241 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
+#241 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     basic_string<_CharT, _Traits, _Alloc>&
     basic_string<_CharT, _Traits, _Alloc>::
@@ -12151,7 +12171,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       if (__capacity > _S_max_size)
  __throw_length_error(("basic_string::_S_create"));
-# 578 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
+#578 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_string.tcc" 3
       const size_type __pagesize = 4096;
       const size_type __malloc_header_size = 4 * sizeof(void*);
 
@@ -12740,13 +12760,13 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 2 3
+#55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/string" 2 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 2 3
 
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
   class locale
   {
   public:
@@ -12772,7 +12792,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
     template<typename _Cache>
       friend struct __use_cache;
-# 99 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#99 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     static const category none = 0;
     static const category ctype = 1L << 0;
     static const category numeric = 1L << 1;
@@ -12782,27 +12802,27 @@ namespace std __attribute__ ((__visibility__ ("default")))
     static const category messages = 1L << 5;
     static const category all = (ctype | numeric | collate |
         time | monetary | messages);
-# 118 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#118 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     locale() throw();
-# 127 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#127 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     locale(const locale& __other) throw();
-# 137 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#137 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     explicit
     locale(const char* __s);
-# 152 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#152 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     locale(const locale& __base, const char* __s, category __cat);
-# 165 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#165 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     locale(const locale& __base, const locale& __add, category __cat);
-# 177 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#177 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     template<typename _Facet>
       locale(const locale& __other, _Facet* __f);
 
 
     ~locale() throw();
-# 191 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#191 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     const locale&
     operator=(const locale& __other) throw();
-# 206 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#206 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     template<typename _Facet>
       locale
       combine(const locale& __other) const;
@@ -12814,7 +12834,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
     string
     name() const;
-# 225 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#225 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     bool
     operator==(const locale& __other) const throw();
 
@@ -12827,12 +12847,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
     bool
     operator!=(const locale& __other) const throw()
     { return !(this->operator==(__other)); }
-# 253 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#253 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     template<typename _Char, typename _Traits, typename _Alloc>
       bool
       operator()(const basic_string<_Char, _Traits, _Alloc>& __s1,
    const basic_string<_Char, _Traits, _Alloc>& __s2) const;
-# 269 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#269 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     static locale
     global(const locale&);
 
@@ -12857,7 +12877,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
     static const char* const* const _S_categories;
-# 304 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#304 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     enum { _S_categories_size = 6 + 6 };
 
 
@@ -12879,7 +12899,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     void
     _M_coalesce(const locale& __base, const locale& __add, category __cat);
   };
-# 338 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#338 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
   class locale::facet
   {
   private:
@@ -12902,7 +12922,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     _S_initialize_once();
 
   protected:
-# 369 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#369 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
     explicit
     facet(size_t __refs = 0) throw() : _M_refcount(__refs ? 1 : 0)
     { }
@@ -12957,7 +12977,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     facet&
     operator=(const facet&);
   };
-# 436 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#436 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
   class locale::id
   {
   private:
@@ -13091,15 +13111,15 @@ namespace std __attribute__ ((__visibility__ ("default")))
     void
     _M_install_cache(const facet*, size_t);
   };
-# 582 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#582 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
   template<typename _Facet>
     bool
     has_facet(const locale& __loc) throw();
-# 599 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#599 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
   template<typename _Facet>
     const _Facet&
     use_facet(const locale& __loc);
-# 616 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#616 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
   template<typename _CharT>
     class collate : public locale::facet
     {
@@ -13119,26 +13139,26 @@ namespace std __attribute__ ((__visibility__ ("default")))
     public:
 
       static locale::id id;
-# 643 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#643 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       explicit
       collate(size_t __refs = 0)
       : facet(__refs), _M_c_locale_collate(_S_get_c_locale())
       { }
-# 657 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#657 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       explicit
       collate(__c_locale __cloc, size_t __refs = 0)
       : facet(__refs), _M_c_locale_collate(_S_clone_c_locale(__cloc))
       { }
-# 674 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#674 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       int
       compare(const _CharT* __lo1, const _CharT* __hi1,
        const _CharT* __lo2, const _CharT* __hi2) const
       { return this->do_compare(__lo1, __hi1, __lo2, __hi2); }
-# 693 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#693 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       string_type
       transform(const _CharT* __lo, const _CharT* __hi) const
       { return this->do_transform(__lo, __hi); }
-# 707 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#707 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       long
       hash(const _CharT* __lo, const _CharT* __hi) const
       { return this->do_hash(__lo, __hi); }
@@ -13155,14 +13175,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
       virtual
       ~collate()
       { _S_destroy_c_locale(_M_c_locale_collate); }
-# 736 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#736 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       virtual int
       do_compare(const _CharT* __lo1, const _CharT* __hi1,
    const _CharT* __lo2, const _CharT* __hi2) const;
-# 752 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#752 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       virtual string_type
       do_transform(const _CharT* __lo, const _CharT* __hi) const;
-# 765 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
+#765 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 3
       virtual long
       do_hash(const _CharT* __lo, const _CharT* __hi) const;
     };
@@ -13221,9 +13241,9 @@ namespace std __attribute__ ((__visibility__ ("default")))
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.tcc" 1 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.tcc" 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.tcc" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.tcc" 1 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.tcc" 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.tcc" 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -13458,8 +13478,8 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 823 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 2 3
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 2 3
+#823 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_classes.h" 2 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -13606,7 +13626,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       _S_end = 2,
       _S_ios_seekdir_end = 1L << 16
     };
-# 200 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#200 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
   class ios_base
   {
   public:
@@ -13636,7 +13656,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     private:
       string _M_msg;
     };
-# 256 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#256 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     typedef _Ios_Fmtflags fmtflags;
 
 
@@ -13699,7 +13719,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
     static const fmtflags floatfield = _S_floatfield;
-# 331 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#331 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     typedef _Ios_Iostate iostate;
 
 
@@ -13716,7 +13736,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
     static const iostate goodbit = _S_goodbit;
-# 362 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#362 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     typedef _Ios_Openmode openmode;
 
 
@@ -13738,7 +13758,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
     static const openmode trunc = _S_trunc;
-# 394 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#394 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     typedef _Ios_Seekdir seekdir;
 
 
@@ -13757,16 +13777,16 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
     typedef std::streampos streampos;
     typedef std::streamoff streamoff;
-# 420 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#420 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     enum event
     {
       erase_event,
       imbue_event,
       copyfmt_event
     };
-# 437 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#437 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     typedef void (*event_callback) (event, ios_base&, int);
-# 449 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#449 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     void
     register_callback(event_callback __fn, int __index);
 
@@ -13872,7 +13892,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     fmtflags
     flags() const
     { return _M_flags; }
-# 562 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#562 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     fmtflags
     flags(fmtflags __fmtfl)
     {
@@ -13880,7 +13900,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       _M_flags = __fmtfl;
       return __old;
     }
-# 578 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#578 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     fmtflags
     setf(fmtflags __fmtfl)
     {
@@ -13888,7 +13908,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       _M_flags |= __fmtfl;
       return __old;
     }
-# 595 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#595 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     fmtflags
     setf(fmtflags __fmtfl, fmtflags __mask)
     {
@@ -13907,7 +13927,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     void
     unsetf(fmtflags __mask)
     { _M_flags &= ~__mask; }
-# 621 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#621 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     streamsize
     precision() const
     { return _M_precision; }
@@ -13947,24 +13967,24 @@ namespace std __attribute__ ((__visibility__ ("default")))
       _M_width = __wide;
       return __old;
     }
-# 672 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#672 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     static bool
     sync_with_stdio(bool __sync = true);
-# 684 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#684 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     locale
     imbue(const locale& __loc) throw();
-# 695 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#695 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     locale
     getloc() const
     { return _M_ios_locale; }
-# 706 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#706 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     const locale&
     _M_getloc() const
     { return _M_ios_locale; }
-# 725 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#725 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     static int
     xalloc() throw();
-# 741 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#741 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     long&
     iword(int __ix)
     {
@@ -13972,7 +13992,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    ? _M_word[__ix] : _M_grow_words(__ix, true);
       return __word._M_iword;
     }
-# 762 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#762 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     void*&
     pword(int __ix)
     {
@@ -13980,7 +14000,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    ? _M_word[__ix] : _M_grow_words(__ix, false);
       return __word._M_pword;
     }
-# 779 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
+#779 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ios_base.h" 3
     virtual ~ios_base();
 
   protected:
@@ -14177,10 +14197,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 1 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 1 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
 
 
 
@@ -14197,7 +14217,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     streamsize
     __copy_streambufs_eof(basic_streambuf<_CharT, _Traits>*,
      basic_streambuf<_CharT, _Traits>*, bool&);
-# 115 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#115 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
   template<typename _CharT, typename _Traits>
     class basic_streambuf
     {
@@ -14256,7 +14276,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   basic_string<_CharT2, _Traits2, _Alloc>&, _CharT2);
 
     protected:
-# 181 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#181 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       char_type* _M_in_beg;
       char_type* _M_in_cur;
       char_type* _M_in_end;
@@ -14272,7 +14292,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       virtual
       ~basic_streambuf()
       { }
-# 205 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#205 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       locale
       pubimbue(const locale &__loc)
       {
@@ -14281,11 +14301,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
  _M_buf_locale = __loc;
  return __tmp;
       }
-# 222 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#222 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       locale
       getloc() const
       { return _M_buf_locale; }
-# 235 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#235 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       __streambuf_type*
       pubsetbuf(char_type* __s, streamsize __n)
       { return this->setbuf(__s, __n); }
@@ -14302,14 +14322,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       int
       pubsync() { return this->sync(); }
-# 262 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#262 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       streamsize
       in_avail()
       {
  const streamsize __ret = this->egptr() - this->gptr();
  return __ret ? __ret : this->showmanyc();
       }
-# 276 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#276 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       int_type
       snextc()
       {
@@ -14319,7 +14339,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __ret = this->sgetc();
  return __ret;
       }
-# 294 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#294 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       int_type
       sbumpc()
       {
@@ -14333,7 +14353,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __ret = this->uflow();
  return __ret;
       }
-# 316 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#316 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       int_type
       sgetc()
       {
@@ -14344,11 +14364,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __ret = this->underflow();
  return __ret;
       }
-# 335 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#335 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       streamsize
       sgetn(char_type* __s, streamsize __n)
       { return this->xsgetn(__s, __n); }
-# 350 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#350 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       int_type
       sputbackc(char_type __c)
       {
@@ -14364,7 +14384,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    }
  return __ret;
       }
-# 375 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#375 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       int_type
       sungetc()
       {
@@ -14378,7 +14398,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __ret = this->pbackfail();
  return __ret;
       }
-# 402 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#402 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       int_type
       sputc(char_type __c)
       {
@@ -14393,19 +14413,19 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __ret = this->overflow(traits_type::to_int_type(__c));
  return __ret;
       }
-# 428 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#428 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       streamsize
       sputn(const char_type* __s, streamsize __n)
       { return this->xsputn(__s, __n); }
 
     protected:
-# 442 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#442 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       basic_streambuf()
       : _M_in_beg(0), _M_in_cur(0), _M_in_end(0),
       _M_out_beg(0), _M_out_cur(0), _M_out_end(0),
       _M_buf_locale(locale())
       { }
-# 460 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#460 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       char_type*
       eback() const { return _M_in_beg; }
 
@@ -14414,10 +14434,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       char_type*
       egptr() const { return _M_in_end; }
-# 476 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#476 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       void
       gbump(int __n) { _M_in_cur += __n; }
-# 487 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#487 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       void
       setg(char_type* __gbeg, char_type* __gnext, char_type* __gend)
       {
@@ -14425,7 +14445,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  _M_in_cur = __gnext;
  _M_in_end = __gend;
       }
-# 507 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#507 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       char_type*
       pbase() const { return _M_out_beg; }
 
@@ -14434,48 +14454,48 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       char_type*
       epptr() const { return _M_out_end; }
-# 523 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#523 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       void
       pbump(int __n) { _M_out_cur += __n; }
-# 533 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#533 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       void
       setp(char_type* __pbeg, char_type* __pend)
       {
  _M_out_beg = _M_out_cur = __pbeg;
  _M_out_end = __pend;
       }
-# 554 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#554 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual void
       imbue(const locale&)
       { }
-# 569 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#569 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual basic_streambuf<char_type,_Traits>*
       setbuf(char_type*, streamsize)
       { return this; }
-# 580 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#580 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual pos_type
       seekoff(off_type, ios_base::seekdir,
        ios_base::openmode = ios_base::in | ios_base::out)
       { return pos_type(off_type(-1)); }
-# 592 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#592 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual pos_type
       seekpos(pos_type,
        ios_base::openmode = ios_base::in | ios_base::out)
       { return pos_type(off_type(-1)); }
-# 605 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#605 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual int
       sync() { return 0; }
-# 627 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#627 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual streamsize
       showmanyc() { return 0; }
-# 643 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#643 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual streamsize
       xsgetn(char_type* __s, streamsize __n);
-# 665 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#665 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual int_type
       underflow()
       { return traits_type::eof(); }
-# 678 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#678 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual int_type
       uflow()
       {
@@ -14489,14 +14509,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
    }
  return __ret;
       }
-# 702 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#702 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual int_type
       pbackfail(int_type = traits_type::eof())
       { return traits_type::eof(); }
-# 720 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#720 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual streamsize
       xsputn(const char_type* __s, streamsize __n);
-# 746 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#746 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       virtual int_type
       overflow(int_type = traits_type::eof())
       { return traits_type::eof(); }
@@ -14504,7 +14524,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
     public:
-# 761 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
+#761 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 3
       void
       stossc()
       {
@@ -14552,9 +14572,9 @@ namespace std __attribute__ ((__visibility__ ("default")))
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf.tcc" 1 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf.tcc" 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf.tcc" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf.tcc" 1 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf.tcc" 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf.tcc" 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -14691,29 +14711,29 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 808 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 2 3
-# 44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 1 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#808 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/streambuf" 2 3
+#44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 1 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
-# 51 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
-# 1 "/usr/include/wctype.h" 1 3 4
-# 33 "/usr/include/wctype.h" 3 4
-# 1 "/usr/include/wchar.h" 1 3 4
-# 34 "/usr/include/wctype.h" 2 3 4
-# 52 "/usr/include/wctype.h" 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
+#51 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
+#1 "/usr/include/wctype.h" 1 3 4
+#33 "/usr/include/wctype.h" 3 4
+#1 "/usr/include/wchar.h" 1 3 4
+#34 "/usr/include/wctype.h" 2 3 4
+#52 "/usr/include/wctype.h" 3 4
 typedef unsigned long int wctype_t;
-# 71 "/usr/include/wctype.h" 3 4
+#71 "/usr/include/wctype.h" 3 4
 enum
 {
   __ISwupper = 0,
@@ -14746,7 +14766,7 @@ enum
 
 
 extern "C" {
-# 111 "/usr/include/wctype.h" 3 4
+#111 "/usr/include/wctype.h" 3 4
 extern int iswalnum (wint_t __wc) throw ();
 
 
@@ -14799,13 +14819,13 @@ extern int iswxdigit (wint_t __wc) throw ();
 
 
 extern int iswblank (wint_t __wc) throw ();
-# 171 "/usr/include/wctype.h" 3 4
+#171 "/usr/include/wctype.h" 3 4
 extern wctype_t wctype (const char *__property) throw ();
 
 
 
 extern int iswctype (wint_t __wc, wctype_t __desc) throw ();
-# 186 "/usr/include/wctype.h" 3 4
+#186 "/usr/include/wctype.h" 3 4
 typedef const __int32_t *wctrans_t;
 
 
@@ -14821,7 +14841,7 @@ extern wint_t towupper (wint_t __wc) throw ();
 
 
 }
-# 213 "/usr/include/wctype.h" 3 4
+#213 "/usr/include/wctype.h" 3 4
 extern "C" {
 
 
@@ -14831,7 +14851,7 @@ extern wctrans_t wctrans (const char *__property) throw ();
 
 
 extern wint_t towctrans (wint_t __wc, wctrans_t __desc) throw ();
-# 230 "/usr/include/wctype.h" 3 4
+#230 "/usr/include/wctype.h" 3 4
 extern int iswalnum_l (wint_t __wc, __locale_t __locale) throw ();
 
 
@@ -14917,8 +14937,8 @@ extern wint_t towctrans_l (wint_t __wc, wctrans_t __desc,
 
 
 }
-# 52 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 2 3
-# 81 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
+#52 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 2 3
+#81 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cwctype" 3
 namespace std
 {
   using ::wctrans_t;
@@ -14946,13 +14966,13 @@ namespace std
   using ::wctrans;
   using ::wctype;
 }
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_base.h" 1 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_base.h" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cctype" 3
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_base.h" 1 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_base.h" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
 
@@ -14981,23 +15001,23 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
+#43 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
 
 
 
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 1 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 1 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 3
 
 
 
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 3
+#50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/streambuf_iterator.h" 3
   template<typename _CharT, typename _Traits>
     class istreambuf_iterator
     : public iterator<input_iterator_tag, _CharT, typename _Traits::off_type,
@@ -15348,11 +15368,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
+#50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<typename _Tp>
     void
     __convert_to_v(const char*, _Tp&, ios_base::iostate&,
@@ -15417,7 +15437,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  *__s = __ws[__j];
       return __s;
     }
-# 143 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#143 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<typename _CharT>
     class __ctype_abstract_base : public locale::facet, public ctype_base
     {
@@ -15425,51 +15445,51 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
       typedef _CharT char_type;
-# 161 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#161 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       bool
       is(mask __m, char_type __c) const
       { return this->do_is(__m, __c); }
-# 178 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#178 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       is(const char_type *__lo, const char_type *__hi, mask *__vec) const
       { return this->do_is(__lo, __hi, __vec); }
-# 194 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#194 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       scan_is(mask __m, const char_type* __lo, const char_type* __hi) const
       { return this->do_scan_is(__m, __lo, __hi); }
-# 210 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#210 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       scan_not(mask __m, const char_type* __lo, const char_type* __hi) const
       { return this->do_scan_not(__m, __lo, __hi); }
-# 224 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#224 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       toupper(char_type __c) const
       { return this->do_toupper(__c); }
-# 239 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#239 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       toupper(char_type *__lo, const char_type* __hi) const
       { return this->do_toupper(__lo, __hi); }
-# 253 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#253 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       tolower(char_type __c) const
       { return this->do_tolower(__c); }
-# 268 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#268 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       tolower(char_type* __lo, const char_type* __hi) const
       { return this->do_tolower(__lo, __hi); }
-# 285 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#285 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       widen(char __c) const
       { return this->do_widen(__c); }
-# 304 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#304 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char*
       widen(const char* __lo, const char* __hi, char_type* __to) const
       { return this->do_widen(__lo, __hi, __to); }
-# 323 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#323 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char
       narrow(char_type __c, char __dfault) const
       { return this->do_narrow(__c, __dfault); }
-# 345 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#345 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       narrow(const char_type* __lo, const char_type* __hi,
        char __dfault, char *__to) const
@@ -15481,49 +15501,49 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       virtual
       ~__ctype_abstract_base() { }
-# 370 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#370 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual bool
       do_is(mask __m, char_type __c) const = 0;
-# 389 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#389 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_is(const char_type* __lo, const char_type* __hi,
      mask* __vec) const = 0;
-# 408 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#408 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_is(mask __m, const char_type* __lo,
    const char_type* __hi) const = 0;
-# 427 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#427 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_not(mask __m, const char_type* __lo,
     const char_type* __hi) const = 0;
-# 445 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#445 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_toupper(char_type) const = 0;
-# 462 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#462 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_toupper(char_type* __lo, const char_type* __hi) const = 0;
-# 478 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#478 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_tolower(char_type) const = 0;
-# 495 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#495 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_tolower(char_type* __lo, const char_type* __hi) const = 0;
-# 514 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#514 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_widen(char) const = 0;
-# 535 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#535 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char*
       do_widen(const char* __lo, const char* __hi,
         char_type* __dest) const = 0;
-# 557 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#557 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char
       do_narrow(char_type, char __dfault) const = 0;
-# 581 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#581 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_narrow(const char_type* __lo, const char_type* __hi,
   char __dfault, char* __dest) const = 0;
     };
-# 604 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#604 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<typename _CharT>
     class ctype : public __ctype_abstract_base<_CharT>
     {
@@ -15583,7 +15603,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
   template<typename _CharT>
     locale::id ctype<_CharT>::id;
-# 673 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#673 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<>
     class ctype<char> : public locale::facet, public ctype_base
     {
@@ -15610,42 +15630,42 @@ namespace std __attribute__ ((__visibility__ ("default")))
       static locale::id id;
 
       static const size_t table_size = 1 + static_cast<unsigned char>(-1);
-# 710 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#710 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       ctype(const mask* __table = 0, bool __del = false, size_t __refs = 0);
-# 723 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#723 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       ctype(__c_locale __cloc, const mask* __table = 0, bool __del = false,
      size_t __refs = 0);
-# 736 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#736 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       inline bool
       is(mask __m, char __c) const;
-# 751 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#751 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       inline const char*
       is(const char* __lo, const char* __hi, mask* __vec) const;
-# 765 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#765 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       inline const char*
       scan_is(mask __m, const char* __lo, const char* __hi) const;
-# 779 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#779 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       inline const char*
       scan_not(mask __m, const char* __lo, const char* __hi) const;
-# 794 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#794 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       toupper(char_type __c) const
       { return this->do_toupper(__c); }
-# 811 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#811 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       toupper(char_type *__lo, const char_type* __hi) const
       { return this->do_toupper(__lo, __hi); }
-# 827 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#827 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       tolower(char_type __c) const
       { return this->do_tolower(__c); }
-# 844 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#844 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       tolower(char_type* __lo, const char_type* __hi) const
       { return this->do_tolower(__lo, __hi); }
-# 864 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#864 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       widen(char __c) const
       {
@@ -15654,7 +15674,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  this->_M_widen_init();
  return this->do_widen(__c);
       }
-# 891 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#891 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char*
       widen(const char* __lo, const char* __hi, char_type* __to) const
       {
@@ -15667,7 +15687,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    _M_widen_init();
  return this->do_widen(__lo, __hi, __to);
       }
-# 922 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#922 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char
       narrow(char_type __c, char __dfault) const
       {
@@ -15678,7 +15698,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    _M_narrow[static_cast<unsigned char>(__c)] = __t;
  return __t;
       }
-# 955 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#955 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       const char_type*
       narrow(const char_type* __lo, const char_type* __hi,
       char __dfault, char *__to) const
@@ -15714,34 +15734,34 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       virtual
       ~ctype();
-# 1004 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1004 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_toupper(char_type) const;
-# 1021 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1021 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_toupper(char_type* __lo, const char_type* __hi) const;
-# 1037 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1037 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_tolower(char_type) const;
-# 1054 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1054 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_tolower(char_type* __lo, const char_type* __hi) const;
-# 1074 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1074 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_widen(char __c) const
       { return __c; }
-# 1097 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1097 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char*
       do_widen(const char* __lo, const char* __hi, char_type* __dest) const
       {
  __builtin_memcpy(__dest, __lo, __hi - __lo);
  return __hi;
       }
-# 1123 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1123 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char
       do_narrow(char_type __c, char) const
       { return __c; }
-# 1149 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1149 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_narrow(const char_type* __lo, const char_type* __hi,
   char, char* __dest) const
@@ -15754,7 +15774,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       void _M_narrow_init() const;
       void _M_widen_init() const;
     };
-# 1174 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1174 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<>
     class ctype<wchar_t> : public __ctype_abstract_base<wchar_t>
     {
@@ -15780,10 +15800,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
       static locale::id id;
-# 1207 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1207 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       ctype(size_t __refs = 0);
-# 1218 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1218 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       ctype(__c_locale __cloc, size_t __refs = 0);
 
@@ -15794,41 +15814,41 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       virtual
       ~ctype();
-# 1242 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1242 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual bool
       do_is(mask __m, char_type __c) const;
-# 1261 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1261 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_is(const char_type* __lo, const char_type* __hi, mask* __vec) const;
-# 1279 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1279 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_is(mask __m, const char_type* __lo, const char_type* __hi) const;
-# 1297 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1297 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_scan_not(mask __m, const char_type* __lo,
     const char_type* __hi) const;
-# 1314 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1314 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_toupper(char_type) const;
-# 1331 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1331 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_toupper(char_type* __lo, const char_type* __hi) const;
-# 1347 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1347 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_tolower(char_type) const;
-# 1364 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1364 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_tolower(char_type* __lo, const char_type* __hi) const;
-# 1384 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1384 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_widen(char) const;
-# 1406 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1406 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char*
       do_widen(const char* __lo, const char* __hi, char_type* __dest) const;
-# 1429 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1429 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char
       do_narrow(char_type, char __dfault) const;
-# 1455 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1455 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual const char_type*
       do_narrow(const char_type* __lo, const char_type* __hi,
   char __dfault, char* __dest) const;
@@ -15886,8 +15906,8 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_inline.h" 1 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_inline.h" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_inline.h" 1 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/x86_64-unknown-linux-gnu/bits/ctype_inline.h" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
 
@@ -15928,7 +15948,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 1512 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
+#1512 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -16042,7 +16062,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    delete [] _M_falsename;
  }
     }
-# 1640 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1640 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<typename _CharT>
     class numpunct : public locale::facet
     {
@@ -16071,33 +16091,33 @@ namespace std __attribute__ ((__visibility__ ("default")))
       numpunct(size_t __refs = 0)
       : facet(__refs), _M_data(0)
       { _M_initialize_numpunct(); }
-# 1678 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1678 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       numpunct(__cache_type* __cache, size_t __refs = 0)
       : facet(__refs), _M_data(__cache)
       { _M_initialize_numpunct(); }
-# 1692 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1692 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       numpunct(__c_locale __cloc, size_t __refs = 0)
       : facet(__refs), _M_data(0)
       { _M_initialize_numpunct(__cloc); }
-# 1706 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1706 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       decimal_point() const
       { return this->do_decimal_point(); }
-# 1719 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1719 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       char_type
       thousands_sep() const
       { return this->do_thousands_sep(); }
-# 1750 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1750 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       string
       grouping() const
       { return this->do_grouping(); }
-# 1763 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1763 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       string_type
       truename() const
       { return this->do_truename(); }
-# 1776 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1776 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       string_type
       falsename() const
       { return this->do_falsename(); }
@@ -16106,23 +16126,23 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       virtual
       ~numpunct();
-# 1793 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1793 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_decimal_point() const
       { return _M_data->_M_decimal_point; }
-# 1805 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1805 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual char_type
       do_thousands_sep() const
       { return _M_data->_M_thousands_sep; }
-# 1818 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1818 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual string
       do_grouping() const
       { return _M_data->_M_grouping; }
-# 1831 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1831 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual string_type
       do_truename() const
       { return _M_data->_M_truename; }
-# 1844 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1844 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual string_type
       do_falsename() const
       { return _M_data->_M_falsename; }
@@ -16177,7 +16197,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       virtual
       ~numpunct_byname() { }
     };
-# 1914 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1914 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<typename _CharT, typename _InIter>
     class num_get : public locale::facet
     {
@@ -16191,15 +16211,15 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
       static locale::id id;
-# 1935 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1935 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       num_get(size_t __refs = 0) : facet(__refs) { }
-# 1961 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1961 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, bool& __v) const
       { return this->do_get(__in, __end, __io, __err, __v); }
-# 1997 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#1997 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, long& __v) const
@@ -16230,7 +16250,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, unsigned long long& __v) const
       { return this->do_get(__in, __end, __io, __err, __v); }
-# 2056 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2056 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, float& __v) const
@@ -16245,7 +16265,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, long double& __v) const
       { return this->do_get(__in, __end, __io, __err, __v); }
-# 2098 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2098 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       get(iter_type __in, iter_type __end, ios_base& __io,
    ios_base::iostate& __err, void*& __v) const
@@ -16301,7 +16321,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
      }
    return __ret;
  }
-# 2169 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2169 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual iter_type
       do_get(iter_type, iter_type, ios_base&, ios_base::iostate&, bool&) const;
 
@@ -16359,12 +16379,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
       virtual iter_type
       do_get(iter_type, iter_type, ios_base&, ios_base::iostate& __err,
       void*&) const;
-# 2234 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2234 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
     };
 
   template<typename _CharT, typename _InIter>
     locale::id num_get<_CharT, _InIter>::id;
-# 2252 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2252 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<typename _CharT, typename _OutIter>
     class num_put : public locale::facet
     {
@@ -16378,14 +16398,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
       static locale::id id;
-# 2273 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2273 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       explicit
       num_put(size_t __refs = 0) : facet(__refs) { }
-# 2291 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2291 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __f, char_type __fill, bool __v) const
       { return this->do_put(__s, __f, __fill, __v); }
-# 2333 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2333 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __f, char_type __fill, long __v) const
       { return this->do_put(__s, __f, __fill, __v); }
@@ -16404,7 +16424,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       put(iter_type __s, ios_base& __f, char_type __fill,
    unsigned long long __v) const
       { return this->do_put(__s, __f, __fill, __v); }
-# 2396 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2396 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __f, char_type __fill, double __v) const
       { return this->do_put(__s, __f, __fill, __v); }
@@ -16413,7 +16433,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       put(iter_type __s, ios_base& __f, char_type __fill,
    long double __v) const
       { return this->do_put(__s, __f, __fill, __v); }
-# 2421 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2421 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       iter_type
       put(iter_type __s, ios_base& __f, char_type __fill,
    const void* __v) const
@@ -16447,7 +16467,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       virtual
       ~num_put() { };
-# 2469 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2469 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
       virtual iter_type
       do_put(iter_type, ios_base&, char_type __fill, bool __v) const;
 
@@ -16497,7 +16517,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
   template <typename _CharT, typename _OutIter>
     locale::id num_put<_CharT, _OutIter>::id;
-# 2527 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
+#2527 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 3
   template<typename _CharT>
     inline bool
     isspace(_CharT __c, const locale& __loc)
@@ -16579,9 +16599,9 @@ namespace std __attribute__ ((__visibility__ ("default")))
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 1 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 1 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -16675,7 +16695,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
                           ;
  }
     }
-# 137 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#137 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
   __attribute__ ((__pure__)) bool
   __verify_grouping(const char* __grouping, size_t __grouping_size,
       const string& __grouping_tmp) throw ();
@@ -17252,7 +17272,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  __err |= ios_base::eofbit;
       return __beg;
     }
-# 731 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#731 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _InIter>
     _InIter
     num_get<_CharT, _InIter>::
@@ -17478,7 +17498,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  }
       __len = __newlen;
     }
-# 967 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#967 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _OutIter>
     template<typename _ValueT>
       _OutIter
@@ -17519,7 +17539,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
      __len = std::__convert_from_v(_S_get_c_locale(), __cs, __cs_size,
        __fbuf, __prec, __v);
    }
-# 1028 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#1028 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
  const ctype<_CharT>& __ctype = use_facet<ctype<_CharT> >(__loc);
 
  _CharT* __ws = static_cast<_CharT*>(__builtin_alloca(sizeof(_CharT)
@@ -17636,7 +17656,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     num_put<_CharT, _OutIter>::
     do_put(iter_type __s, ios_base& __io, char_type __fill, double __v) const
     { return _M_insert_float(__s, __io, __fill, char(), __v); }
-# 1153 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#1153 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _OutIter>
     _OutIter
     num_put<_CharT, _OutIter>::
@@ -17664,7 +17684,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __io.flags(__flags);
       return __s;
     }
-# 1190 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
+#1190 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.tcc" 3
   template<typename _CharT, typename _Traits>
     void
     __pad<_CharT, _Traits>::_S_pad(ios_base& __io, _CharT __fill,
@@ -17835,8 +17855,8 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 2608 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 2 3
+#2608 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/locale_facets.h" 2 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 2 3
 
 
 namespace std __attribute__ ((__visibility__ ("default")))
@@ -17851,7 +17871,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  __throw_bad_cast();
       return *__f;
     }
-# 62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
   template<typename _CharT, typename _Traits>
     class basic_ios : public ios_base
     {
@@ -17908,11 +17928,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
       bool
       operator!() const
       { return this->fail(); }
-# 127 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#127 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       iostate
       rdstate() const
       { return _M_streambuf_state; }
-# 138 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#138 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       void
       clear(iostate __state = goodbit);
 
@@ -17958,7 +17978,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       bool
       eof() const
       { return (this->rdstate() & eofbit) != 0; }
-# 191 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#191 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       bool
       fail() const
       { return (this->rdstate() & (badbit | failbit)) != 0; }
@@ -17972,11 +17992,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
       bool
       bad() const
       { return (this->rdstate() & badbit) != 0; }
-# 212 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#212 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       iostate
       exceptions() const
       { return _M_exception; }
-# 247 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#247 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       void
       exceptions(iostate __except)
       {
@@ -18004,11 +18024,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       virtual
       ~basic_ios() { }
-# 285 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#285 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       basic_ostream<_CharT, _Traits>*
       tie() const
       { return _M_tie; }
-# 297 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#297 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       basic_ostream<_CharT, _Traits>*
       tie(basic_ostream<_CharT, _Traits>* __tiestr)
       {
@@ -18026,10 +18046,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
       basic_streambuf<_CharT, _Traits>*
       rdbuf() const
       { return _M_streambuf; }
-# 337 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#337 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       basic_streambuf<_CharT, _Traits>*
       rdbuf(basic_streambuf<_CharT, _Traits>* __sb);
-# 351 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#351 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       basic_ios&
       copyfmt(const basic_ios& __rhs);
 
@@ -18049,7 +18069,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    }
  return _M_fill;
       }
-# 380 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#380 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       char_type
       fill(char_type __ch)
       {
@@ -18057,14 +18077,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
  _M_fill = __ch;
  return __old;
       }
-# 400 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#400 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       locale
       imbue(const locale& __loc);
-# 420 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#420 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       char
       narrow(char_type __c, char __dfault) const
       { return __check_facet(_M_ctype).narrow(__c, __dfault); }
-# 439 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
+#439 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 3
       char_type
       widen(char __c) const
       { return __check_facet(_M_ctype).widen(__c); }
@@ -18099,9 +18119,9 @@ namespace std __attribute__ ((__visibility__ ("default")))
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 1 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 3
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 1 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 3
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -18201,7 +18221,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
       _M_cache_locale(_M_ios_locale);
-# 146 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 3
+#146 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.tcc" 3
       _M_fill = _CharT();
       _M_fill_init = false;
 
@@ -18243,14 +18263,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 473 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 2 3
-# 45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 2 3
+#473 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/basic_ios.h" 2 3
+#45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ios" 2 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 2 3
 
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
   template<typename _CharT, typename _Traits>
     class basic_ostream : virtual public basic_ios<_CharT, _Traits>
     {
@@ -18269,7 +18289,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       typedef num_put<_CharT, ostreambuf_iterator<_CharT, _Traits> >
              __num_put_type;
       typedef ctype<_CharT> __ctype_type;
-# 82 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#82 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       explicit
       basic_ostream(__streambuf_type* __sb)
       { this->init(__sb); }
@@ -18285,7 +18305,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       class sentry;
       friend class sentry;
-# 108 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#108 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       __ostream_type&
       operator<<(__ostream_type& (*__pf)(__ostream_type&))
       {
@@ -18314,7 +18334,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  __pf(*this);
  return *this;
       }
-# 165 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#165 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       __ostream_type&
       operator<<(long __n)
       { return _M_insert(__n); }
@@ -18378,10 +18398,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __ostream_type&
       operator<<(const void* __p)
       { return _M_insert(__p); }
-# 250 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#250 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       __ostream_type&
       operator<<(__streambuf_type* __sb);
-# 283 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#283 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       __ostream_type&
       put(char_type __c);
 
@@ -18393,19 +18413,19 @@ namespace std __attribute__ ((__visibility__ ("default")))
  if (__put != __n)
    this->setstate(ios_base::badbit);
       }
-# 311 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#311 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       __ostream_type&
       write(const char_type* __s, streamsize __n);
-# 324 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#324 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       __ostream_type&
       flush();
-# 335 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#335 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       pos_type
       tellp();
-# 346 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#346 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       __ostream_type&
       seekp(pos_type);
-# 358 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#358 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
        __ostream_type&
       seekp(off_type, ios_base::seekdir);
 
@@ -18417,7 +18437,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
         __ostream_type&
         _M_insert(_ValueT __v);
     };
-# 377 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#377 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
   template <typename _CharT, typename _Traits>
     class basic_ostream<_CharT, _Traits>::sentry
     {
@@ -18426,10 +18446,10 @@ namespace std __attribute__ ((__visibility__ ("default")))
       basic_ostream<_CharT, _Traits>& _M_os;
 
     public:
-# 396 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#396 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       explicit
       sentry(basic_ostream<_CharT, _Traits>& __os);
-# 406 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#406 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       ~sentry()
       {
 
@@ -18440,11 +18460,11 @@ namespace std __attribute__ ((__visibility__ ("default")))
        _M_os.setstate(ios_base::badbit);
    }
       }
-# 427 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#427 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
       operator bool() const
       { return _M_ok; }
     };
-# 448 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#448 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
   template<typename _CharT, typename _Traits>
     inline basic_ostream<_CharT, _Traits>&
     operator<<(basic_ostream<_CharT, _Traits>& __out, _CharT __c)
@@ -18471,7 +18491,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     inline basic_ostream<char, _Traits>&
     operator<<(basic_ostream<char, _Traits>& __out, unsigned char __c)
     { return (__out << static_cast<char>(__c)); }
-# 490 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#490 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
   template<typename _CharT, typename _Traits>
     inline basic_ostream<_CharT, _Traits>&
     operator<<(basic_ostream<_CharT, _Traits>& __out, const _CharT* __s)
@@ -18511,7 +18531,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     inline basic_ostream<char, _Traits> &
     operator<<(basic_ostream<char, _Traits>& __out, const unsigned char* __s)
     { return (__out << reinterpret_cast<const char*>(__s)); }
-# 540 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#540 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
   template<typename _CharT, typename _Traits>
     inline basic_ostream<_CharT, _Traits>&
     endl(basic_ostream<_CharT, _Traits>& __os)
@@ -18537,13 +18557,13 @@ namespace std __attribute__ ((__visibility__ ("default")))
     inline basic_ostream<_CharT, _Traits>&
     flush(basic_ostream<_CharT, _Traits>& __os)
     { return __os.flush(); }
-# 585 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
+#585 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 3
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream.tcc" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream.tcc" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream.tcc" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream.tcc" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream.tcc" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/ostream.tcc" 3
 
 
 
@@ -18912,18 +18932,18 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 588 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 2 3
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 1 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#588 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/ostream" 2 3
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 1 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
 
 
 
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
   template<typename _CharT, typename _Traits>
     class basic_istream : virtual public basic_ios<_CharT, _Traits>
     {
@@ -18952,7 +18972,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       streamsize _M_gcount;
 
     public:
-# 91 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#91 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       explicit
       basic_istream(__streambuf_type* __sb)
       : _M_gcount(streamsize(0))
@@ -18970,7 +18990,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       class sentry;
       friend class sentry;
-# 120 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#120 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       operator>>(__istream_type& (*__pf)(__istream_type&))
       { return __pf(*this); }
@@ -18988,7 +19008,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
  __pf(*this);
  return *this;
       }
-# 167 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#167 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       operator>>(bool& __n)
       { return _M_extract(__n); }
@@ -19040,41 +19060,41 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __istream_type&
       operator>>(void*& __p)
       { return _M_extract(__p); }
-# 239 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#239 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       operator>>(__streambuf_type* __sb);
-# 249 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#249 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       streamsize
       gcount() const
       { return _M_gcount; }
-# 281 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#281 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       int_type
       get();
-# 295 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#295 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       get(char_type& __c);
-# 322 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#322 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       get(char_type* __s, streamsize __n, char_type __delim);
-# 333 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#333 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       get(char_type* __s, streamsize __n)
       { return this->get(__s, __n, this->widen('\n')); }
-# 356 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#356 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       get(__streambuf_type& __sb, char_type __delim);
-# 366 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#366 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       get(__streambuf_type& __sb)
       { return this->get(__sb, this->widen('\n')); }
-# 395 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#395 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       getline(char_type* __s, streamsize __n, char_type __delim);
-# 406 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#406 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       getline(char_type* __s, streamsize __n)
       { return this->getline(__s, __n, this->widen('\n')); }
-# 430 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#430 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       ignore();
 
@@ -19083,31 +19103,31 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       __istream_type&
       ignore(streamsize __n, int_type __delim);
-# 447 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#447 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       int_type
       peek();
-# 465 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#465 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       read(char_type* __s, streamsize __n);
-# 484 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#484 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       streamsize
       readsome(char_type* __s, streamsize __n);
-# 501 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#501 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       putback(char_type __c);
-# 517 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#517 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       unget();
-# 535 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#535 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       int
       sync();
-# 550 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#550 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       pos_type
       tellg();
-# 565 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#565 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       seekg(pos_type);
-# 581 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#581 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       __istream_type&
       seekg(off_type, ios_base::seekdir);
 
@@ -19153,7 +19173,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     basic_istream<wchar_t>&
     basic_istream<wchar_t>::
     ignore(streamsize __n, int_type __delim);
-# 636 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#636 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
   template<typename _CharT, typename _Traits>
     class basic_istream<_CharT, _Traits>::sentry
     {
@@ -19167,14 +19187,14 @@ namespace std __attribute__ ((__visibility__ ("default")))
       typedef basic_istream<_CharT, _Traits> __istream_type;
       typedef typename __istream_type::__ctype_type __ctype_type;
       typedef typename _Traits::int_type __int_type;
-# 672 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#672 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       explicit
       sentry(basic_istream<_CharT, _Traits>& __is, bool __noskipws = false);
-# 685 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#685 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
       operator bool() const
       { return _M_ok; }
     };
-# 702 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#702 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
   template<typename _CharT, typename _Traits>
     basic_istream<_CharT, _Traits>&
     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c);
@@ -19188,7 +19208,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     inline basic_istream<char, _Traits>&
     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
     { return (__in >> reinterpret_cast<char&>(__c)); }
-# 744 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#744 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
   template<typename _CharT, typename _Traits>
     basic_istream<_CharT, _Traits>&
     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s);
@@ -19207,7 +19227,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     inline basic_istream<char, _Traits>&
     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
     { return (__in >> reinterpret_cast<char*>(__s)); }
-# 772 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#772 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
   template<typename _CharT, typename _Traits>
     class basic_iostream
     : public basic_istream<_CharT, _Traits>,
@@ -19247,17 +19267,17 @@ namespace std __attribute__ ((__visibility__ ("default")))
       basic_iostream()
       : __istream_type(), __ostream_type() { }
     };
-# 833 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#833 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
   template<typename _CharT, typename _Traits>
     basic_istream<_CharT, _Traits>&
     ws(basic_istream<_CharT, _Traits>& __is);
-# 856 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
+#856 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 3
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 3
 
 
 
@@ -19725,7 +19745,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
               const int_type __eof = traits_type::eof();
               __streambuf_type* __sb = this->rdbuf();
               int_type __c = __sb->sgetc();
-# 514 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 3
+#514 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/istream.tcc" 3
        bool __large_ignore = false;
        while (true)
   {
@@ -20304,12 +20324,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 859 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 2 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 2 3
+#859 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/istream" 2 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 3
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/iostream" 3
   extern istream cin;
   extern ostream cout;
   extern ostream cerr;
@@ -20328,47 +20348,47 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
+#69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
 
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/limits.h" 1 3
-# 38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/limits.h" 3
-# 1 "/usr/include/limits.h" 1 3 4
-# 144 "/usr/include/limits.h" 3 4
-# 1 "/usr/include/bits/posix1_lim.h" 1 3 4
-# 160 "/usr/include/bits/posix1_lim.h" 3 4
-# 1 "/usr/include/bits/local_lim.h" 1 3 4
-# 38 "/usr/include/bits/local_lim.h" 3 4
-# 1 "/usr/include/linux/limits.h" 1 3 4
-# 39 "/usr/include/bits/local_lim.h" 2 3 4
-# 161 "/usr/include/bits/posix1_lim.h" 2 3 4
-# 145 "/usr/include/limits.h" 2 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/limits.h" 1 3
+#38 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/limits.h" 3
+#1 "/usr/include/limits.h" 1 3 4
+#144 "/usr/include/limits.h" 3 4
+#1 "/usr/include/bits/posix1_lim.h" 1 3 4
+#160 "/usr/include/bits/posix1_lim.h" 3 4
+#1 "/usr/include/bits/local_lim.h" 1 3 4
+#38 "/usr/include/bits/local_lim.h" 3 4
+#1 "/usr/include/linux/limits.h" 1 3 4
+#39 "/usr/include/bits/local_lim.h" 2 3 4
+#161 "/usr/include/bits/posix1_lim.h" 2 3 4
+#145 "/usr/include/limits.h" 2 3 4
 
 
 
-# 1 "/usr/include/bits/posix2_lim.h" 1 3 4
-# 149 "/usr/include/limits.h" 2 3 4
+#1 "/usr/include/bits/posix2_lim.h" 1 3 4
+#149 "/usr/include/limits.h" 2 3 4
 
 
 
-# 1 "/usr/include/bits/xopen_lim.h" 1 3 4
-# 33 "/usr/include/bits/xopen_lim.h" 3 4
-# 1 "/usr/include/bits/stdio_lim.h" 1 3 4
-# 34 "/usr/include/bits/xopen_lim.h" 2 3 4
-# 153 "/usr/include/limits.h" 2 3 4
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/limits.h" 2 3
-# 74 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
-# 111 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#1 "/usr/include/bits/xopen_lim.h" 1 3 4
+#33 "/usr/include/bits/xopen_lim.h" 3 4
+#1 "/usr/include/bits/stdio_lim.h" 1 3 4
+#34 "/usr/include/bits/xopen_lim.h" 2 3 4
+#153 "/usr/include/limits.h" 2 3 4
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/limits.h" 2 3
+#74 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
+#111 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 typedef unsigned long long ap_ulong;
 typedef signed long long ap_slong;
-# 147 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#147 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 extern "C" void _ssdm_string2bits(...);
-# 158 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#158 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_N, bool _AP_S> struct ssdm_int;
-# 184 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_dt.def" 1
+#184 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_dt.def" 1
 
 
 template<> struct ssdm_int<1 + 1024 * 0,true> { int V __attribute__ ((bitwidth(1 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1 + 1024 * 0 ,true>() { }; }; template<> struct ssdm_int<1 + 1024 * 0, false> { unsigned int V __attribute__ ((bitwidth(1 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1 + 1024 * 0 , false>() { }; };
@@ -21407,12 +21427,12 @@ template<> struct ssdm_int<1021 + 1024 * 0,true> { int V __attribute__ ((bitwidt
 template<> struct ssdm_int<1022 + 1024 * 0,true> { int V __attribute__ ((bitwidth(1022 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1022 + 1024 * 0 ,true>() { }; }; template<> struct ssdm_int<1022 + 1024 * 0, false> { unsigned int V __attribute__ ((bitwidth(1022 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1022 + 1024 * 0 , false>() { }; };
 template<> struct ssdm_int<1023 + 1024 * 0,true> { int V __attribute__ ((bitwidth(1023 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1023 + 1024 * 0 ,true>() { }; }; template<> struct ssdm_int<1023 + 1024 * 0, false> { unsigned int V __attribute__ ((bitwidth(1023 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1023 + 1024 * 0 , false>() { }; };
 template<> struct ssdm_int<1024 + 1024 * 0,true> { int V __attribute__ ((bitwidth(1024 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1024 + 1024 * 0 ,true>() { }; }; template<> struct ssdm_int<1024 + 1024 * 0, false> { unsigned int V __attribute__ ((bitwidth(1024 + 1024 * 0))); inline __attribute__((always_inline)) ssdm_int<1024 + 1024 * 0 , false>() { }; };
-# 185 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
-# 603 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#185 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
+#603 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 enum BaseMode { SC_BIN=2, SC_OCT=8, SC_DEC=10, SC_HEX=16 };
-# 646 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_ssdm_bits.h" 1
-# 647 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
+#646 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_ssdm_bits.h" 1
+#647 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h" 2
 
 
 
@@ -21639,7 +21659,7 @@ struct ap_concat_ref {
   operator ^ (const ap_int_base<_AP_W3,_AP_S3>& a2) {
     return get() ^ a2;
   }
-# 882 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#882 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   inline __attribute__((always_inline)) ap_int_base<_AP_WR,false> get() const {
     ap_int_base<_AP_WR,false> tmpVal(0);
     int W_ref1 = mbv1.length();
@@ -21668,7 +21688,7 @@ struct ap_concat_ref {
     return mbv1.length() + mbv2.length();
   }
 };
-# 924 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#924 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S>
 struct ap_range_ref {
   ap_int_base<_AP_W,_AP_S> &d_bv;
@@ -22308,7 +22328,7 @@ public:
     Base::V = Result;
   }
 
-  inline __attribute__((always_inline)) ap_int_base(const char* str, signed char radix) {
+  inline __attribute__((always_inline)) ap_int_base(const char* str, signed char radix) {_ssdm_SpecConstant(&width);
     typeof(Base::V) Result;
     _ssdm_string2bits((void*)(&Result), (const char*)(str), radix,
         _AP_W, _AP_S, SC_TRN, SC_WRAP, 0, true);
@@ -22359,7 +22379,7 @@ public:
   inline __attribute__((always_inline)) void operator = (const ap_int_base<_AP_W, _AP_S>& op2) volatile {
     Base::V = op2.V;
   }
-# 1622 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#1622 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   template<int _AP_W2, bool _AP_S2>
   inline __attribute__((always_inline)) ap_int_base& operator = (const volatile ap_int_base<_AP_W2,_AP_S2>& op2) {
     Base::V = op2.V;
@@ -22466,7 +22486,7 @@ public:
   inline __attribute__((always_inline)) ap_slong to_int64() const { return (ap_slong)(Base::V); }
   inline __attribute__((always_inline)) ap_ulong to_uint64() const { return (ap_ulong)(Base::V); }
   inline __attribute__((always_inline)) double to_double() const { return (double)(Base::V); }
-# 1741 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#1741 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   inline __attribute__((always_inline)) int length() const { return _AP_W; }
   inline __attribute__((always_inline)) int length() const volatile { return _AP_W; }
 
@@ -22592,7 +22612,7 @@ public:
       return NZeros;
     }
   }
-# 1878 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#1878 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   template<int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base& operator *= ( const ap_int_base<_AP_W2,_AP_S2> &op2) { ; Base::V *= op2.V; return *this; }
   template<int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base& operator += ( const ap_int_base<_AP_W2,_AP_S2> &op2) { ; Base::V += op2.V; return *this; }
   template<int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base& operator -= ( const ap_int_base<_AP_W2,_AP_S2> &op2) { ; Base::V -= op2.V; return *this; }
@@ -22798,7 +22818,7 @@ public:
   operator () (int Hi, int Lo) const {
     return this->range(Hi, Lo);
   }
-# 2099 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#2099 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   inline __attribute__((always_inline)) ap_bit_ref<_AP_W,_AP_S> operator [] (int index) {
                                                                        ;
                                                                  ;
@@ -22853,7 +22873,7 @@ public:
     ap_bit_ref<_AP_W,_AP_S> br = bit(index);
     return br.to_bool();
   }
-# 2162 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#2162 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   template <int _AP_W2, bool _AP_S2>
   inline __attribute__((always_inline)) ap_concat_ref<_AP_W,ap_int_base,_AP_W2,ap_int_base<_AP_W2,_AP_S2> > concat(const ap_int_base<_AP_W2,_AP_S2>& a2) const {
     return ap_concat_ref<_AP_W, ap_int_base, _AP_W2, ap_int_base<_AP_W2,_AP_S2> >(const_cast<ap_int_base<_AP_W, _AP_S>& >(*this),
@@ -23063,7 +23083,7 @@ public:
  else str[size-bit] = '0';
       }
     } else if (mode == SC_OCT || mode == SC_DEC) {
-# 2383 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#2383 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
                                              ;
     } else {
                                            ;
@@ -23186,7 +23206,7 @@ public:
     Base::V = Result;
   }
 
-  inline __attribute__((always_inline)) ap_int_base(const char* str, signed char radix) {
+  inline __attribute__((always_inline)) ap_int_base(const char* str, signed char radix) {_ssdm_SpecConstant(&width);
     typeof(Base::V) Result;
     _ssdm_string2bits((void*)(&Result), (const char*)(str), radix,
         _AP_W, _AP_S, SC_TRN, SC_WRAP, 0, true);
@@ -23237,7 +23257,7 @@ public:
   inline __attribute__((always_inline)) void operator = (const ap_int_base<_AP_W, _AP_S>& op2) volatile {
     Base::V = op2.V;
   }
-# 2564 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#2564 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   template<int _AP_W2, bool _AP_S2>
   inline __attribute__((always_inline)) ap_int_base& operator = (const volatile ap_int_base<_AP_W2,_AP_S2>& op2) {
     Base::V = op2.V;
@@ -23345,7 +23365,7 @@ public:
   inline __attribute__((always_inline)) ap_slong to_int64() const { return (ap_slong)(Base::V); }
   inline __attribute__((always_inline)) ap_ulong to_uint64() const { return (ap_ulong)(Base::V); }
   inline __attribute__((always_inline)) double to_double() const { return (double)(Base::V); }
-# 2683 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#2683 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   inline __attribute__((always_inline)) int length() const { return _AP_W; }
   inline __attribute__((always_inline)) int length() const volatile { return _AP_W; }
 
@@ -23471,7 +23491,7 @@ public:
       return NZeros;
     }
   }
-# 2820 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#2820 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   template<int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base& operator *= ( const ap_int_base<_AP_W2,_AP_S2> &op2) { ; Base::V *= op2.V; return *this; }
   template<int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base& operator += ( const ap_int_base<_AP_W2,_AP_S2> &op2) { ; Base::V += op2.V; return *this; }
   template<int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base& operator -= ( const ap_int_base<_AP_W2,_AP_S2> &op2) { ; Base::V -= op2.V; return *this; }
@@ -23681,7 +23701,7 @@ public:
   operator () (int Hi, int Lo) const {
     return this->range(Hi, Lo);
   }
-# 3046 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3046 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   inline __attribute__((always_inline)) ap_bit_ref<_AP_W,_AP_S> operator [] (int index) {
                                                                        ;
                                                                  ;
@@ -23736,7 +23756,7 @@ public:
     ap_bit_ref<_AP_W,_AP_S> br = bit(index);
     return br.to_bool();
   }
-# 3109 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3109 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
   template <int _AP_W2, bool _AP_S2>
   inline __attribute__((always_inline)) ap_concat_ref<_AP_W,ap_int_base,_AP_W2,ap_int_base<_AP_W2,_AP_S2> > concat(const ap_int_base<_AP_W2,_AP_S2>& a2) const {
     return ap_concat_ref<_AP_W, ap_int_base, _AP_W2, ap_int_base<_AP_W2,_AP_S2> >(const_cast<ap_int_base<_AP_W, _AP_S>& >(*this),
@@ -23946,7 +23966,7 @@ public:
  else str[size-bit] = '0';
       }
     } else if (mode == SC_OCT || mode == SC_DEC) {
-# 3330 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3330 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
                                              ;
     } else {
                                            ;
@@ -23961,7 +23981,7 @@ public:
     return to_string(BaseMode(mode), sign);
   }
 };
-# 3354 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3354 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S>
 inline __attribute__((always_inline)) std::ostream& operator << (std::ostream &os, const ap_int_base<_AP_W,_AP_S> &x) {
 
@@ -23999,7 +24019,7 @@ inline __attribute__((always_inline)) std::istream& operator >> (std::istream& i
 
   return in;
 }
-# 3423 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3423 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::mult operator * (const ap_int_base<_AP_W,_AP_S> &op, const ap_int_base<_AP_W2,_AP_S2> &op2) { ; typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::mult lhs(op); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::mult rhs(op2); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::mult r ; r.V = lhs.V * rhs.V; return r; }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::plus operator + (const ap_int_base<_AP_W,_AP_S> &op, const ap_int_base<_AP_W2,_AP_S2> &op2) { ; typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::plus lhs(op); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::plus rhs(op2); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::plus r ; r.V = lhs.V + rhs.V; return r; }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::minus operator - (const ap_int_base<_AP_W,_AP_S> &op, const ap_int_base<_AP_W2,_AP_S2> &op2) { ; typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::minus lhs(op); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::minus rhs(op2); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::minus r ; r.V = lhs.V - rhs.V; return r; }
@@ -24012,14 +24032,14 @@ template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((a
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic operator & (const ap_int_base<_AP_W,_AP_S> &op, const ap_int_base<_AP_W2,_AP_S2> &op2) { ; typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic lhs(op); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic rhs(op2); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic r ; r.V = lhs.V & rhs.V; return r; }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic operator | (const ap_int_base<_AP_W,_AP_S> &op, const ap_int_base<_AP_W2,_AP_S2> &op2) { ; typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic lhs(op); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic rhs(op2); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic r ; r.V = lhs.V | rhs.V; return r; }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic operator ^ (const ap_int_base<_AP_W,_AP_S> &op, const ap_int_base<_AP_W2,_AP_S2> &op2) { ; typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic lhs(op); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic rhs(op2); typename ap_int_base<_AP_W, _AP_S>::template RType<_AP_W2,_AP_S2>::logic r ; r.V = lhs.V ^ rhs.V; return r; }
-# 3458 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3458 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<typename PTR_TYPE, int _AP_W, bool _AP_S> inline __attribute__((always_inline)) PTR_TYPE* operator + (PTR_TYPE* i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op + op2; } template<typename PTR_TYPE, int _AP_W, bool _AP_S> inline __attribute__((always_inline)) PTR_TYPE* operator + (const ap_int_base<_AP_W,_AP_S> &op, PTR_TYPE* i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return op2 + i_op; }
 template<typename PTR_TYPE, int _AP_W, bool _AP_S> inline __attribute__((always_inline)) PTR_TYPE* operator - (PTR_TYPE* i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op - op2; } template<typename PTR_TYPE, int _AP_W, bool _AP_S> inline __attribute__((always_inline)) PTR_TYPE* operator - (const ap_int_base<_AP_W,_AP_S> &op, PTR_TYPE* i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return op2 - i_op; }
-# 3483 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3483 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator * (half i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op * op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator * (const ap_int_base<_AP_W,_AP_S> &op, half i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op * op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator / (half i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op / op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator / (const ap_int_base<_AP_W,_AP_S> &op, half i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op / op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator + (half i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op + op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator + (const ap_int_base<_AP_W,_AP_S> &op, half i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op + op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator - (half i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op - op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) half operator - (const ap_int_base<_AP_W,_AP_S> &op, half i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op - op2; }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator * (float i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op * op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator * (const ap_int_base<_AP_W,_AP_S> &op, float i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op * op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator / (float i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op / op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator / (const ap_int_base<_AP_W,_AP_S> &op, float i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op / op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator + (float i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op + op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator + (const ap_int_base<_AP_W,_AP_S> &op, float i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op + op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator - (float i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op - op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) float operator - (const ap_int_base<_AP_W,_AP_S> &op, float i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op - op2; }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator * (double i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op * op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator * (const ap_int_base<_AP_W,_AP_S> &op, double i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op * op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator / (double i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op / op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator / (const ap_int_base<_AP_W,_AP_S> &op, double i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op / op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator + (double i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op + op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator + (const ap_int_base<_AP_W,_AP_S> &op, double i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op + op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator - (double i_op, const ap_int_base<_AP_W,_AP_S> &op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op - op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) double operator - (const ap_int_base<_AP_W,_AP_S> &op, double i_op) { typename ap_int_base<_AP_W,_AP_S>::RetType op2 = op; return i_op - op2; }
-# 3517 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3517 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::mult operator * (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) * (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::mult operator * ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op * ap_int_base<1,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::plus operator + (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) + (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::plus operator + ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op + ap_int_base<1,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::minus operator - (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) - (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::minus operator - ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op - ap_int_base<1,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::div operator / (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) / (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::div operator / ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op / ap_int_base<1,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::mod operator % (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) % (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::mod operator % ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op % ap_int_base<1,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::logic operator & (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) & (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::logic operator & ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op & ap_int_base<1,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::logic operator | (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) | (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::logic operator | ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op | ap_int_base<1,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::logic operator ^ (bool i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(i_op) ^ (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<1,false>::logic operator ^ ( const ap_int_base<_AP_W,_AP_S> &op, bool i_op) { return op ^ ap_int_base<1,false>(i_op); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mult operator * (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) * (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mult operator * ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op * ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::plus operator + (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) + (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::plus operator + ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op + ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::minus operator - (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) - (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::minus operator - ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op - ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::div operator / (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) / (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::div operator / ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op / ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mod operator % (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) % (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mod operator % ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op % ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator & (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) & (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator & ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op & ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator | (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) | (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator | ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op | ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator ^ (char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) ^ (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator ^ ( const ap_int_base<_AP_W,_AP_S> &op, char i_op) { return op ^ ap_int_base<8,true>(i_op); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mult operator * (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) * (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mult operator * ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op * ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::plus operator + (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) + (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::plus operator + ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op + ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::minus operator - (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) - (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::minus operator - ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op - ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::div operator / (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) / (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::div operator / ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op / ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mod operator % (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) % (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::mod operator % ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op % ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator & (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) & (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator & ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op & ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator | (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) | (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator | ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op | ap_int_base<8,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator ^ (signed char i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(i_op) ^ (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<8,true>::logic operator ^ ( const ap_int_base<_AP_W,_AP_S> &op, signed char i_op) { return op ^ ap_int_base<8,true>(i_op); }
@@ -24037,7 +24057,7 @@ template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename a
 
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::mult operator * (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) * (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::mult operator * ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op * ap_int_base<64,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::plus operator + (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) + (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::plus operator + ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op + ap_int_base<64,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::minus operator - (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) - (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::minus operator - ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op - ap_int_base<64,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::div operator / (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) / (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::div operator / ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op / ap_int_base<64,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::mod operator % (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) % (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::mod operator % ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op % ap_int_base<64,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::logic operator & (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) & (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::logic operator & ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op & ap_int_base<64,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::logic operator | (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) | (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::logic operator | ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op | ap_int_base<64,true>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::logic operator ^ (ap_slong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(i_op) ^ (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,true>::logic operator ^ ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong i_op) { return op ^ ap_int_base<64,true>(i_op); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::mult operator * (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) * (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::mult operator * ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op * ap_int_base<64,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::plus operator + (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) + (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::plus operator + ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op + ap_int_base<64,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::minus operator - (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) - (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::minus operator - ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op - ap_int_base<64,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::div operator / (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) / (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::div operator / ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op / ap_int_base<64,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::mod operator % (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) % (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::mod operator % ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op % ap_int_base<64,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::logic operator & (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) & (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::logic operator & ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op & ap_int_base<64,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::logic operator | (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) | (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::logic operator | ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op | ap_int_base<64,false>(i_op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::logic operator ^ (ap_ulong i_op, const ap_int_base<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(i_op) ^ (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,_AP_S>::template RType<64,false>::logic operator ^ ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong i_op) { return op ^ ap_int_base<64,false>(i_op); }
-# 3553 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3553 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator <= (ap_int_base<8,true>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( signed char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( signed char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( signed char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( signed char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( signed char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( signed char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator <= (ap_int_base<8,true>(op2)); }
@@ -24055,7 +24075,7 @@ template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool opera
 
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( ap_slong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,true>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator == (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( ap_slong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,true>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator != (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( ap_slong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,true>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator > (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( ap_slong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,true>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator >= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( ap_slong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,true>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator < (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( ap_slong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,true>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator <= (ap_int_base<64,true>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( ap_ulong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator == (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( ap_ulong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator != (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( ap_ulong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator > (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( ap_ulong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator >= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( ap_ulong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator < (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( ap_ulong i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<64,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator <= (ap_int_base<64,false>(op2)); }
-# 3589 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3589 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator += ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator += (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator -= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator -= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator *= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator *= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator /= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator /= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator %= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator %= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator >>= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >>= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator <<= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <<= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator &= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator &= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator |= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator |= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator ^= ( ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator ^= (ap_int_base<1,false>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator += ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator += (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator -= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator -= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator *= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator *= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator /= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator /= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator %= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator %= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator >>= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator >>= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator <<= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator <<= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator &= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator &= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator |= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator |= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator ^= ( ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator ^= (ap_int_base<8,true>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator += ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator += (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator -= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator -= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator *= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator *= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator /= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator /= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator %= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator %= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator >>= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator >>= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator <<= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator <<= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator &= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator &= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator |= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator |= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator ^= ( ap_int_base<_AP_W,_AP_S> &op, signed char op2) { return op.operator ^= (ap_int_base<8,true>(op2)); }
@@ -24073,7 +24093,7 @@ template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_bas
 
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator += ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator += (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator -= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator -= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator *= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator *= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator /= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator /= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator %= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator %= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator >>= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator >>= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator <<= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator <<= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator &= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator &= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator |= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator |= (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator ^= ( ap_int_base<_AP_W,_AP_S> &op, ap_slong op2) { return op.operator ^= (ap_int_base<64,true>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator += ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator += (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator -= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator -= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator *= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator *= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator /= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator /= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator %= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator %= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator >>= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator >>= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator <<= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator <<= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator &= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator &= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator |= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator |= (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W,_AP_S> &operator ^= ( ap_int_base<_AP_W,_AP_S> &op, ap_ulong op2) { return op.operator ^= (ap_int_base<64,false>(op2)); }
-# 3629 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3629 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator << (const ap_int_base<_AP_W, _AP_S>& op, bool op2) { ap_int_base<_AP_W, _AP_S> r; if (false) r.V = op2 >= 0 ? (op.V << op2) : (op.V >> (-op2)); else r.V = op.V << op2; return r; } template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator >> (const ap_int_base<_AP_W, _AP_S>& op, bool op2) { ap_int_base<_AP_W, _AP_S> r; if (false) r.V = op2 >= 0 ? (op.V >> op2) : (op.V << (-op2)); else r.V = op.V >> op2; return r; }
 template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator << (const ap_int_base<_AP_W, _AP_S>& op, char op2) { ap_int_base<_AP_W, _AP_S> r; if (true) r.V = op2 >= 0 ? (op.V << op2) : (op.V >> (-op2)); else r.V = op.V << op2; return r; } template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator >> (const ap_int_base<_AP_W, _AP_S>& op, char op2) { ap_int_base<_AP_W, _AP_S> r; if (true) r.V = op2 >= 0 ? (op.V >> op2) : (op.V << (-op2)); else r.V = op.V >> op2; return r; }
 template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator << (const ap_int_base<_AP_W, _AP_S>& op, signed char op2) { ap_int_base<_AP_W, _AP_S> r; if (true) r.V = op2 >= 0 ? (op.V << op2) : (op.V >> (-op2)); else r.V = op.V << op2; return r; } template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator >> (const ap_int_base<_AP_W, _AP_S>& op, signed char op2) { ap_int_base<_AP_W, _AP_S> r; if (true) r.V = op2 >= 0 ? (op.V >> op2) : (op.V << (-op2)); else r.V = op.V >> op2; return r; }
@@ -24091,7 +24111,7 @@ template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_ba
 
 template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator << (const ap_int_base<_AP_W, _AP_S>& op, ap_slong op2) { ap_int_base<_AP_W, _AP_S> r; if (true) r.V = op2 >= 0 ? (op.V << op2) : (op.V >> (-op2)); else r.V = op.V << op2; return r; } template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator >> (const ap_int_base<_AP_W, _AP_S>& op, ap_slong op2) { ap_int_base<_AP_W, _AP_S> r; if (true) r.V = op2 >= 0 ? (op.V >> op2) : (op.V << (-op2)); else r.V = op.V >> op2; return r; }
 template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator << (const ap_int_base<_AP_W, _AP_S>& op, ap_ulong op2) { ap_int_base<_AP_W, _AP_S> r; if (false) r.V = op2 >= 0 ? (op.V << op2) : (op.V >> (-op2)); else r.V = op.V << op2; return r; } template <int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<_AP_W, _AP_S> operator >> (const ap_int_base<_AP_W, _AP_S>& op, ap_ulong op2) { ap_int_base<_AP_W, _AP_S> r; if (false) r.V = op2 >= 0 ? (op.V >> op2) : (op.V << (-op2)); else r.V = op.V >> op2; return r; }
-# 3683 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3683 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base<_AP_W1,_AP_S1>& operator += ( ap_int_base<_AP_W1,_AP_S1>& op1, ap_range_ref<_AP_W2,_AP_S2>& op2) { return op1.operator += (ap_int_base<_AP_W2, false>(op2)); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_range_ref<_AP_W1,_AP_S1>& operator += ( ap_range_ref<_AP_W1,_AP_S1>& op1, ap_int_base<_AP_W2,_AP_S2>& op2) { ap_int_base<_AP_W1, false> tmp(op1); tmp.operator += (op2); op1 = tmp; return op1; }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base<_AP_W1,_AP_S1>& operator -= ( ap_int_base<_AP_W1,_AP_S1>& op1, ap_range_ref<_AP_W2,_AP_S2>& op2) { return op1.operator -= (ap_int_base<_AP_W2, false>(op2)); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_range_ref<_AP_W1,_AP_S1>& operator -= ( ap_range_ref<_AP_W1,_AP_S1>& op1, ap_int_base<_AP_W2,_AP_S2>& op2) { ap_int_base<_AP_W1, false> tmp(op1); tmp.operator -= (op2); op1 = tmp; return op1; }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base<_AP_W1,_AP_S1>& operator *= ( ap_int_base<_AP_W1,_AP_S1>& op1, ap_range_ref<_AP_W2,_AP_S2>& op2) { return op1.operator *= (ap_int_base<_AP_W2, false>(op2)); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_range_ref<_AP_W1,_AP_S1>& operator *= ( ap_range_ref<_AP_W1,_AP_S1>& op1, ap_int_base<_AP_W2,_AP_S2>& op2) { ap_int_base<_AP_W1, false> tmp(op1); tmp.operator *= (op2); op1 = tmp; return op1; }
@@ -24120,7 +24140,7 @@ template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__(
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<_AP_W2,_AP_S2>::logic operator & ( const ap_range_ref<_AP_W1,_AP_S1>& op1, const ap_int_base<_AP_W2,_AP_S2>& op2) { return ap_int_base<_AP_W1, false>(op1) & (op2); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<_AP_W2,_AP_S2>::logic operator & ( const ap_int_base<_AP_W1,_AP_S1>& op1, const ap_range_ref<_AP_W2,_AP_S2>& op2) { return op1 & (ap_int_base<_AP_W2, false>(op2)); }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<_AP_W2,_AP_S2>::logic operator | ( const ap_range_ref<_AP_W1,_AP_S1>& op1, const ap_int_base<_AP_W2,_AP_S2>& op2) { return ap_int_base<_AP_W1, false>(op1) | (op2); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<_AP_W2,_AP_S2>::logic operator | ( const ap_int_base<_AP_W1,_AP_S1>& op1, const ap_range_ref<_AP_W2,_AP_S2>& op2) { return op1 | (ap_int_base<_AP_W2, false>(op2)); }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<_AP_W2,_AP_S2>::logic operator ^ ( const ap_range_ref<_AP_W1,_AP_S1>& op1, const ap_int_base<_AP_W2,_AP_S2>& op2) { return ap_int_base<_AP_W1, false>(op1) ^ (op2); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<_AP_W2,_AP_S2>::logic operator ^ ( const ap_int_base<_AP_W1,_AP_S1>& op1, const ap_range_ref<_AP_W2,_AP_S2>& op2) { return op1 ^ (ap_int_base<_AP_W2, false>(op2)); }
-# 3739 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3739 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base<_AP_W1,_AP_S1>& operator += ( ap_int_base<_AP_W1,_AP_S1>& op1, ap_bit_ref<_AP_W2,_AP_S2>& op2) { return op1.operator += (ap_int_base<1, false>(op2)); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_bit_ref<_AP_W1,_AP_S1>& operator += ( ap_bit_ref<_AP_W1,_AP_S1>& op1, ap_int_base<_AP_W2,_AP_S2>& op2) { ap_int_base<1, false> tmp(op1); tmp.operator += (op2); op1 = tmp; return op1; }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base<_AP_W1,_AP_S1>& operator -= ( ap_int_base<_AP_W1,_AP_S1>& op1, ap_bit_ref<_AP_W2,_AP_S2>& op2) { return op1.operator -= (ap_int_base<1, false>(op2)); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_bit_ref<_AP_W1,_AP_S1>& operator -= ( ap_bit_ref<_AP_W1,_AP_S1>& op1, ap_int_base<_AP_W2,_AP_S2>& op2) { ap_int_base<1, false> tmp(op1); tmp.operator -= (op2); op1 = tmp; return op1; }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_int_base<_AP_W1,_AP_S1>& operator *= ( ap_int_base<_AP_W1,_AP_S1>& op1, ap_bit_ref<_AP_W2,_AP_S2>& op2) { return op1.operator *= (ap_int_base<1, false>(op2)); } template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) ap_bit_ref<_AP_W1,_AP_S1>& operator *= ( ap_bit_ref<_AP_W1,_AP_S1>& op1, ap_int_base<_AP_W2,_AP_S2>& op2) { ap_int_base<1, false> tmp(op1); tmp.operator *= (op2); op1 = tmp; return op1; }
@@ -24149,7 +24169,7 @@ template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__(
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<1,false>::logic operator & ( const ap_int_base<_AP_W1,_AP_S1>& op1, const ap_bit_ref<_AP_W2,_AP_S2>& op2) { return op1 & (ap_int_base<1, false>(op2)); }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<1,false>::logic operator | ( const ap_int_base<_AP_W1,_AP_S1>& op1, const ap_bit_ref<_AP_W2,_AP_S2>& op2) { return op1 | (ap_int_base<1, false>(op2)); }
 template<int _AP_W1, bool _AP_S1, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W1,_AP_S1>::template RType<1,false>::logic operator ^ ( const ap_int_base<_AP_W1,_AP_S1>& op1, const ap_bit_ref<_AP_W2,_AP_S2>& op2) { return op1 ^ (ap_int_base<1, false>(op2)); }
-# 3793 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3793 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_bit_ref<_AP_W,_AP_S> &op, bool op2) { return (bool(op)) > op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 > (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator > ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, bool op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_bit_ref<_AP_W,_AP_S> &op, bool op2) { return (bool(op)) < op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 < (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator < ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, bool op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_bit_ref<_AP_W,_AP_S> &op, bool op2) { return (bool(op)) >= op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 >= (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator >= ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, bool op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_bit_ref<_AP_W,_AP_S> &op, bool op2) { return (bool(op)) <= op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 <= (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator <= ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, bool op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator <= (ap_int_base<1,false>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_bit_ref<_AP_W,_AP_S> &op, char op2) { return (bool(op)) > op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 > (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator > ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator > (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_bit_ref<_AP_W,_AP_S> &op, char op2) { return (bool(op)) < op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 < (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator < ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator < (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_bit_ref<_AP_W,_AP_S> &op, char op2) { return (bool(op)) >= op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 >= (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator >= ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator >= (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_bit_ref<_AP_W,_AP_S> &op, char op2) { return (bool(op)) <= op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 <= (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator <= ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator <= (ap_int_base<8,(-127 -1) != 0>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_bit_ref<_AP_W,_AP_S> &op, signed char op2) { return (bool(op)) > op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( signed char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 > (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator > ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, signed char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_bit_ref<_AP_W,_AP_S> &op, signed char op2) { return (bool(op)) < op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( signed char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 < (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator < ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, signed char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_bit_ref<_AP_W,_AP_S> &op, signed char op2) { return (bool(op)) >= op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( signed char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 >= (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator >= ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, signed char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_bit_ref<_AP_W,_AP_S> &op, signed char op2) { return (bool(op)) <= op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( signed char op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 <= (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator <= ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, signed char op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator <= (ap_int_base<8,true>(op2)); }
@@ -24190,7 +24210,7 @@ template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool opera
 
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator == (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_bit_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (bool(op)) == op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( ap_slong op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 == (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator == ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, ap_slong op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator == (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator != (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_bit_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (bool(op)) != op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( ap_slong op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 != (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator != ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, ap_slong op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator != (ap_int_base<64,true>(op2)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator == (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_bit_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (bool(op)) == op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( ap_ulong op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 == (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator == ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, ap_ulong op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator == (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator != (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_bit_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (bool(op)) != op2; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( ap_ulong op2, const ap_bit_ref<_AP_W,_AP_S> &op) { return op2 != (bool(op)); } template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) bool operator != ( const ap_concat_ref<_AP_W,_AP_T, _AP_W1, _AP_T1> &op, ap_ulong op2) { return (ap_int_base<_AP_W + _AP_W1, false>(op)).operator != (ap_int_base<64,false>(op2)); }
-# 3853 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3853 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::plus operator + ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) + (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::plus operator + ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) + (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::minus operator - ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) - (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::minus operator - ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) - (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::mult operator * ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) * (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::mult operator * ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) * (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::div operator / ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) / (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::div operator / ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) / (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::mod operator % ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) % (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::mod operator % ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) % (ap_int_base<_AP_W, false>(op)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::plus operator + ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) + (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::plus operator + ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) + (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::minus operator - ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) - (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::minus operator - ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) - (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::mult operator * ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) * (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::mult operator * ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) * (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::div operator / ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) / (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::div operator / ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) / (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::mod operator % ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) % (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::mod operator % ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) % (ap_int_base<_AP_W, false>(op)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::plus operator + ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) + (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::plus operator + ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) + (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::minus operator - ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) - (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::minus operator - ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) - (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::mult operator * ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) * (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::mult operator * ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) * (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::div operator / ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) / (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::div operator / ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) / (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::mod operator % ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) % (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::mod operator % ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) % (ap_int_base<_AP_W, false>(op)); }
@@ -24208,7 +24228,7 @@ template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename a
 
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::plus operator + ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) + (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::plus operator + ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) + (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::minus operator - ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) - (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::minus operator - ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) - (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::mult operator * ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) * (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::mult operator * ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) * (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::div operator / ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) / (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::div operator / ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) / (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::mod operator % ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) % (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::mod operator % ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) % (ap_int_base<_AP_W, false>(op)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::plus operator + ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) + (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::plus operator + ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) + (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::minus operator - ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) - (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::minus operator - ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) - (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::mult operator * ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) * (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::mult operator * ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) * (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::div operator / ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) / (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::div operator / ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) / (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::mod operator % ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) % (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::mod operator % ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) % (ap_int_base<_AP_W, false>(op)); }
-# 3878 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3878 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::arg1 operator >> ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) >> (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::arg1 operator >> ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) >> (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::arg1 operator << ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) << (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::arg1 operator << ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) << (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::logic operator & ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) & (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::logic operator & ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) & (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::logic operator | ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) | (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::logic operator | ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) | (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<1,false>::logic operator ^ ( const ap_range_ref<_AP_W,_AP_S> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)) ^ (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<1,false>::template RType<_AP_W,false>::logic operator ^ ( bool op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<1,false>(op2) ^ (ap_int_base<_AP_W, false>(op)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::arg1 operator >> ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) >> (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::arg1 operator >> ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) >> (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::arg1 operator << ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) << (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::arg1 operator << ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) << (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::logic operator & ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) & (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::logic operator & ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) & (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::logic operator | ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) | (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::logic operator | ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) | (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,(-127 -1) != 0>::logic operator ^ ( const ap_range_ref<_AP_W,_AP_S> &op, char op2) { return (ap_int_base<_AP_W, false>(op)) ^ (ap_int_base<8,(-127 -1) != 0>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,(-127 -1) != 0>::template RType<_AP_W,false>::logic operator ^ ( char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,(-127 -1) != 0>(op2) ^ (ap_int_base<_AP_W, false>(op)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::arg1 operator >> ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) >> (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::arg1 operator >> ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) >> (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::arg1 operator << ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) << (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::arg1 operator << ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) << (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::logic operator & ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) & (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::logic operator & ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) & (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::logic operator | ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) | (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::logic operator | ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) | (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<8,true>::logic operator ^ ( const ap_range_ref<_AP_W,_AP_S> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)) ^ (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<8,true>::template RType<_AP_W,false>::logic operator ^ ( signed char op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<8,true>(op2) ^ (ap_int_base<_AP_W, false>(op)); }
@@ -24226,7 +24246,7 @@ template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename a
 
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::arg1 operator >> ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) >> (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::arg1 operator >> ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) >> (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::arg1 operator << ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) << (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::arg1 operator << ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) << (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::logic operator & ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) & (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::logic operator & ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) & (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::logic operator | ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) | (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::logic operator | ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) | (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,true>::logic operator ^ ( const ap_range_ref<_AP_W,_AP_S> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)) ^ (ap_int_base<64,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,true>::template RType<_AP_W,false>::logic operator ^ ( ap_slong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,true>(op2) ^ (ap_int_base<_AP_W, false>(op)); }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::arg1 operator >> ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) >> (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::arg1 operator >> ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) >> (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::arg1 operator << ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) << (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::arg1 operator << ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) << (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::logic operator & ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) & (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::logic operator & ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) & (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::logic operator | ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) | (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::logic operator | ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) | (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<_AP_W,false>::template RType<64,false>::logic operator ^ ( const ap_range_ref<_AP_W,_AP_S> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)) ^ (ap_int_base<64,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) typename ap_int_base<64,false>::template RType<_AP_W,false>::logic operator ^ ( ap_ulong op2, const ap_range_ref<_AP_W,_AP_S> &op) { return ap_int_base<64,false>(op2) ^ (ap_int_base<_AP_W, false>(op)); }
-# 3903 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3903 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, false>::template RType<_AP_W2, false>::plus operator + (const ap_range_ref<_AP_W,_AP_S> &lhs, const ap_range_ref<_AP_W2,_AP_S2> &rhs) { return ap_int_base<_AP_W, false>(lhs) + (ap_int_base<_AP_W2, false>(rhs)); }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, false>::template RType<_AP_W2, false>::minus operator - (const ap_range_ref<_AP_W,_AP_S> &lhs, const ap_range_ref<_AP_W2,_AP_S2> &rhs) { return ap_int_base<_AP_W, false>(lhs) - (ap_int_base<_AP_W2, false>(rhs)); }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, false>::template RType<_AP_W2, false>::mult operator * (const ap_range_ref<_AP_W,_AP_S> &lhs, const ap_range_ref<_AP_W2,_AP_S2> &rhs) { return ap_int_base<_AP_W, false>(lhs) * (ap_int_base<_AP_W2, false>(rhs)); }
@@ -24237,7 +24257,7 @@ template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((a
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, false>::template RType<_AP_W2, false>::logic operator & (const ap_range_ref<_AP_W,_AP_S> &lhs, const ap_range_ref<_AP_W2,_AP_S2> &rhs) { return ap_int_base<_AP_W, false>(lhs) & (ap_int_base<_AP_W2, false>(rhs)); }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, false>::template RType<_AP_W2, false>::logic operator | (const ap_range_ref<_AP_W,_AP_S> &lhs, const ap_range_ref<_AP_W2,_AP_S2> &rhs) { return ap_int_base<_AP_W, false>(lhs) | (ap_int_base<_AP_W2, false>(rhs)); }
 template<int _AP_W, bool _AP_S, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_int_base<_AP_W, false>::template RType<_AP_W2, false>::logic operator ^ (const ap_range_ref<_AP_W,_AP_S> &lhs, const ap_range_ref<_AP_W2,_AP_S2> &rhs) { return ap_int_base<_AP_W, false>(lhs) ^ (ap_int_base<_AP_W2, false>(rhs)); }
-# 3948 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#3948 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_LW1,typename _AP_LT1,int _AP_LW2,typename _AP_LT2, int _AP_RW1,typename _AP_RT1,int _AP_RW2,typename _AP_RT2> inline __attribute__((always_inline)) typename ap_int_base<_AP_LW1+_AP_LW2,false>::template RType<_AP_RW1+_AP_RW2,false>::plus operator + (const ap_concat_ref<_AP_LW1,_AP_LT1,_AP_LW2,_AP_LT2>& lhs, const ap_concat_ref<_AP_RW1,_AP_RT1,_AP_RW2,_AP_RT2>& rhs) { return lhs.get() + rhs.get(); }
 template<int _AP_LW1,typename _AP_LT1,int _AP_LW2,typename _AP_LT2, int _AP_RW1,typename _AP_RT1,int _AP_RW2,typename _AP_RT2> inline __attribute__((always_inline)) typename ap_int_base<_AP_LW1+_AP_LW2,false>::template RType<_AP_RW1+_AP_RW2,false>::minus operator - (const ap_concat_ref<_AP_LW1,_AP_LT1,_AP_LW2,_AP_LT2>& lhs, const ap_concat_ref<_AP_RW1,_AP_RT1,_AP_RW2,_AP_RT2>& rhs) { return lhs.get() - rhs.get(); }
 template<int _AP_LW1,typename _AP_LT1,int _AP_LW2,typename _AP_LT2, int _AP_RW1,typename _AP_RT1,int _AP_RW2,typename _AP_RT2> inline __attribute__((always_inline)) typename ap_int_base<_AP_LW1+_AP_LW2,false>::template RType<_AP_RW1+_AP_RW2,false>::mult operator * (const ap_concat_ref<_AP_LW1,_AP_LT1,_AP_LW2,_AP_LT2>& lhs, const ap_concat_ref<_AP_RW1,_AP_RT1,_AP_RW2,_AP_RT2>& rhs) { return lhs.get() * rhs.get(); }
@@ -24248,7 +24268,7 @@ template<int _AP_LW1,typename _AP_LT1,int _AP_LW2,typename _AP_LT2, int _AP_RW1,
 template<int _AP_LW1,typename _AP_LT1,int _AP_LW2,typename _AP_LT2, int _AP_RW1,typename _AP_RT1,int _AP_RW2,typename _AP_RT2> inline __attribute__((always_inline)) typename ap_int_base<_AP_LW1+_AP_LW2,false>::template RType<_AP_RW1+_AP_RW2,false>::logic operator & (const ap_concat_ref<_AP_LW1,_AP_LT1,_AP_LW2,_AP_LT2>& lhs, const ap_concat_ref<_AP_RW1,_AP_RT1,_AP_RW2,_AP_RT2>& rhs) { return lhs.get() & rhs.get(); }
 template<int _AP_LW1,typename _AP_LT1,int _AP_LW2,typename _AP_LT2, int _AP_RW1,typename _AP_RT1,int _AP_RW2,typename _AP_RT2> inline __attribute__((always_inline)) typename ap_int_base<_AP_LW1+_AP_LW2,false>::template RType<_AP_RW1+_AP_RW2,false>::logic operator | (const ap_concat_ref<_AP_LW1,_AP_LT1,_AP_LW2,_AP_LT2>& lhs, const ap_concat_ref<_AP_RW1,_AP_RT1,_AP_RW2,_AP_RT2>& rhs) { return lhs.get() | rhs.get(); }
 template<int _AP_LW1,typename _AP_LT1,int _AP_LW2,typename _AP_LT2, int _AP_RW1,typename _AP_RT1,int _AP_RW2,typename _AP_RT2> inline __attribute__((always_inline)) typename ap_int_base<_AP_LW1+_AP_LW2,false>::template RType<_AP_RW1+_AP_RW2,false>::logic operator ^ (const ap_concat_ref<_AP_LW1,_AP_LT1,_AP_LW2,_AP_LT2>& lhs, const ap_concat_ref<_AP_RW1,_AP_RT1,_AP_RW2,_AP_RT2>& rhs) { return lhs.get() ^ rhs.get(); }
-# 4103 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#4103 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 1, false > operator, (const ap_int_base<_AP_W, _AP_S> &op1, bool op2) { ap_int_base<1 + _AP_W, false> val(op2); ap_int_base<1 + _AP_W, false> ret(op1); ret <<= 1; if (false) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 1, false > operator, (bool op1, const ap_int_base<_AP_W, _AP_S>& op2) { ap_int_base<1 + _AP_W, false> val(op1); ap_int_base<1 + _AP_W, false> ret(op2); if (_AP_S) { ret <<= 1; ret >>= 1; } ret |= val << _AP_W; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 1, false > operator, (const ap_range_ref<_AP_W, _AP_S> &op1, bool op2) { ap_int_base<1 + _AP_W, false> val(op2); ap_int_base<1 + _AP_W, false> ret(op1); ret <<= 1; if (false) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 1, false > operator, (bool op1, const ap_range_ref<_AP_W, _AP_S> &op2) { ap_int_base<1 + _AP_W, false> val(op1); ap_int_base<1 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<1 + 1, false > operator, (const ap_bit_ref<_AP_W, _AP_S> &op1, bool op2) { ap_int_base<1 + 1, false> val(op2); val[1] = op1; return val; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<1 + 1, false > operator, (bool op1, const ap_bit_ref<_AP_W, _AP_S> &op2) { ap_int_base<1 + 1, false> val(op1); val <<= 1; val[0] = op2; return val; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 1, false > operator, (const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op1, bool op2) { ap_int_base<1 + _AP_W + _AP_W2, false> val(op2); ap_int_base<1 + _AP_W + _AP_W2, false> ret(op1); if (false) { val <<= _AP_W + _AP_W2; val >>= _AP_W + _AP_W2; } ret <<= 1; ret |= val; return ret; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 1, false > operator, (bool op1, const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op2) { ap_int_base<1 + _AP_W + _AP_W2, false> val(op1); ap_int_base<1 + _AP_W + _AP_W2, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 1, false > operator, (const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, bool op2) { ap_int_base<1 + _AP_W, false> val(op2); ap_int_base<1 + _AP_W, false> ret(op1); if (false) { val <<= _AP_W; val >>= _AP_W; } ret <<= 1; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 1, false > operator, (bool op1, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<1 + _AP_W, false> val(op1); ap_int_base<1 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 1, false> operator, (const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, bool op2) { ap_int_base<1 + 1, false> val(op2); val[1] = op1; return val; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 1, false> operator, (bool op1, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<1 + 1, false> val(op1); val <<= 1; val[0] = op2; return val; }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (const ap_int_base<_AP_W, _AP_S> &op1, char op2) { ap_int_base<8 + _AP_W, false> val(op2); ap_int_base<8 + _AP_W, false> ret(op1); ret <<= 8; if ((-127 -1) != 0) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (char op1, const ap_int_base<_AP_W, _AP_S>& op2) { ap_int_base<8 + _AP_W, false> val(op1); ap_int_base<8 + _AP_W, false> ret(op2); if (_AP_S) { ret <<= 8; ret >>= 8; } ret |= val << _AP_W; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (const ap_range_ref<_AP_W, _AP_S> &op1, char op2) { ap_int_base<8 + _AP_W, false> val(op2); ap_int_base<8 + _AP_W, false> ret(op1); ret <<= 8; if ((-127 -1) != 0) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (char op1, const ap_range_ref<_AP_W, _AP_S> &op2) { ap_int_base<8 + _AP_W, false> val(op1); ap_int_base<8 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<8 + 1, false > operator, (const ap_bit_ref<_AP_W, _AP_S> &op1, char op2) { ap_int_base<8 + 1, false> val(op2); val[8] = op1; return val; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<8 + 1, false > operator, (char op1, const ap_bit_ref<_AP_W, _AP_S> &op2) { ap_int_base<8 + 1, false> val(op1); val <<= 1; val[0] = op2; return val; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 8, false > operator, (const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op1, char op2) { ap_int_base<8 + _AP_W + _AP_W2, (-127 -1) != 0> val(op2); ap_int_base<8 + _AP_W + _AP_W2, (-127 -1) != 0> ret(op1); if ((-127 -1) != 0) { val <<= _AP_W + _AP_W2; val >>= _AP_W + _AP_W2; } ret <<= 8; ret |= val; return ret; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 8, false > operator, (char op1, const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op2) { ap_int_base<8 + _AP_W + _AP_W2, (-127 -1) != 0> val(op1); ap_int_base<8 + _AP_W + _AP_W2, (-127 -1) != 0> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, char op2) { ap_int_base<8 + _AP_W, false> val(op2); ap_int_base<8 + _AP_W, false> ret(op1); if ((-127 -1) != 0) { val <<= _AP_W; val >>= _AP_W; } ret <<= 8; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (char op1, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<8 + _AP_W, false> val(op1); ap_int_base<8 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 8, false> operator, (const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, char op2) { ap_int_base<8 + 1, (-127 -1) != 0> val(op2); val[8] = op1; return val; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 8, false> operator, (char op1, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<8 + 1, (-127 -1) != 0> val(op1); val <<= 1; val[0] = op2; return val; }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (const ap_int_base<_AP_W, _AP_S> &op1, signed char op2) { ap_int_base<8 + _AP_W, false> val(op2); ap_int_base<8 + _AP_W, false> ret(op1); ret <<= 8; if (true) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (signed char op1, const ap_int_base<_AP_W, _AP_S>& op2) { ap_int_base<8 + _AP_W, false> val(op1); ap_int_base<8 + _AP_W, false> ret(op2); if (_AP_S) { ret <<= 8; ret >>= 8; } ret |= val << _AP_W; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (const ap_range_ref<_AP_W, _AP_S> &op1, signed char op2) { ap_int_base<8 + _AP_W, false> val(op2); ap_int_base<8 + _AP_W, false> ret(op1); ret <<= 8; if (true) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (signed char op1, const ap_range_ref<_AP_W, _AP_S> &op2) { ap_int_base<8 + _AP_W, false> val(op1); ap_int_base<8 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<8 + 1, false > operator, (const ap_bit_ref<_AP_W, _AP_S> &op1, signed char op2) { ap_int_base<8 + 1, false> val(op2); val[8] = op1; return val; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<8 + 1, false > operator, (signed char op1, const ap_bit_ref<_AP_W, _AP_S> &op2) { ap_int_base<8 + 1, false> val(op1); val <<= 1; val[0] = op2; return val; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 8, false > operator, (const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op1, signed char op2) { ap_int_base<8 + _AP_W + _AP_W2, true> val(op2); ap_int_base<8 + _AP_W + _AP_W2, true> ret(op1); if (true) { val <<= _AP_W + _AP_W2; val >>= _AP_W + _AP_W2; } ret <<= 8; ret |= val; return ret; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 8, false > operator, (signed char op1, const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op2) { ap_int_base<8 + _AP_W + _AP_W2, true> val(op1); ap_int_base<8 + _AP_W + _AP_W2, true> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, signed char op2) { ap_int_base<8 + _AP_W, false> val(op2); ap_int_base<8 + _AP_W, false> ret(op1); if (true) { val <<= _AP_W; val >>= _AP_W; } ret <<= 8; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 8, false > operator, (signed char op1, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<8 + _AP_W, false> val(op1); ap_int_base<8 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 8, false> operator, (const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, signed char op2) { ap_int_base<8 + 1, true> val(op2); val[8] = op1; return val; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 8, false> operator, (signed char op1, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<8 + 1, true> val(op1); val <<= 1; val[0] = op2; return val; }
@@ -24266,7 +24286,7 @@ template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_bas
 
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (const ap_int_base<_AP_W, _AP_S> &op1, ap_slong op2) { ap_int_base<64 + _AP_W, false> val(op2); ap_int_base<64 + _AP_W, false> ret(op1); ret <<= 64; if (true) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (ap_slong op1, const ap_int_base<_AP_W, _AP_S>& op2) { ap_int_base<64 + _AP_W, false> val(op1); ap_int_base<64 + _AP_W, false> ret(op2); if (_AP_S) { ret <<= 64; ret >>= 64; } ret |= val << _AP_W; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (const ap_range_ref<_AP_W, _AP_S> &op1, ap_slong op2) { ap_int_base<64 + _AP_W, false> val(op2); ap_int_base<64 + _AP_W, false> ret(op1); ret <<= 64; if (true) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (ap_slong op1, const ap_range_ref<_AP_W, _AP_S> &op2) { ap_int_base<64 + _AP_W, false> val(op1); ap_int_base<64 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<64 + 1, false > operator, (const ap_bit_ref<_AP_W, _AP_S> &op1, ap_slong op2) { ap_int_base<64 + 1, false> val(op2); val[64] = op1; return val; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<64 + 1, false > operator, (ap_slong op1, const ap_bit_ref<_AP_W, _AP_S> &op2) { ap_int_base<64 + 1, false> val(op1); val <<= 1; val[0] = op2; return val; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 64, false > operator, (const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op1, ap_slong op2) { ap_int_base<64 + _AP_W + _AP_W2, true> val(op2); ap_int_base<64 + _AP_W + _AP_W2, true> ret(op1); if (true) { val <<= _AP_W + _AP_W2; val >>= _AP_W + _AP_W2; } ret <<= 64; ret |= val; return ret; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 64, false > operator, (ap_slong op1, const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op2) { ap_int_base<64 + _AP_W + _AP_W2, true> val(op1); ap_int_base<64 + _AP_W + _AP_W2, true> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, ap_slong op2) { ap_int_base<64 + _AP_W, false> val(op2); ap_int_base<64 + _AP_W, false> ret(op1); if (true) { val <<= _AP_W; val >>= _AP_W; } ret <<= 64; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (ap_slong op1, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<64 + _AP_W, false> val(op1); ap_int_base<64 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 64, false> operator, (const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, ap_slong op2) { ap_int_base<64 + 1, true> val(op2); val[64] = op1; return val; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 64, false> operator, (ap_slong op1, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<64 + 1, true> val(op1); val <<= 1; val[0] = op2; return val; }
 template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (const ap_int_base<_AP_W, _AP_S> &op1, ap_ulong op2) { ap_int_base<64 + _AP_W, false> val(op2); ap_int_base<64 + _AP_W, false> ret(op1); ret <<= 64; if (false) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (ap_ulong op1, const ap_int_base<_AP_W, _AP_S>& op2) { ap_int_base<64 + _AP_W, false> val(op1); ap_int_base<64 + _AP_W, false> ret(op2); if (_AP_S) { ret <<= 64; ret >>= 64; } ret |= val << _AP_W; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (const ap_range_ref<_AP_W, _AP_S> &op1, ap_ulong op2) { ap_int_base<64 + _AP_W, false> val(op2); ap_int_base<64 + _AP_W, false> ret(op1); ret <<= 64; if (false) { val <<= _AP_W; val >>= _AP_W; } ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (ap_ulong op1, const ap_range_ref<_AP_W, _AP_S> &op2) { ap_int_base<64 + _AP_W, false> val(op1); ap_int_base<64 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<64 + 1, false > operator, (const ap_bit_ref<_AP_W, _AP_S> &op1, ap_ulong op2) { ap_int_base<64 + 1, false> val(op2); val[64] = op1; return val; } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) ap_int_base<64 + 1, false > operator, (ap_ulong op1, const ap_bit_ref<_AP_W, _AP_S> &op2) { ap_int_base<64 + 1, false> val(op1); val <<= 1; val[0] = op2; return val; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 64, false > operator, (const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op1, ap_ulong op2) { ap_int_base<64 + _AP_W + _AP_W2, false> val(op2); ap_int_base<64 + _AP_W + _AP_W2, false> ret(op1); if (false) { val <<= _AP_W + _AP_W2; val >>= _AP_W + _AP_W2; } ret <<= 64; ret |= val; return ret; } template<int _AP_W, typename _AP_T, int _AP_W2, typename _AP_T2> inline __attribute__((always_inline)) ap_int_base<_AP_W + _AP_W2 + 64, false > operator, (ap_ulong op1, const ap_concat_ref<_AP_W, _AP_T, _AP_W2, _AP_T2> &op2) { ap_int_base<64 + _AP_W + _AP_W2, false> val(op1); ap_int_base<64 + _AP_W + _AP_W2, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, ap_ulong op2) { ap_int_base<64 + _AP_W, false> val(op2); ap_int_base<64 + _AP_W, false> ret(op1); if (false) { val <<= _AP_W; val >>= _AP_W; } ret <<= 64; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< _AP_W + 64, false > operator, (ap_ulong op1, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<64 + _AP_W, false> val(op1); ap_int_base<64 + _AP_W, false> ret(op2); int len = op2.length(); val <<= len; ret |= val; return ret; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 64, false> operator, (const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op1, ap_ulong op2) { ap_int_base<64 + 1, false> val(op2); val[64] = op1; return val; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N > inline __attribute__((always_inline)) ap_int_base< 1 + 64, false> operator, (ap_ulong op1, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op2) { ap_int_base<64 + 1, false> val(op1); val <<= 1; val[0] = op2; return val; }
-# 4129 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
+#4129 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h"
 template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) ap_uint<_AP_W+_AP_W1> operator << (const ap_concat_ref<_AP_W, _AP_T, _AP_W1, _AP_T1> lhs, long rhs) { return ((ap_uint<_AP_W+_AP_W1>)lhs.get()) << ((int)rhs); }
 template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) ap_uint<_AP_W+_AP_W1> operator << (const ap_concat_ref<_AP_W, _AP_T, _AP_W1, _AP_T1> lhs, unsigned long rhs) { return ((ap_uint<_AP_W+_AP_W1>)lhs.get()) << ((int)rhs); }
 template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) ap_uint<_AP_W+_AP_W1> operator << (const ap_concat_ref<_AP_W, _AP_T, _AP_W1, _AP_T1> lhs, unsigned int rhs) { return ((ap_uint<_AP_W+_AP_W1>)lhs.get()) << ((int)rhs); }
@@ -24277,9 +24297,9 @@ template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attrib
 template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) ap_uint<_AP_W+_AP_W1> operator >> (const ap_concat_ref<_AP_W, _AP_T, _AP_W1, _AP_T1> lhs, unsigned int rhs) { return ((ap_uint<_AP_W+_AP_W1>)lhs.get()) >> ((int)rhs); }
 template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) ap_uint<_AP_W+_AP_W1> operator >> (const ap_concat_ref<_AP_W, _AP_T, _AP_W1, _AP_T1> lhs, ap_ulong rhs) { return ((ap_uint<_AP_W+_AP_W1>)lhs.get()) >> ((int)rhs); }
 template<int _AP_W, typename _AP_T, int _AP_W1, typename _AP_T1> inline __attribute__((always_inline)) ap_uint<_AP_W+_AP_W1> operator >> (const ap_concat_ref<_AP_W, _AP_T, _AP_W1, _AP_T1> lhs, ap_slong rhs) { return ((ap_uint<_AP_W+_AP_W1>)lhs.get()) >> ((int)rhs); }
-# 62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h" 1
-# 87 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h" 1
+#87 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
 template<int _AP_W, int _AP_I, bool _AP_S,
          ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N>
 struct ap_fixed_base;
@@ -25211,7 +25231,7 @@ _ssdm_InlineSelf(0, "");
         *this = ap_fixed_base(double(d));
     }
 
-    inline __attribute__((always_inline)) ap_fixed_base(half d) {
+    inline __attribute__((always_inline)) ap_fixed_base(half d) {_ssdm_SpecConstant(&omode);_ssdm_SpecConstant(&qmode);_ssdm_SpecConstant(&iwidth);_ssdm_SpecConstant(&width);
         *this = ap_fixed_base(double(d));
     }
 
@@ -25499,7 +25519,7 @@ _ssdm_InlineSelf(0, "");
     inline __attribute__((always_inline)) operator unsigned long () const {
         return (unsigned long) to_uint64();
     }
-# 1316 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1316 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
     inline __attribute__((always_inline)) operator unsigned long long () const {
         return to_uint64();
     }
@@ -25570,13 +25590,13 @@ _ssdm_InlineSelf(0, "");
 
         return r;
     }
-# 1400 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1400 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) typename RType<_AP_W2,_AP_I2,_AP_S2>::plus operator + (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { ; enum { _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 }; ; typename RType<_AP_W2,_AP_I2,_AP_S2>::plus r, lhs(*this), rhs(op2); ; r.V = lhs.V + rhs.V; return r; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) typename RType<_AP_W2,_AP_I2,_AP_S2>::minus operator - (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { ; enum { _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 }; ; typename RType<_AP_W2,_AP_I2,_AP_S2>::minus r, lhs(*this), rhs(op2); ; r.V = lhs.V - rhs.V; return r; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) typename RType<_AP_W2,_AP_I2,_AP_S2>::logic operator & (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { ; enum { _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 }; ; typename RType<_AP_W2,_AP_I2,_AP_S2>::logic r, lhs(*this), rhs(op2); ; r.V = lhs.V & rhs.V; return r; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) typename RType<_AP_W2,_AP_I2,_AP_S2>::logic operator | (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { ; enum { _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 }; ; typename RType<_AP_W2,_AP_I2,_AP_S2>::logic r, lhs(*this), rhs(op2); ; r.V = lhs.V | rhs.V; return r; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) typename RType<_AP_W2,_AP_I2,_AP_S2>::logic operator ^ (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { ; enum { _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 }; ; typename RType<_AP_W2,_AP_I2,_AP_S2>::logic r, lhs(*this), rhs(op2); ; r.V = lhs.V ^ rhs.V; return r; }
-# 1418 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1418 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) ap_fixed_base& operator += (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2,_AP_N2>& op2) { ; *this = operator + (op2); return *this; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) ap_fixed_base& operator -= (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2,_AP_N2>& op2) { ; *this = operator - (op2); return *this; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) ap_fixed_base& operator *= (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2,_AP_N2>& op2) { ; *this = operator * (op2); return *this; }
@@ -25670,7 +25690,7 @@ _ssdm_InlineSelf(0, "");
         sh = isNeg ? -sh : sh;
         if (isNeg) r.V = Base::V >> sh;
         else r.V = Base::V << sh;
-# 1549 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1549 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         return r;
 
     }
@@ -25689,7 +25709,7 @@ _ssdm_InlineSelf(0, "");
 
         ap_fixed_base r;
         r.V = Base::V << sh;
-# 1594 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1594 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         return r;
     }
 
@@ -25710,7 +25730,7 @@ _ssdm_InlineSelf(0, "");
         sh = isNeg ? -sh : sh;
         if (isNeg) r.V = Base::V << sh;
         else r.V = Base::V >> sh;
-# 1652 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1652 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         return r;
     }
 
@@ -25728,7 +25748,7 @@ _ssdm_InlineSelf(0, "");
 
         ap_fixed_base r;
         r.V = Base::V >> sh;
-# 1684 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1684 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         return r;
     }
 
@@ -25767,10 +25787,10 @@ _ssdm_InlineSelf(0, "");
         if (sh == 0) return *this;
         bool isNeg = sh & 0x80000000;
         sh = isNeg ? -sh : sh;
-# 1753 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1753 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         if (isNeg) Base::V >>= sh;
         else Base::V <<= sh;
-# 1767 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1767 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         return *this;
     }
 
@@ -25785,9 +25805,9 @@ _ssdm_InlineSelf(0, "");
     operator <<= (unsigned int sh) {
 
 _ssdm_InlineSelf(0, "");
-# 1802 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1802 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         Base::V <<= sh;
-# 1814 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1814 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         return *this;
     }
 
@@ -25806,10 +25826,10 @@ _ssdm_InlineSelf(0, "");
         if (sh == 0) return *this;
         bool isNeg = sh & 0x80000000;
         sh = isNeg ? -sh : sh;
-# 1862 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1862 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         if (isNeg) Base::V <<= sh;
         else Base::V >>= sh;
-# 1876 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1876 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         return *this;
     }
 
@@ -25824,7 +25844,7 @@ _ssdm_InlineSelf(0, "");
     operator >>= (unsigned int sh) {
 
 _ssdm_InlineSelf(0, "");
-# 1906 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1906 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
         Base::V >>= sh;
 
 
@@ -25855,7 +25875,7 @@ _ssdm_InlineSelf(0, "");
                  _AP_N2>& op2) {
         return operator <<= (op2.to_ap_int_base());
     }
-# 1953 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#1953 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) bool operator == (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { const int _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 ; if (_AP_F == F2) return Base::V == op2.V; else if (_AP_F > F2) return Base::V == ap_fixed_base<((_AP_W2+_AP_F-F2) > (1) ? (_AP_W2+_AP_F-F2) : (1)),_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>(op2).V; else return ap_fixed_base<((_AP_W+F2-_AP_F+1) > (1) ? (_AP_W+F2-_AP_F+1) : (1)),_AP_I+1,_AP_S,_AP_Q,_AP_O, _AP_N>(*this).V == op2.V; return false; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) bool operator != (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { const int _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 ; if (_AP_F == F2) return Base::V != op2.V; else if (_AP_F > F2) return Base::V != ap_fixed_base<((_AP_W2+_AP_F-F2) > (1) ? (_AP_W2+_AP_F-F2) : (1)),_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>(op2).V; else return ap_fixed_base<((_AP_W+F2-_AP_F+1) > (1) ? (_AP_W+F2-_AP_F+1) : (1)),_AP_I+1,_AP_S,_AP_Q,_AP_O, _AP_N>(*this).V != op2.V; return false; }
     template<int _AP_W2, int _AP_I2, bool _AP_S2, ap_q_mode _AP_Q2, ap_o_mode _AP_O2, int _AP_N2> inline __attribute__((always_inline)) bool operator > (const ap_fixed_base<_AP_W2,_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>& op2) const { const int _AP_F = _AP_W-_AP_I, F2 = _AP_W2-_AP_I2 ; if (_AP_F == F2) return Base::V > op2.V; else if (_AP_F > F2) return Base::V > ap_fixed_base<((_AP_W2+_AP_F-F2) > (1) ? (_AP_W2+_AP_F-F2) : (1)),_AP_I2,_AP_S2,_AP_Q2,_AP_O2, _AP_N2>(op2).V; else return ap_fixed_base<((_AP_W+F2-_AP_F+1) > (1) ? (_AP_W+F2-_AP_F+1) : (1)),_AP_I+1,_AP_S,_AP_Q,_AP_O, _AP_N>(*this).V > op2.V; return false; }
@@ -26119,7 +26139,7 @@ inline __attribute__((always_inline)) void rshift(ap_fixed_base<_AP_W, _AP_I, _A
     Tmp.V >>= i;
     ret = Tmp;
 }
-# 2226 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#2226 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
 template<> inline __attribute__((always_inline)) ap_fixed_base<1,1,true,SC_TRN,SC_WRAP>::ap_fixed_base(bool i_op) { Base::V = i_op; } template<> inline __attribute__((always_inline)) ap_fixed_base<1,1,false,SC_TRN,SC_WRAP>::ap_fixed_base(bool i_op) { Base::V = i_op; }
 template<> inline __attribute__((always_inline)) ap_fixed_base<8,8,true,SC_TRN,SC_WRAP>::ap_fixed_base(char i_op) { Base::V = i_op; } template<> inline __attribute__((always_inline)) ap_fixed_base<8,8,false,SC_TRN,SC_WRAP>::ap_fixed_base(char i_op) { Base::V = i_op; }
 template<> inline __attribute__((always_inline)) ap_fixed_base<8,8,true,SC_TRN,SC_WRAP>::ap_fixed_base(signed char i_op) { Base::V = i_op; } template<> inline __attribute__((always_inline)) ap_fixed_base<8,8,false,SC_TRN,SC_WRAP>::ap_fixed_base(signed char i_op) { Base::V = i_op; }
@@ -26164,7 +26184,7 @@ operator >> (std::istream& in, ap_fixed_base<_AP_W,_AP_I,
 
     return in;
 }
-# 2344 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#2344 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::plus operator + ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator + (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::plus operator + ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator + (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::minus operator - ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator - (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::minus operator - ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator - (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::mult operator * ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator * (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::mult operator * ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator * (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::div operator / ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator / (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::div operator / ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator / (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::arg1 operator >> ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator >> (ap_int_base<1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::arg1 operator << ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator << (ap_int_base<1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::logic operator & ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator & (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::logic operator & ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator & (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::logic operator | ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator | (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::logic operator | ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator | (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::logic operator ^ ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator ^ (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<1,1,false>::logic operator ^ ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator ^ (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator == (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator == (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator != (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator != (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator > (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator > (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator >= (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator >= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator < (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator < (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator <= (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<1,1,false>(i_op).operator <= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator += ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, bool i_op) { return op.operator += (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator -= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, bool i_op) { return op.operator -= (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator *= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, bool i_op) { return op.operator *= (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator /= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, bool i_op) { return op.operator /= (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator >>= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator >>= (ap_int_base<1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator <<= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, bool i_op) { return op.operator <<= (ap_int_base<1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator &= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, bool i_op) { return op.operator &= (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator |= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, bool i_op) { return op.operator |= (ap_fixed_base<1,1,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator ^= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, bool i_op) { return op.operator ^= (ap_fixed_base<1,1,false>(i_op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::plus operator + ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator + (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::plus operator + ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator + (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::minus operator - ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator - (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::minus operator - ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator - (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::mult operator * ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator * (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::mult operator * ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator * (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::div operator / ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator / (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::div operator / ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator / (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::arg1 operator >> ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator >> (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::arg1 operator << ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator << (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator & ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator & (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator & ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator & (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator | ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator | (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator | ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator | (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator ^ ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator ^ (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator ^ ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator ^ (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator == (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator == (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator != (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator != (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator > (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator > (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator >= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator >= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator < (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator < (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator <= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator <= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator += ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, char i_op) { return op.operator += (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator -= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, char i_op) { return op.operator -= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator *= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, char i_op) { return op.operator *= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator /= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, char i_op) { return op.operator /= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator >>= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator >>= (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator <<= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, char i_op) { return op.operator <<= (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator &= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, char i_op) { return op.operator &= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator |= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, char i_op) { return op.operator |= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator ^= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, char i_op) { return op.operator ^= (ap_fixed_base<8,8,true>(i_op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::plus operator + ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator + (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::plus operator + ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator + (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::minus operator - ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator - (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::minus operator - ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator - (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::mult operator * ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator * (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::mult operator * ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator * (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::div operator / ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator / (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::div operator / ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator / (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::arg1 operator >> ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator >> (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::arg1 operator << ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator << (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator & ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator & (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator & ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator & (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator | ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator | (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator | ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator | (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator ^ ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator ^ (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<8,8,true>::logic operator ^ ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator ^ (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator == (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator == (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator != (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator != (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator > (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator > (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator >= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator >= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator < (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator < (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator <= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( signed char i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<8,8,true>(i_op).operator <= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator += ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, signed char i_op) { return op.operator += (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator -= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, signed char i_op) { return op.operator -= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator *= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, signed char i_op) { return op.operator *= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator /= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, signed char i_op) { return op.operator /= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator >>= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator >>= (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator <<= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, signed char i_op) { return op.operator <<= (ap_int_base<8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator &= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, signed char i_op) { return op.operator &= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator |= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, signed char i_op) { return op.operator |= (ap_fixed_base<8,8,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator ^= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, signed char i_op) { return op.operator ^= (ap_fixed_base<8,8,true>(i_op)); }
@@ -26182,7 +26202,7 @@ template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int
 
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::plus operator + ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator + (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::plus operator + ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator + (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::minus operator - ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator - (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::minus operator - ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator - (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::mult operator * ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator * (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::mult operator * ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator * (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::div operator / ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator / (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::div operator / ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator / (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::arg1 operator >> ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator >> (ap_int_base<64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::arg1 operator << ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator << (ap_int_base<64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::logic operator & ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator & (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::logic operator & ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator & (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::logic operator | ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator | (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::logic operator | ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator | (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::logic operator ^ ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator ^ (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,true>::logic operator ^ ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator ^ (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator == (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator == (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator != (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator != (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator > (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator > (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator >= (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator >= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator < (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator < (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator <= (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( ap_slong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,true>(i_op).operator <= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator += ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_slong i_op) { return op.operator += (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator -= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_slong i_op) { return op.operator -= (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator *= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_slong i_op) { return op.operator *= (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator /= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_slong i_op) { return op.operator /= (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator >>= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator >>= (ap_int_base<64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator <<= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_slong i_op) { return op.operator <<= (ap_int_base<64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator &= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_slong i_op) { return op.operator &= (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator |= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_slong i_op) { return op.operator |= (ap_fixed_base<64,64,true>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator ^= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_slong i_op) { return op.operator ^= (ap_fixed_base<64,64,true>(i_op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::plus operator + ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator + (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::plus operator + ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator + (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::minus operator - ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator - (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::minus operator - ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator - (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::mult operator * ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator * (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::mult operator * ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator * (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::div operator / ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator / (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::div operator / ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator / (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::arg1 operator >> ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator >> (ap_int_base<64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::arg1 operator << ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator << (ap_int_base<64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::logic operator & ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator & (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::logic operator & ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator & (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::logic operator | ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator | (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::logic operator | ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator | (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::logic operator ^ ( const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator ^ (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W,_AP_I,_AP_S>::template RType<64,64,false>::logic operator ^ ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator ^ (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator == (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator == (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator != (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator != (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator > (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator > (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator >= (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator >= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator < (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator < (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator <= (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( ap_ulong i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op) { return ap_fixed_base<64,64,false>(i_op).operator <= (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator += ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator += (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator -= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator -= (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator *= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator *= (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator /= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator /= (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator >>= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator >>= (ap_int_base<64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& operator <<= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator <<= (ap_int_base<64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator &= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator &= (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator |= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator |= (ap_fixed_base<64,64,false>(i_op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& operator ^= ( ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q, _AP_O, _AP_N>& op, ap_ulong i_op) { return op.operator ^= (ap_fixed_base<64,64,false>(i_op)); }
-# 2394 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#2394 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>::template RType<_AP_W,_AP_I,_AP_S>::plus operator + ( const ap_int_base<_AP_W2,_AP_S2>& i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>(i_op).operator + (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O,int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W, _AP_I, _AP_S>::template RType<_AP_W2,_AP_W2,_AP_S2>::plus operator + ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O,_AP_N>& op, const ap_int_base<_AP_W2,_AP_S2>& i_op) { return op.operator + (ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>(i_op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>::template RType<_AP_W,_AP_I,_AP_S>::minus operator - ( const ap_int_base<_AP_W2,_AP_S2>& i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>(i_op).operator - (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O,int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W, _AP_I, _AP_S>::template RType<_AP_W2,_AP_W2,_AP_S2>::minus operator - ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O,_AP_N>& op, const ap_int_base<_AP_W2,_AP_S2>& i_op) { return op.operator - (ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>(i_op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>::template RType<_AP_W,_AP_I,_AP_S>::mult operator * ( const ap_int_base<_AP_W2,_AP_S2>& i_op, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O, _AP_N>& op) { return ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>(i_op).operator * (op); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O,int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) typename ap_fixed_base<_AP_W, _AP_I, _AP_S>::template RType<_AP_W2,_AP_W2,_AP_S2>::mult operator * ( const ap_fixed_base<_AP_W, _AP_I,_AP_S,_AP_Q,_AP_O,_AP_N>& op, const ap_int_base<_AP_W2,_AP_S2>& i_op) { return op.operator * (ap_fixed_base<_AP_W2,_AP_W2,_AP_S2>(i_op)); }
@@ -26237,7 +26257,7 @@ template<int _AP_W, int _AP_I, bool _AP_S,
 inline __attribute__((always_inline)) bool operator <= ( double op1, const ap_fixed_base<_AP_W,_AP_I,_AP_S,_AP_Q,_AP_O,_AP_N>& op2) {
   return op2.operator >= (op1);
 }
-# 2479 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#2479 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( bool op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<1,false>(op2).operator > (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (bool(op)) > op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( bool op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 > (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( bool op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<1,false>(op2).operator < (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (bool(op)) < op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( bool op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 < (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( bool op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<1,false>(op2).operator >= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (bool(op)) >= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( bool op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 >= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<1,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( bool op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<1,false>(op2).operator <= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (bool(op)) <= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( bool op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 <= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( bool op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<1,false>(op2).operator == (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (bool(op)) == op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( bool op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 == (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (ap_int_base<_AP_W, false>(op)).operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( bool op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<1,false>(op2).operator != (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, bool op2) { return (bool(op)) != op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( bool op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 != (bool(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator > (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (bool(op)) > op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 > (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator < (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (bool(op)) < op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 < (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator >= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (bool(op)) >= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 >= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator <= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (bool(op)) <= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 <= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator == (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (bool(op)) == op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 == (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (ap_int_base<_AP_W, false>(op)).operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator != (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, char op2) { return (bool(op)) != op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 != (bool(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( signed char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator > (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (bool(op)) > op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( signed char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 > (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( signed char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator < (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (bool(op)) < op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( signed char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 < (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( signed char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator >= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (bool(op)) >= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( signed char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 >= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( signed char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator <= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (bool(op)) <= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( signed char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 <= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( signed char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator == (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (bool(op)) == op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( signed char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 == (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (ap_int_base<_AP_W, false>(op)).operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( signed char op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<8,true>(op2).operator != (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, signed char op2) { return (bool(op)) != op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( signed char op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 != (bool(op)); }
@@ -26255,14 +26275,14 @@ template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int
 
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<64,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( ap_slong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,true>(op2).operator > (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (bool(op)) > op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( ap_slong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 > (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<64,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( ap_slong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,true>(op2).operator < (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (bool(op)) < op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( ap_slong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 < (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<64,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( ap_slong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,true>(op2).operator >= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (bool(op)) >= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( ap_slong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 >= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<64,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( ap_slong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,true>(op2).operator <= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (bool(op)) <= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( ap_slong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 <= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator == (ap_int_base<64,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( ap_slong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,true>(op2).operator == (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (bool(op)) == op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( ap_slong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 == (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (ap_int_base<_AP_W, false>(op)).operator != (ap_int_base<64,true>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( ap_slong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,true>(op2).operator != (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_slong op2) { return (bool(op)) != op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( ap_slong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 != (bool(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator > (ap_int_base<64,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( ap_ulong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,false>(op2).operator > (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (bool(op)) > op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator > ( ap_ulong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 > (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator < (ap_int_base<64,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( ap_ulong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,false>(op2).operator < (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (bool(op)) < op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator < ( ap_ulong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 < (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (ap_int_base<64,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( ap_ulong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,false>(op2).operator >= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (bool(op)) >= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator >= ( ap_ulong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 >= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (ap_int_base<64,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( ap_ulong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,false>(op2).operator <= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (bool(op)) <= op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator <= ( ap_ulong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 <= (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator == (ap_int_base<64,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( ap_ulong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,false>(op2).operator == (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (bool(op)) == op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator == ( ap_ulong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 == (bool(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (ap_int_base<_AP_W, false>(op)).operator != (ap_int_base<64,false>(op2)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( ap_ulong op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return ap_int_base<64,false>(op2).operator != (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, ap_ulong op2) { return (bool(op)) != op2; } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N> inline __attribute__((always_inline)) bool operator != ( ap_ulong op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2 != (bool(op)); }
-# 2519 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
+#2519 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_syn.h"
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator > ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S> &op2) { return (ap_int_base<_AP_W, false>(op)).operator > (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator > (const ap_int_base<_AP_W2, _AP_S2> &op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator > (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator > ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S2> &op2) { return (ap_int_base<1, false>(op)).operator > (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W2, _AP_S2> &op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator > (ap_int_base<1,false>(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator < ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S> &op2) { return (ap_int_base<_AP_W, false>(op)).operator < (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator < (const ap_int_base<_AP_W2, _AP_S2> &op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator < (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator < ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S2> &op2) { return (ap_int_base<1, false>(op)).operator < (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W2, _AP_S2> &op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator < (ap_int_base<1,false>(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator >= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S> &op2) { return (ap_int_base<_AP_W, false>(op)).operator >= (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator >= (const ap_int_base<_AP_W2, _AP_S2> &op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator >= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator >= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S2> &op2) { return (ap_int_base<1, false>(op)).operator >= (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W2, _AP_S2> &op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator >= (ap_int_base<1,false>(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator <= ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S> &op2) { return (ap_int_base<_AP_W, false>(op)).operator <= (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator <= (const ap_int_base<_AP_W2, _AP_S2> &op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator <= (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator <= ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S2> &op2) { return (ap_int_base<1, false>(op)).operator <= (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W2, _AP_S2> &op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator <= (ap_int_base<1,false>(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator == ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S> &op2) { return (ap_int_base<_AP_W, false>(op)).operator == (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator == (const ap_int_base<_AP_W2, _AP_S2> &op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator == (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator == ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S2> &op2) { return (ap_int_base<1, false>(op)).operator == (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W2, _AP_S2> &op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator == (ap_int_base<1,false>(op)); }
 template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator != ( const af_range_ref<_AP_W,_AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S> &op2) { return (ap_int_base<_AP_W, false>(op)).operator != (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator != (const ap_int_base<_AP_W2, _AP_S2> &op2, const af_range_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator != (ap_int_base<_AP_W, false>(op)); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator != ( const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op, const ap_int_base<_AP_W2, _AP_S2> &op2) { return (ap_int_base<1, false>(op)).operator != (op2); } template<int _AP_W, int _AP_I, bool _AP_S, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N, int _AP_W2, bool _AP_S2> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W2, _AP_S2> &op2, const af_bit_ref<_AP_W, _AP_I, _AP_S, _AP_Q, _AP_O, _AP_N> &op) { return op2.operator != (ap_int_base<1,false>(op)); }
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 2
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int.h" 2
 
 template<int _AP_W, int _AP_I, ap_q_mode _AP_Q,
          ap_o_mode _AP_O, int _AP_N> struct ap_fixed;
@@ -26732,7 +26752,7 @@ struct ap_ufixed: ap_fixed_base<_AP_W, _AP_I, false, _AP_Q, _AP_O, _AP_N> {
   }
 
 };
-# 87 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_axi_sdata.h" 2
+#87 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_axi_sdata.h" 2
 
 template<int D,int U,int TI,int TD>
   struct ap_axis{
@@ -26755,15 +26775,15 @@ template<int D,int U,int TI,int TD>
     ap_uint<TI> id;
     ap_uint<TD> dest;
   };
-# 40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 1
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdint.h" 1 3
-# 33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdint.h" 3
-# 1 "/usr/include/stdint.h" 1 3 4
-# 27 "/usr/include/stdint.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 28 "/usr/include/stdint.h" 2 3 4
+#40 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 1
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdint.h" 1 3
+#33 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdint.h" 3
+#1 "/usr/include/stdint.h" 1 3 4
+#27 "/usr/include/stdint.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#28 "/usr/include/stdint.h" 2 3 4
 
 
 
@@ -26792,7 +26812,7 @@ typedef unsigned int uint32_t;
 
 
 typedef unsigned long int uint64_t;
-# 65 "/usr/include/stdint.h" 3 4
+#65 "/usr/include/stdint.h" 3 4
 typedef signed char int_least8_t;
 typedef short int int_least16_t;
 typedef int int_least32_t;
@@ -26809,33 +26829,33 @@ typedef unsigned short int uint_least16_t;
 typedef unsigned int uint_least32_t;
 
 typedef unsigned long int uint_least64_t;
-# 90 "/usr/include/stdint.h" 3 4
+#90 "/usr/include/stdint.h" 3 4
 typedef signed char int_fast8_t;
 
 typedef long int int_fast16_t;
 typedef long int int_fast32_t;
 typedef long int int_fast64_t;
-# 103 "/usr/include/stdint.h" 3 4
+#103 "/usr/include/stdint.h" 3 4
 typedef unsigned char uint_fast8_t;
 
 typedef unsigned long int uint_fast16_t;
 typedef unsigned long int uint_fast32_t;
 typedef unsigned long int uint_fast64_t;
-# 122 "/usr/include/stdint.h" 3 4
+#122 "/usr/include/stdint.h" 3 4
 typedef unsigned long int uintptr_t;
-# 134 "/usr/include/stdint.h" 3 4
+#134 "/usr/include/stdint.h" 3 4
 typedef long int intmax_t;
 typedef unsigned long int uintmax_t;
-# 34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdint.h" 2 3
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
-# 65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
-# 1 "/usr/include/stdlib.h" 1 3 4
-# 32 "/usr/include/stdlib.h" 3 4
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 33 "/usr/include/stdlib.h" 2 3 4
+#34 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stdint.h" 2 3
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
+#65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
+#1 "/usr/include/stdlib.h" 1 3 4
+#32 "/usr/include/stdlib.h" 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#33 "/usr/include/stdlib.h" 2 3 4
 
 extern "C" {
 
@@ -26845,10 +26865,10 @@ extern "C" {
 
 
 
-# 1 "/usr/include/bits/waitflags.h" 1 3 4
-# 42 "/usr/include/stdlib.h" 2 3 4
-# 1 "/usr/include/bits/waitstatus.h" 1 3 4
-# 66 "/usr/include/bits/waitstatus.h" 3 4
+#1 "/usr/include/bits/waitflags.h" 1 3 4
+#42 "/usr/include/stdlib.h" 2 3 4
+#1 "/usr/include/bits/waitstatus.h" 1 3 4
+#66 "/usr/include/bits/waitstatus.h" 3 4
 union wait
   {
     int w_status;
@@ -26881,8 +26901,8 @@ union wait
 
       } __wait_stopped;
   };
-# 43 "/usr/include/stdlib.h" 2 3 4
-# 97 "/usr/include/stdlib.h" 3 4
+#43 "/usr/include/stdlib.h" 2 3 4
+#97 "/usr/include/stdlib.h" 3 4
 typedef struct
   {
     int quot;
@@ -26908,7 +26928,7 @@ __extension__ typedef struct
     long long int quot;
     long long int rem;
   } lldiv_t;
-# 139 "/usr/include/stdlib.h" 3 4
+#139 "/usr/include/stdlib.h" 3 4
 extern size_t __ctype_get_mb_cur_max (void) throw () ;
 
 
@@ -26987,7 +27007,7 @@ __extension__
 extern unsigned long long int strtoull (const char *__restrict __nptr,
      char **__restrict __endptr, int __base)
      throw () __attribute__ ((__nonnull__ (1)));
-# 239 "/usr/include/stdlib.h" 3 4
+#239 "/usr/include/stdlib.h" 3 4
 extern long int strtol_l (const char *__restrict __nptr,
      char **__restrict __endptr, int __base,
      __locale_t __loc) throw () __attribute__ ((__nonnull__ (1, 4)));
@@ -27021,7 +27041,7 @@ extern long double strtold_l (const char *__restrict __nptr,
          char **__restrict __endptr,
          __locale_t __loc)
      throw () __attribute__ ((__nonnull__ (1, 3)));
-# 305 "/usr/include/stdlib.h" 3 4
+#305 "/usr/include/stdlib.h" 3 4
 extern char *l64a (long int __n) throw () ;
 
 
@@ -27032,8 +27052,8 @@ extern long int a64l (const char *__s)
 
 
 
-# 1 "/usr/include/sys/types.h" 1 3 4
-# 27 "/usr/include/sys/types.h" 3 4
+#1 "/usr/include/sys/types.h" 1 3 4
+#27 "/usr/include/sys/types.h" 3 4
 extern "C" {
 
 
@@ -27068,16 +27088,16 @@ typedef __ino64_t ino64_t;
 
 
 typedef __dev_t dev_t;
-# 70 "/usr/include/sys/types.h" 3 4
+#70 "/usr/include/sys/types.h" 3 4
 typedef __mode_t mode_t;
 
 
 
 
 typedef __nlink_t nlink_t;
-# 104 "/usr/include/sys/types.h" 3 4
+#104 "/usr/include/sys/types.h" 3 4
 typedef __id_t id_t;
-# 115 "/usr/include/sys/types.h" 3 4
+#115 "/usr/include/sys/types.h" 3 4
 typedef __daddr_t daddr_t;
 typedef __caddr_t caddr_t;
 
@@ -27086,7 +27106,7 @@ typedef __caddr_t caddr_t;
 
 
 typedef __key_t key_t;
-# 140 "/usr/include/sys/types.h" 3 4
+#140 "/usr/include/sys/types.h" 3 4
 typedef __suseconds_t suseconds_t;
 
 
@@ -27094,33 +27114,33 @@ typedef __suseconds_t suseconds_t;
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 147 "/usr/include/sys/types.h" 2 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#147 "/usr/include/sys/types.h" 2 3 4
 
 
 
 typedef unsigned long int ulong;
 typedef unsigned short int ushort;
 typedef unsigned int uint;
-# 200 "/usr/include/sys/types.h" 3 4
+#200 "/usr/include/sys/types.h" 3 4
 typedef unsigned int u_int8_t __attribute__ ((__mode__ (__QI__)));
 typedef unsigned int u_int16_t __attribute__ ((__mode__ (__HI__)));
 typedef unsigned int u_int32_t __attribute__ ((__mode__ (__SI__)));
 typedef unsigned int u_int64_t __attribute__ ((__mode__ (__DI__)));
 
 typedef int register_t __attribute__ ((__mode__ (__word__)));
-# 219 "/usr/include/sys/types.h" 3 4
-# 1 "/usr/include/sys/select.h" 1 3 4
-# 30 "/usr/include/sys/select.h" 3 4
-# 1 "/usr/include/bits/select.h" 1 3 4
-# 22 "/usr/include/bits/select.h" 3 4
-# 1 "/usr/include/bits/wordsize.h" 1 3 4
-# 23 "/usr/include/bits/select.h" 2 3 4
-# 31 "/usr/include/sys/select.h" 2 3 4
+#219 "/usr/include/sys/types.h" 3 4
+#1 "/usr/include/sys/select.h" 1 3 4
+#30 "/usr/include/sys/select.h" 3 4
+#1 "/usr/include/bits/select.h" 1 3 4
+#22 "/usr/include/bits/select.h" 3 4
+#1 "/usr/include/bits/wordsize.h" 1 3 4
+#23 "/usr/include/bits/select.h" 2 3 4
+#31 "/usr/include/sys/select.h" 2 3 4
 
 
-# 1 "/usr/include/bits/sigset.h" 1 3 4
-# 23 "/usr/include/bits/sigset.h" 3 4
+#1 "/usr/include/bits/sigset.h" 1 3 4
+#23 "/usr/include/bits/sigset.h" 3 4
 typedef int __sig_atomic_t;
 
 
@@ -27130,7 +27150,7 @@ typedef struct
   {
     unsigned long int __val[(1024 / (8 * sizeof (unsigned long int)))];
   } __sigset_t;
-# 34 "/usr/include/sys/select.h" 2 3 4
+#34 "/usr/include/sys/select.h" 2 3 4
 
 
 
@@ -27143,8 +27163,8 @@ typedef __sigset_t sigset_t;
 
 
 
-# 1 "/usr/include/bits/time.h" 1 3 4
-# 46 "/usr/include/sys/select.h" 2 3 4
+#1 "/usr/include/bits/time.h" 1 3 4
+#46 "/usr/include/sys/select.h" 2 3 4
 
 
 
@@ -27154,7 +27174,7 @@ typedef __sigset_t sigset_t;
 
 
 typedef long int __fd_mask;
-# 64 "/usr/include/sys/select.h" 3 4
+#64 "/usr/include/sys/select.h" 3 4
 typedef struct
   {
 
@@ -27174,26 +27194,26 @@ typedef struct
 
 
 typedef __fd_mask fd_mask;
-# 96 "/usr/include/sys/select.h" 3 4
+#96 "/usr/include/sys/select.h" 3 4
 extern "C" {
-# 106 "/usr/include/sys/select.h" 3 4
+#106 "/usr/include/sys/select.h" 3 4
 extern int select (int __nfds, fd_set *__restrict __readfds,
      fd_set *__restrict __writefds,
      fd_set *__restrict __exceptfds,
      struct timeval *__restrict __timeout);
-# 118 "/usr/include/sys/select.h" 3 4
+#118 "/usr/include/sys/select.h" 3 4
 extern int pselect (int __nfds, fd_set *__restrict __readfds,
       fd_set *__restrict __writefds,
       fd_set *__restrict __exceptfds,
       const struct timespec *__restrict __timeout,
       const __sigset_t *__restrict __sigmask);
-# 131 "/usr/include/sys/select.h" 3 4
+#131 "/usr/include/sys/select.h" 3 4
 }
-# 220 "/usr/include/sys/types.h" 2 3 4
+#220 "/usr/include/sys/types.h" 2 3 4
 
 
-# 1 "/usr/include/sys/sysmacros.h" 1 3 4
-# 29 "/usr/include/sys/sysmacros.h" 3 4
+#1 "/usr/include/sys/sysmacros.h" 1 3 4
+#29 "/usr/include/sys/sysmacros.h" 3 4
 extern "C" {
 
 __extension__
@@ -27206,9 +27226,9 @@ __extension__
 extern unsigned long long int gnu_dev_makedev (unsigned int __major,
             unsigned int __minor)
      throw () __attribute__ ((__const__));
-# 63 "/usr/include/sys/sysmacros.h" 3 4
+#63 "/usr/include/sys/sysmacros.h" 3 4
 }
-# 223 "/usr/include/sys/types.h" 2 3 4
+#223 "/usr/include/sys/types.h" 2 3 4
 
 
 
@@ -27230,13 +27250,13 @@ typedef __fsblkcnt_t fsblkcnt_t;
 
 
 typedef __fsfilcnt_t fsfilcnt_t;
-# 262 "/usr/include/sys/types.h" 3 4
+#262 "/usr/include/sys/types.h" 3 4
 typedef __blkcnt64_t blkcnt64_t;
 typedef __fsblkcnt64_t fsblkcnt64_t;
 typedef __fsfilcnt64_t fsfilcnt64_t;
-# 273 "/usr/include/sys/types.h" 3 4
+#273 "/usr/include/sys/types.h" 3 4
 }
-# 315 "/usr/include/stdlib.h" 2 3 4
+#315 "/usr/include/stdlib.h" 2 3 4
 
 
 
@@ -27378,12 +27398,12 @@ extern int seed48_r (unsigned short int __seed16v[3],
 extern int lcong48_r (unsigned short int __param[7],
         struct drand48_data *__buffer)
      throw () __attribute__ ((__nonnull__ (1, 2)));
-# 465 "/usr/include/stdlib.h" 3 4
+#465 "/usr/include/stdlib.h" 3 4
 extern void *malloc (size_t __size) throw () __attribute__ ((__malloc__)) ;
 
 extern void *calloc (size_t __nmemb, size_t __size)
      throw () __attribute__ ((__malloc__)) ;
-# 479 "/usr/include/stdlib.h" 3 4
+#479 "/usr/include/stdlib.h" 3 4
 extern void *realloc (void *__ptr, size_t __size)
      throw () __attribute__ ((__warn_unused_result__));
 
@@ -27397,10 +27417,10 @@ extern void cfree (void *__ptr) throw ();
 
 
 
-# 1 "/usr/include/alloca.h" 1 3 4
-# 24 "/usr/include/alloca.h" 3 4
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
-# 25 "/usr/include/alloca.h" 2 3 4
+#1 "/usr/include/alloca.h" 1 3 4
+#24 "/usr/include/alloca.h" 3 4
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/clang/bin/../lib/clang/3.1/include/stddef.h" 1 3 4
+#25 "/usr/include/alloca.h" 2 3 4
 
 extern "C" {
 
@@ -27415,7 +27435,7 @@ extern void *alloca (size_t __size) throw ();
 
 
 }
-# 492 "/usr/include/stdlib.h" 2 3 4
+#492 "/usr/include/stdlib.h" 2 3 4
 
 
 
@@ -27449,7 +27469,7 @@ extern int atexit (void (*__func) (void)) throw () __attribute__ ((__nonnull__ (
 
 extern "C++" int at_quick_exit (void (*__func) (void))
      throw () __asm ("at_quick_exit") __attribute__ ((__nonnull__ (1)));
-# 534 "/usr/include/stdlib.h" 3 4
+#534 "/usr/include/stdlib.h" 3 4
 extern int on_exit (void (*__func) (int __status, void *__arg), void *__arg)
      throw () __attribute__ ((__nonnull__ (1)));
 
@@ -27511,30 +27531,30 @@ extern int unsetenv (const char *__name) throw () __attribute__ ((__nonnull__ (1
 
 
 extern int clearenv (void) throw ();
-# 605 "/usr/include/stdlib.h" 3 4
+#605 "/usr/include/stdlib.h" 3 4
 extern char *mktemp (char *__template) throw () __attribute__ ((__nonnull__ (1)));
-# 619 "/usr/include/stdlib.h" 3 4
+#619 "/usr/include/stdlib.h" 3 4
 extern int mkstemp (char *__template) __attribute__ ((__nonnull__ (1))) ;
-# 629 "/usr/include/stdlib.h" 3 4
+#629 "/usr/include/stdlib.h" 3 4
 extern int mkstemp64 (char *__template) __attribute__ ((__nonnull__ (1))) ;
-# 641 "/usr/include/stdlib.h" 3 4
+#641 "/usr/include/stdlib.h" 3 4
 extern int mkstemps (char *__template, int __suffixlen) __attribute__ ((__nonnull__ (1))) ;
-# 651 "/usr/include/stdlib.h" 3 4
+#651 "/usr/include/stdlib.h" 3 4
 extern int mkstemps64 (char *__template, int __suffixlen)
      __attribute__ ((__nonnull__ (1))) ;
-# 662 "/usr/include/stdlib.h" 3 4
+#662 "/usr/include/stdlib.h" 3 4
 extern char *mkdtemp (char *__template) throw () __attribute__ ((__nonnull__ (1))) ;
-# 673 "/usr/include/stdlib.h" 3 4
+#673 "/usr/include/stdlib.h" 3 4
 extern int mkostemp (char *__template, int __flags) __attribute__ ((__nonnull__ (1))) ;
-# 683 "/usr/include/stdlib.h" 3 4
+#683 "/usr/include/stdlib.h" 3 4
 extern int mkostemp64 (char *__template, int __flags) __attribute__ ((__nonnull__ (1))) ;
-# 693 "/usr/include/stdlib.h" 3 4
+#693 "/usr/include/stdlib.h" 3 4
 extern int mkostemps (char *__template, int __suffixlen, int __flags)
      __attribute__ ((__nonnull__ (1))) ;
-# 705 "/usr/include/stdlib.h" 3 4
+#705 "/usr/include/stdlib.h" 3 4
 extern int mkostemps64 (char *__template, int __suffixlen, int __flags)
      __attribute__ ((__nonnull__ (1))) ;
-# 716 "/usr/include/stdlib.h" 3 4
+#716 "/usr/include/stdlib.h" 3 4
 extern int system (const char *__command) ;
 
 
@@ -27544,7 +27564,7 @@ extern int system (const char *__command) ;
 
 extern char *canonicalize_file_name (const char *__name)
      throw () __attribute__ ((__nonnull__ (1))) ;
-# 733 "/usr/include/stdlib.h" 3 4
+#733 "/usr/include/stdlib.h" 3 4
 extern char *realpath (const char *__restrict __name,
          char *__restrict __resolved) throw () ;
 
@@ -27607,7 +27627,7 @@ extern ldiv_t ldiv (long int __numer, long int __denom)
 __extension__ extern lldiv_t lldiv (long long int __numer,
         long long int __denom)
      throw () __attribute__ ((__const__)) ;
-# 807 "/usr/include/stdlib.h" 3 4
+#807 "/usr/include/stdlib.h" 3 4
 extern char *ecvt (double __value, int __ndigit, int *__restrict __decpt,
      int *__restrict __sign) throw () __attribute__ ((__nonnull__ (3, 4))) ;
 
@@ -27677,9 +27697,9 @@ extern size_t mbstowcs (wchar_t *__restrict __pwcs,
 extern size_t wcstombs (char *__restrict __s,
    const wchar_t *__restrict __pwcs, size_t __n)
      throw ();
-# 884 "/usr/include/stdlib.h" 3 4
+#884 "/usr/include/stdlib.h" 3 4
 extern int rpmatch (const char *__response) throw () __attribute__ ((__nonnull__ (1))) ;
-# 895 "/usr/include/stdlib.h" 3 4
+#895 "/usr/include/stdlib.h" 3 4
 extern int getsubopt (char **__restrict __optionp,
         char *const *__restrict __tokens,
         char **__restrict __valuep)
@@ -27737,12 +27757,12 @@ extern int getloadavg (double __loadavg[], int __nelem)
 
 
 
-# 1 "/usr/include/bits/stdlib-float.h" 1 3 4
-# 952 "/usr/include/stdlib.h" 2 3 4
-# 964 "/usr/include/stdlib.h" 3 4
+#1 "/usr/include/bits/stdlib-float.h" 1 3 4
+#952 "/usr/include/stdlib.h" 2 3 4
+#964 "/usr/include/stdlib.h" 3 4
 }
-# 66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 2 3
-# 97 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
+#66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 2 3
+#97 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
 
@@ -27791,7 +27811,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 157 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
+#157 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
 namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 {
 
@@ -27817,7 +27837,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
   { lldiv_t __q; __q.quot = __n / __d; __q.rem = __n % __d; return __q; }
 
   using ::lldiv;
-# 192 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
+#192 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cstdlib" 3
   using ::atoll;
   using ::strtoll;
   using ::strtoull;
@@ -27846,32 +27866,32 @@ namespace std
   using ::__gnu_cxx::strtoull;
   using ::__gnu_cxx::strtold;
 }
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
-# 55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h" 1
-# 66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
+#55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h" 1
+#66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
 
 
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
-# 46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 2 3
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 1 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/cmath" 3
+#46 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 2 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 1 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
 
 
 
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     class basic_stringbuf : public basic_streambuf<_CharT, _Traits>
     {
@@ -27898,18 +27918,18 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __string_type _M_string;
 
     public:
-# 92 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#92 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_stringbuf(ios_base::openmode __mode = ios_base::in | ios_base::out)
       : __streambuf_type(), _M_mode(__mode), _M_string()
       { }
-# 105 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#105 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_stringbuf(const __string_type& __str,
         ios_base::openmode __mode = ios_base::in | ios_base::out)
       : __streambuf_type(), _M_mode(), _M_string(__str.data(), __str.size())
       { _M_stringbuf_init(__mode); }
-# 120 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#120 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       __string_type
       str() const
       {
@@ -27926,7 +27946,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
    __ret = _M_string;
  return __ret;
       }
-# 144 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#144 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       void
       str(const __string_type& __s)
       {
@@ -27967,7 +27987,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       virtual int_type
       overflow(int_type __c = traits_type::eof());
-# 196 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#196 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       virtual __streambuf_type*
       setbuf(char_type* __s, streamsize __n)
       {
@@ -28021,7 +28041,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       void
       _M_pbump(char_type* __pbeg, char_type* __pend, off_type __off);
     };
-# 261 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#261 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
   template<typename _CharT, typename _Traits, typename _Alloc>
     class basic_istringstream : public basic_istream<_CharT, _Traits>
     {
@@ -28045,12 +28065,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __stringbuf_type _M_stringbuf;
 
     public:
-# 297 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#297 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_istringstream(ios_base::openmode __mode = ios_base::in)
       : __istream_type(), _M_stringbuf(__mode | ios_base::in)
       { this->init(&_M_stringbuf); }
-# 315 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#315 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_istringstream(const __string_type& __str,
      ios_base::openmode __mode = ios_base::in)
@@ -28065,7 +28085,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       ~basic_istringstream()
       { }
-# 337 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#337 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       __stringbuf_type*
       rdbuf() const
       { return const_cast<__stringbuf_type*>(&_M_stringbuf); }
@@ -28088,7 +28108,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       str(const __string_type& __s)
       { _M_stringbuf.str(__s); }
     };
-# 371 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#371 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
   template <typename _CharT, typename _Traits, typename _Alloc>
     class basic_ostringstream : public basic_ostream<_CharT, _Traits>
     {
@@ -28112,12 +28132,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __stringbuf_type _M_stringbuf;
 
     public:
-# 407 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#407 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_ostringstream(ios_base::openmode __mode = ios_base::out)
       : __ostream_type(), _M_stringbuf(__mode | ios_base::out)
       { this->init(&_M_stringbuf); }
-# 425 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#425 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_ostringstream(const __string_type& __str,
      ios_base::openmode __mode = ios_base::out)
@@ -28132,7 +28152,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       ~basic_ostringstream()
       { }
-# 447 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#447 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       __stringbuf_type*
       rdbuf() const
       { return const_cast<__stringbuf_type*>(&_M_stringbuf); }
@@ -28155,7 +28175,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       str(const __string_type& __s)
       { _M_stringbuf.str(__s); }
     };
-# 481 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#481 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
   template <typename _CharT, typename _Traits, typename _Alloc>
     class basic_stringstream : public basic_iostream<_CharT, _Traits>
     {
@@ -28179,12 +28199,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __stringbuf_type _M_stringbuf;
 
     public:
-# 515 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#515 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_stringstream(ios_base::openmode __m = ios_base::out | ios_base::in)
       : __iostream_type(), _M_stringbuf(__m)
       { this->init(&_M_stringbuf); }
-# 531 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#531 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       explicit
       basic_stringstream(const __string_type& __str,
     ios_base::openmode __m = ios_base::out | ios_base::in)
@@ -28199,7 +28219,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       ~basic_stringstream()
       { }
-# 553 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
+#553 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 3
       __stringbuf_type*
       rdbuf() const
       { return const_cast<__stringbuf_type*>(&_M_stringbuf); }
@@ -28227,9 +28247,9 @@ namespace std __attribute__ ((__visibility__ ("default")))
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 1 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 3
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 1 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 3
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
@@ -28293,7 +28313,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       const char_type __conv = traits_type::to_char_type(__c);
       if (!__testput)
  {
-# 111 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 3
+#111 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/bits/sstream.tcc" 3
    const __size_type __opt_len = std::max(__size_type(2 * __capacity),
        __size_type(512));
    const __size_type __len = std::min(__opt_len, __max_size);
@@ -28471,12 +28491,12 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 580 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 2 3
-# 47 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 2 3
+#580 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/sstream" 2 3
+#47 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 2 3
 
 namespace std __attribute__ ((__visibility__ ("default")))
 {
-# 61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#61 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp> class complex;
   template<> class complex<float>;
   template<> class complex<double>;
@@ -28527,7 +28547,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp> complex<_Tp> tan(const complex<_Tp>&);
 
   template<typename _Tp> complex<_Tp> tanh(const complex<_Tp>&);
-# 122 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#122 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     struct complex
     {
@@ -28545,7 +28565,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       template<typename _Up>
                            complex(const complex<_Up>& __z)
  : _M_real(__z.real()), _M_imag(__z.imag()) { }
-# 150 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#150 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
       _Tp&
       real() { return _M_real; }
 
@@ -28925,7 +28945,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       __s << '(' << __x.real() << ',' << __x.imag() << ')';
       return __os << __s.str();
     }
-# 542 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#542 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     inline _Tp&
     real(complex<_Tp>& __z)
@@ -28976,7 +28996,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp>
     inline _Tp
     abs(const complex<_Tp>& __z) { return __complex_abs(__z.__rep()); }
-# 600 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#600 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     inline _Tp
     __complex_arg(const complex<_Tp>& __z)
@@ -28996,7 +29016,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp>
     inline _Tp
     arg(const complex<_Tp>& __z) { return __complex_arg(__z.__rep()); }
-# 630 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#630 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<bool>
     struct _Norm_helper
     {
@@ -29120,7 +29140,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp>
     inline complex<_Tp>
     exp(const complex<_Tp>& __z) { return __complex_exp(__z.__rep()); }
-# 761 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#761 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     inline complex<_Tp>
     __complex_log(const complex<_Tp>& __z)
@@ -29205,7 +29225,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp>
     inline complex<_Tp>
     sinh(const complex<_Tp>& __z) { return __complex_sinh(__z.__rep()); }
-# 853 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#853 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     complex<_Tp>
     __complex_sqrt(const complex<_Tp>& __z)
@@ -29242,7 +29262,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp>
     inline complex<_Tp>
     sqrt(const complex<_Tp>& __z) { return __complex_sqrt(__z.__rep()); }
-# 897 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#897 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     inline complex<_Tp>
     __complex_tan(const complex<_Tp>& __z)
@@ -29262,7 +29282,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp>
     inline complex<_Tp>
     tan(const complex<_Tp>& __z) { return __complex_tan(__z.__rep()); }
-# 925 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#925 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     inline complex<_Tp>
     __complex_tanh(const complex<_Tp>& __z)
@@ -29282,7 +29302,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
   template<typename _Tp>
     inline complex<_Tp>
     tanh(const complex<_Tp>& __z) { return __complex_tanh(__z.__rep()); }
-# 955 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#955 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
   template<typename _Tp>
     complex<_Tp>
     __complex_pow_unsigned(complex<_Tp> __x, unsigned __n)
@@ -29390,7 +29410,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       explicit complex(const complex<double>&);
       explicit complex(const complex<long double>&);
-# 1072 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#1072 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
       float&
       real() { return __real__ _M_value; }
 
@@ -29533,7 +29553,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       : _M_value(__z.__rep()) { }
 
       explicit complex(const complex<long double>&);
-# 1224 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#1224 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
       double&
       real() { return __real__ _M_value; }
 
@@ -29677,7 +29697,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
                          complex(const complex<double>& __z)
       : _M_value(__z.__rep()) { }
-# 1377 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
+#1377 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/complex" 3
       long double&
       real() { return __real__ _M_value; }
 
@@ -29860,7 +29880,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h" 2
+#67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h" 2
 
 
 
@@ -29869,7 +29889,7 @@ namespace __gnu_cxx __attribute__ ((__visibility__ ("default")))
 
 
 namespace std {
-# 92 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h"
+#92 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h"
 template <int _AP_W, int _AP_I, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N>
 struct complex<ap_fixed<_AP_W, _AP_I, _AP_Q, _AP_O, _AP_N> > {
   typedef ap_fixed<_AP_W, _AP_I, _AP_Q, _AP_O, _AP_N> _Tp;
@@ -29991,7 +30011,7 @@ struct complex<ap_fixed<_AP_W, _AP_I, _AP_Q, _AP_O, _AP_N> > {
   _Tp _M_imag;
 
 };
-# 221 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h"
+#221 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed_special.h"
 template <int _AP_W, int _AP_I, ap_q_mode _AP_Q, ap_o_mode _AP_O, int _AP_N>
 inline bool operator==(
     const complex<ap_fixed<_AP_W, _AP_I, _AP_Q, _AP_O, _AP_N> > &__x,
@@ -30028,13 +30048,13 @@ inline bool operator!=(
 }
 
 }
-# 56 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 2
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
+#56 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 2
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 1 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
-# 147 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 1 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#147 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
 namespace std __attribute__ ((__visibility__ ("default")))
 {
 
@@ -30068,7 +30088,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
     denorm_present = 1
   };
-# 191 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#191 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
   struct __numeric_limits_base
   {
 
@@ -30082,7 +30102,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
     static const int digits10 = 0;
-# 212 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#212 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
     static const bool is_signed = false;
 
 
@@ -30161,7 +30181,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
     static const float_round_style round_style =
           round_toward_zero;
   };
-# 302 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#302 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
   template<typename _Tp>
     struct numeric_limits : public __numeric_limits_base
     {
@@ -30173,7 +30193,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
       static _Tp
       max() throw() { return static_cast<_Tp>(0); }
-# 323 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#323 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
       static _Tp
       epsilon() throw() { return static_cast<_Tp>(0); }
 
@@ -30201,7 +30221,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       static _Tp
       denorm_min() throw() { return static_cast<_Tp>(0); }
     };
-# 369 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#369 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
   template<>
     struct numeric_limits<bool>
     {
@@ -30541,7 +30561,7 @@ namespace std __attribute__ ((__visibility__ ("default")))
       static const float_round_style round_style
        = round_toward_zero;
     };
-# 851 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
+#851 "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc/lib/gcc/x86_64-unknown-linux-gnu/4.6.3/../../../../include/c++/4.6.3/limits" 3
   template<>
     struct numeric_limits<short>
     {
@@ -31314,8 +31334,8 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
-# 70 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h" 2
+#70 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 namespace hls {
 
     template<typename T>
@@ -31411,7 +31431,7 @@ namespace hls {
         ap_int<W+1> xw = x;
         return (x < 0) ? -xw: xw;
     }
-# 173 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#173 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
     static
     int abs(int x) {
         return std::abs(x);
@@ -31518,7 +31538,7 @@ namespace hlstmp {
         ap_int<W+1> xw = x;
         return (x < 0) ? -xw: xw;
     }
-# 287 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#287 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
     static
     int abs(int x) {
         return std::abs(x);
@@ -31560,7 +31580,7 @@ _ssdm_op_SpecInterface(0, "ap_none", 1, 1, "", 0, 0, "", "", "", 0, 0, 0, 0, "",
 
     return in;
 }
-# 342 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#342 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 static
 float to_float(float v)
 {
@@ -31595,14 +31615,14 @@ void set_to_one(ap_fixed<_W,_I> &a)
     ap_int<_W> tmp_sat = pow((double)2,(double)(_W-_I))-1;
     a.range() = tmp_sat;
 }
-# 385 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#385 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template<int _W, int _I>
 void set_to_max(ap_fixed<_W,_I> &a)
 {
     ap_int<_W> tmp_sat = pow((double)2,(double)_W)-1;
     a.range() = tmp_sat;
 }
-# 399 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#399 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template <typename T>
 class fp_struct
 {
@@ -31645,7 +31665,7 @@ public:
         exp(7,0)= data(30,23);
         sig(22,0)= data(22,0);
     }
-    fp_struct(uint32_t i) {
+    fp_struct(uint32_t i) {_ssdm_SpecConstant(&BITS);_ssdm_SpecConstant(&SIG_BITS);_ssdm_SpecConstant(&EXP_BITS);_ssdm_SpecConstant(&EXP_BIAS);_ssdm_SpecConstant(&EXP_INFNAN);
         ap_uint<32> data = i;
         sign[0] = data[31];
         exp(7,0)= data(30,23);
@@ -31721,7 +31741,7 @@ public:
 static
 std::ostream &operator << (std::ostream &os, const fp_struct<float> &s)
 {
-# 526 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#526 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
     return os;
 }
 
@@ -31749,7 +31769,7 @@ dumpSingle(
     float da,
     fp_struct<float> ds)
 {
-# 562 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#562 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 }
 
 
@@ -31788,7 +31808,7 @@ public:
         exp(10,0) = data(62,52);
         sig(51,0) = data(51,0);
     }
-    fp_struct(uint64_t i) {
+    fp_struct(uint64_t i) {_ssdm_SpecConstant(&BITS);_ssdm_SpecConstant(&SIG_BITS);_ssdm_SpecConstant(&EXP_BITS);_ssdm_SpecConstant(&EXP_BIAS);_ssdm_SpecConstant(&EXP_INFNAN);
         ap_uint<64> data = i;
         sign[0] = data[EXP_BITS+SIG_BITS+1-1];
         exp(EXP_BITS-1,0) = data(EXP_BITS-1+SIG_BITS,SIG_BITS);
@@ -31893,9 +31913,9 @@ dumpDouble(
     double da,
     fp_struct<double> ds)
 {
-# 714 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#714 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 }
-# 724 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#724 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 union half_cast {
     half d;
     uint16_t i;
@@ -32036,14 +32056,18 @@ dumpHalf(
     half da,
     fp_struct<half> ds)
 {
-# 873 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#873 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 }
-# 888 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#888 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template < unsigned int _Base, unsigned int _Num >
 class Power
 {
 public:
     static const unsigned int Value = _Base * Power< _Base, _Num - 1 >::Value;
+
+public :
+inline __attribute__((always_inline)) Power() { _ssdm_SpecConstant(&Value);  }
+#893 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template < unsigned int _Base >
@@ -32051,13 +32075,21 @@ class Power< _Base, 0 >
 {
 public:
     static const unsigned int Value = 1;
+
+public :
+inline __attribute__((always_inline)) Power< _Base, 0 >() { _ssdm_SpecConstant(&Value);  }
+#900 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
-# 910 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#910 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template < unsigned int _Num, unsigned int _I=_Num/2>
 class BitWidth
 {
 public:
     static const unsigned int Value = 1 + BitWidth<_Num,_I/2>::Value;
+
+public :
+inline __attribute__((always_inline)) BitWidth() { _ssdm_SpecConstant(&Value);  }
+#915 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template <unsigned int _Num>
@@ -32065,13 +32097,21 @@ class BitWidth<_Num, 0>
 {
 public:
     static const unsigned int Value = 1;
+
+public :
+inline __attribute__((always_inline)) BitWidth<_Num, 0>() { _ssdm_SpecConstant(&Value);  }
+#922 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
-# 932 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#932 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template < unsigned int _Num, unsigned int _I=_Num/2>
 class UnsignedBitWidth
 {
 public:
     static const unsigned int Value = 1 + UnsignedBitWidth<_Num,_I/2>::Value;
+
+public :
+inline __attribute__((always_inline)) UnsignedBitWidth() { _ssdm_SpecConstant(&Value);  }
+#937 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template <unsigned int _Num>
@@ -32079,13 +32119,21 @@ class UnsignedBitWidth<_Num, 0>
 {
 public:
     static const unsigned int Value = 0;
+
+public :
+inline __attribute__((always_inline)) UnsignedBitWidth<_Num, 0>() { _ssdm_SpecConstant(&Value);  }
+#944 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
-# 953 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#953 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template < typename T >
 class Type_BitWidth
 {
 public:
     static const unsigned int Value = 8*sizeof(T);
+
+public :
+inline __attribute__((always_inline)) Type_BitWidth() { _ssdm_SpecConstant(&Value);  }
+#958 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template <int W >
@@ -32093,6 +32141,10 @@ class Type_BitWidth< ap_uint<W> >
 {
 public:
     static const unsigned int Value = W;
+
+public :
+inline __attribute__((always_inline)) Type_BitWidth< ap_uint<W> >() { _ssdm_SpecConstant(&Value);  }
+#965 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template < int W >
@@ -32100,6 +32152,10 @@ class Type_BitWidth< ap_int<W> >
 {
 public:
     static const unsigned int Value = W;
+
+public :
+inline __attribute__((always_inline)) Type_BitWidth< ap_int<W> >() { _ssdm_SpecConstant(&Value);  }
+#972 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template < int W, int I >
@@ -32107,6 +32163,10 @@ class Type_BitWidth< ap_ufixed<W, I> >
 {
 public:
     static const unsigned int Value = W;
+
+public :
+inline __attribute__((always_inline)) Type_BitWidth< ap_ufixed<W, I> >() { _ssdm_SpecConstant(&Value);  }
+#979 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template < int W, int I >
@@ -32114,14 +32174,22 @@ class Type_BitWidth< ap_fixed<W, I> >
 {
 public:
     static const unsigned int Value = W;
+
+public :
+inline __attribute__((always_inline)) Type_BitWidth< ap_fixed<W, I> >() { _ssdm_SpecConstant(&Value);  }
+#986 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
-# 1008 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#1008 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template < unsigned int _DIM, unsigned int _I=_DIM>
 class LowerTri : public LowerTri<_DIM, _I-1>
 {
 public:
     static const int dummy;
     static const unsigned int Size = _I + LowerTri<_DIM,_I-1>::Size;
+
+public :
+inline __attribute__((always_inline)) LowerTri() { _ssdm_SpecConstant(&dummy); _ssdm_SpecConstant(&Size);  }
+#1014 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template < unsigned int _DIM>
@@ -32130,6 +32198,10 @@ class LowerTri<_DIM, 0>
 public:
     static const int dummy;
     static const unsigned int Size = 0;
+
+public :
+inline __attribute__((always_inline)) LowerTri<_DIM, 0>() { _ssdm_SpecConstant(&dummy); _ssdm_SpecConstant(&Size);  }
+#1022 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template <int _MAX, int _I>
@@ -32186,6 +32258,10 @@ public:
     static const int dummy;
     static const int dummy2;
     static const int dummy3;
+
+public :
+inline __attribute__((always_inline)) LowerTriDim() { _ssdm_SpecConstant(&dummy); _ssdm_SpecConstant(&dummy2); _ssdm_SpecConstant(&dummy3);  }
+#1078 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template < int _DIM, int _Num>
@@ -32198,6 +32274,10 @@ public:
     static int RowLookup[_Num];
     static int ColLookup[_Num];
     static int SizeLookup[_DIM];
+
+public :
+inline __attribute__((always_inline)) LowerTriDim<_DIM, _Num, 0>() { _ssdm_SpecConstant(&dummy); _ssdm_SpecConstant(&dummy2); _ssdm_SpecConstant(&dummy3);  }
+#1090 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template < int _DIM, int _Num, int _I>
@@ -32238,7 +32318,7 @@ int LowerTriDim<_DIM, _Num, 0>::ColLookup[_Num];
 
 template<int _DIM, int _Num>
 int LowerTriDim<_DIM, _Num, 0>::SizeLookup[_DIM];
-# 1144 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#1144 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template <typename _T, int _Num, int _I=_Num-1>
 class Table : public Table<_T, _Num, _I-1>
 {
@@ -32247,6 +32327,10 @@ public:
     static const typename _T::TableType dummy;
     static const int size = _Num;
 
+
+public :
+inline __attribute__((always_inline)) Table() { _ssdm_SpecConstant(&dummy); _ssdm_SpecConstant(&size);  }
+#1152 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 template <typename _T, int _Num>
@@ -32255,8 +32339,12 @@ class Table<_T, _Num, 0>
 public:
     static const typename _T::TableType dummy;
     static typename _T::TableType array[_Num];
+
+public :
+inline __attribute__((always_inline)) Table<_T, _Num, 0>() { _ssdm_SpecConstant(&dummy);  }
+#1160 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
-# 1171 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+#1171 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 template <typename _T, int _Num, int _I>
 const typename _T::TableType Table<_T, _Num, _I>::dummy
     = Table<_T, _Num, 0>::array[_I] = _T::apply(_I,_Num) + 0*Table<_T, _Num, _I-1>::dummy;
@@ -32274,31 +32362,111 @@ typename _T::TableType Table<_T, _Num, 0>::array[_Num];
 
 
 template <class T>
-struct is_fptype { static const bool value = false; };
-template <> struct is_fptype<float> { static const bool value = true; };
-template <> struct is_fptype<double> { static const bool value = true; };
+struct is_fptype { static const bool value = false; 
+public :
+inline __attribute__((always_inline)) is_fptype() { _ssdm_SpecConstant(&value);  }
+#1188 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_fptype<float> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_fptype<float>() { _ssdm_SpecConstant(&value);  }
+#1189 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_fptype<double> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_fptype<double>() { _ssdm_SpecConstant(&value);  }
+#1190 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
 template <> struct is_fptype<half> { static const bool value = true; };
 
 template <class T>
-struct is_integraltype { static const bool value = false; };
-template <> struct is_integraltype<int> { static const bool value = true; };
-template <> struct is_integraltype<unsigned int> { static const bool value = true; };
-template <> struct is_integraltype<char> { static const bool value = true; };
-template <> struct is_integraltype<signed char> { static const bool value = true; };
-template <> struct is_integraltype<unsigned char> { static const bool value = true; };
-template <> struct is_integraltype<short> { static const bool value = true; };
-template <> struct is_integraltype<unsigned short> { static const bool value = true; };
-template <> struct is_integraltype<long> { static const bool value = true; };
-template <> struct is_integraltype<unsigned long> { static const bool value = true; };
-template <> struct is_integraltype<long long> { static const bool value = true; };
-template <> struct is_integraltype<unsigned long long> { static const bool value = true; };
-template <int W> struct is_integraltype<ap_int<W> > { static const bool value = true; };
-template <int W> struct is_integraltype<ap_uint<W> > { static const bool value = true; };
+struct is_integraltype { static const bool value = false; 
+public :
+inline __attribute__((always_inline)) is_integraltype() { _ssdm_SpecConstant(&value);  }
+#1194 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<int> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<int>() { _ssdm_SpecConstant(&value);  }
+#1195 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<unsigned int> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<unsigned int>() { _ssdm_SpecConstant(&value);  }
+#1196 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<char> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<char>() { _ssdm_SpecConstant(&value);  }
+#1197 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<signed char> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<signed char>() { _ssdm_SpecConstant(&value);  }
+#1198 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<unsigned char> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<unsigned char>() { _ssdm_SpecConstant(&value);  }
+#1199 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<short> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<short>() { _ssdm_SpecConstant(&value);  }
+#1200 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<unsigned short> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<unsigned short>() { _ssdm_SpecConstant(&value);  }
+#1201 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<long> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<long>() { _ssdm_SpecConstant(&value);  }
+#1202 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<unsigned long> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<unsigned long>() { _ssdm_SpecConstant(&value);  }
+#1203 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<long long> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<long long>() { _ssdm_SpecConstant(&value);  }
+#1204 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <> struct is_integraltype<unsigned long long> { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<unsigned long long>() { _ssdm_SpecConstant(&value);  }
+#1205 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <int W> struct is_integraltype<ap_int<W> > { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<ap_int<W> >() { _ssdm_SpecConstant(&value);  }
+#1206 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <int W> struct is_integraltype<ap_uint<W> > { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_integraltype<ap_uint<W> >() { _ssdm_SpecConstant(&value);  }
+#1207 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
 
 template <class T>
-struct is_fixedtype { static const bool value = false; };
-template <int W, int I, ap_q_mode Q, ap_o_mode O> struct is_fixedtype<ap_fixed<W,I,Q,O> > { static const bool value = true; };
-template <int W, int I, ap_q_mode Q, ap_o_mode O> struct is_fixedtype<ap_ufixed<W,I,Q,O> > { static const bool value = true; };
+struct is_fixedtype { static const bool value = false; 
+public :
+inline __attribute__((always_inline)) is_fixedtype() { _ssdm_SpecConstant(&value);  }
+#1210 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <int W, int I, ap_q_mode Q, ap_o_mode O> struct is_fixedtype<ap_fixed<W,I,Q,O> > { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_fixedtype<ap_fixed<W,I,Q,O> >() { _ssdm_SpecConstant(&value);  }
+#1211 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
+template <int W, int I, ap_q_mode Q, ap_o_mode O> struct is_fixedtype<ap_ufixed<W,I,Q,O> > { static const bool value = true; 
+public :
+inline __attribute__((always_inline)) is_fixedtype<ap_ufixed<W,I,Q,O> >() { _ssdm_SpecConstant(&value);  }
+#1212 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
 
 template<bool B, class T = void>
 struct enable_if {};
@@ -32307,10 +32475,18 @@ template<class T>
 struct enable_if<true, T> { typedef T type; };
 
 template<typename T1, typename T2>
-struct enable_or { static const bool value = T1::value || T2::value; };
+struct enable_or { static const bool value = T1::value || T2::value; 
+public :
+inline __attribute__((always_inline)) enable_or() { _ssdm_SpecConstant(&value);  }
+#1221 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
 
 template<typename T1, typename T2>
-struct enable_and { static const bool value = T1::value && T2::value; };
+struct enable_and { static const bool value = T1::value && T2::value; 
+public :
+inline __attribute__((always_inline)) enable_and() { _ssdm_SpecConstant(&value);  }
+#1224 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
+};
 
 template<typename T, T _v>
 struct integral_constant
@@ -32319,6 +32495,10 @@ struct integral_constant
     typedef T value_type;
     typedef integral_constant<T,_v> type;
     operator value_type() { return value; }
+
+public :
+inline __attribute__((always_inline)) integral_constant() { _ssdm_SpecConstant(&value);  }
+#1233 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_utils.h"
 };
 
 typedef integral_constant<bool, true> true_type;
@@ -32350,9 +32530,9 @@ struct __promote<float> { typedef float type; };
 
 template<>
 struct __promote<half> { typedef half type; };
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 2
-# 1 "/usr/include/assert.h" 1 3 4
-# 65 "/usr/include/assert.h" 3 4
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 2
+#1 "/usr/include/assert.h" 1 3 4
+#65 "/usr/include/assert.h" 3 4
 extern "C" {
 
 
@@ -32373,7 +32553,7 @@ extern void __assert (const char *__assertion, const char *__file, int __line)
 
 
 }
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 2
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h" 2
 
 namespace hls {
 
@@ -32436,13 +32616,13 @@ _ssdm_InlineSelf(0, "");
 }
 
 }
-# 49 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 1
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_fpo.h" 1
-# 59 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_fpo.h"
-# 1 "/usr/include/assert.h" 1 3 4
-# 65 "/usr/include/assert.h" 3 4
+#49 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 1
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_fpo.h" 1
+#59 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_fpo.h"
+#1 "/usr/include/assert.h" 1 3 4
+#65 "/usr/include/assert.h" 3 4
 extern "C" {
 
 
@@ -32463,8 +32643,8 @@ extern void __assert (const char *__assertion, const char *__file, int __line)
 
 
 }
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_fpo.h" 2
-# 37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_fpo.h" 2
+#37 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
 
 
 namespace hls {
@@ -33206,7 +33386,7 @@ namespace hls {
   uint16_t sqrt(uint16_t);
   int32_t sqrt(int32_t);
   uint32_t sqrt(uint32_t);
-# 797 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h"
+#797 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h"
   double recip(double);
   float recip(float);
   half recip(half);
@@ -33360,13 +33540,13 @@ namespace hls {
 }
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 1
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
-# 42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 1
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
+#42 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 2
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/utils/x_hls_defines.h" 1
-# 107 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/utils/x_hls_defines.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/utils/x_hls_defines.h" 1
+#107 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/utils/x_hls_defines.h"
 template<int M, int E>
 struct float_struct {
     ap_uint<M> mant;
@@ -33382,9 +33562,9 @@ struct float_struct2 {
     ap_int<M> mant;
     ap_uint<E> exp;
 };
-# 44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/utils/x_hls_utils.h" 1
-# 45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 2
+#44 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/utils/x_hls_utils.h" 1
+#45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h" 2
 
 
 
@@ -33455,6 +33635,9 @@ namespace hotbm_apfixed
               ap_int<fp_struct<double>::EXP_BITS> &Ex){
 
    const bool swap_table[8] = {0,1,1,0,0,1,1,0};
+_ssdm_SpecConstant(swap_table);
+#114 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
 #pragma HLS array_partition variable=swap_table complete
 #pragma HLS RESOURCE variable=fourth_order_double::sin_cos_K0 core=ROM_1P_LUTRAM
 #pragma HLS RESOURCE variable=fourth_order_double::sin_cos_K1 core=ROM_1P_LUTRAM
@@ -33522,7 +33705,11 @@ namespace hotbm_apfixed
    ap_fixed<Wx, 1> sin_t5 = B_fourth_power*fourth_order_double::sin_K4[A];
    sin_result = Mx * (sin_t1 + sin_t2 + sin_t3 + sin_t4 + sin_t5);
     }
-  };
+  
+public :
+inline __attribute__((always_inline)) value_list<double>() { _ssdm_SpecConstant(&g); _ssdm_SpecConstant(&p1); _ssdm_SpecConstant(&alpha); _ssdm_SpecConstant(&beta1); _ssdm_SpecConstant(&beta2); _ssdm_SpecConstant(&W_dout); _ssdm_SpecConstant(&W_Mx);  }
+#182 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+};
 
   template<>
   struct value_list<float> {
@@ -33544,6 +33731,9 @@ namespace hotbm_apfixed
               ap_int<fp_struct<float>::EXP_BITS> &Ex){
 
    const bool swap_table[8] = {0,1,1,0,0,1,1,0};
+_ssdm_SpecConstant(swap_table);
+#203 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
 
 #pragma HLS array_partition variable=swap_table complete
 #pragma HLS RESOURCE variable=second_order_float::sin_cos_K0 core=ROM_1P_LUTRAM
@@ -33598,7 +33788,11 @@ namespace hotbm_apfixed
    ap_fixed<Wx, 1> sin_t3 = B_squared*second_order_float::sin_K2[A];
    sin_result = Mx * (sin_t1 + sin_t2 + sin_t3);
  }
-  };
+  
+public :
+inline __attribute__((always_inline)) value_list<float>() { _ssdm_SpecConstant(&g); _ssdm_SpecConstant(&p1); _ssdm_SpecConstant(&alpha); _ssdm_SpecConstant(&beta1); _ssdm_SpecConstant(&beta2); _ssdm_SpecConstant(&W_dout); _ssdm_SpecConstant(&W_Mx);  }
+#258 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+};
 
   struct sin_cos_fixed_16 {
 
@@ -33627,7 +33821,11 @@ namespace hotbm_apfixed
 
    return result;
  };
-  };
+  
+public :
+inline __attribute__((always_inline)) sin_cos_fixed_16() { _ssdm_SpecConstant(&g); _ssdm_SpecConstant(&p1); _ssdm_SpecConstant(&alpha); _ssdm_SpecConstant(&beta1);  }
+#287 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+};
 
   template<int W, int I>
   ap_fixed<W,2>
@@ -33638,8 +33836,17 @@ namespace hotbm_apfixed
  const int g = 3;
 
  const bool swap_table[8] = {0,1,1,0,0,1,1,0};
+_ssdm_SpecConstant(swap_table);
+#297 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
  const bool neg_sin_table[16] = {0,0,1,0,1,1,0,1, 1,0,1,1,0,1,0,0};
+_ssdm_SpecConstant(neg_sin_table);
+#298 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
  const bool neg_cos_table[16] = {0,0,0,1,1,1,1,0, 0,1,1,1,1,0,0,0};
+_ssdm_SpecConstant(neg_cos_table);
+#299 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
 
 #pragma HLS array_partition variable=swap_table complete
 #pragma HLS array_partition variable=neg_sin_table complete
@@ -33710,8 +33917,17 @@ namespace hotbm_apfixed
  const int g = 3;
 
  const bool swap_table[8] = {0,1,1,0,0,1,1,0};
+_ssdm_SpecConstant(swap_table);
+#369 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
  const bool neg_sin_table[16] = {0,0,1,0,1,1,0,1, 1,0,1,1,0,1,0,0};
+_ssdm_SpecConstant(neg_sin_table);
+#370 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
  const bool neg_cos_table[16] = {0,0,0,1,1,1,1,0, 0,1,1,1,1,0,0,0};
+_ssdm_SpecConstant(neg_cos_table);
+#371 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
 #pragma HLS array_partition variable=swap_table complete
 #pragma HLS array_partition variable=neg_sin_table complete
 #pragma HLS array_partition variable=neg_cos_table complete
@@ -33781,7 +33997,13 @@ namespace hotbm_apfixed
  const int g = 4;
 
  const bool neg_sin_table[8] = {0,0,1,1, 1,1,0,0};
+_ssdm_SpecConstant(neg_sin_table);
+#440 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
  const bool neg_cos_table[8] = {0,1,1,0, 0,1,1,0};
+_ssdm_SpecConstant(neg_cos_table);
+#441 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
 #pragma HLS array_partition variable=neg_sin_table complete
 #pragma HLS array_partition variable=neg_cos_table complete
 
@@ -33816,6 +34038,9 @@ namespace hotbm_apfixed
    ap_uint<3> index = k;
    index[2] = do_cos;
    const bool special_case_table[8] = {0,1,0,1,1,0,1,0};
+_ssdm_SpecConstant(special_case_table);
+#475 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_hotbm_apfixed.h"
+
    result(result.wl()-2,0) = 0;
    result[result.wl()-1] = special_case_table[index];
  }
@@ -33833,11 +34058,11 @@ namespace hotbm_apfixed
   };
 
 };
-# 950 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h" 1
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h" 2
+#950 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h" 1
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h" 2
 
 
 namespace cordic_apfixed {
@@ -33907,7 +34132,7 @@ namespace cordic_apfixed {
    x = tx;
    y = ty;
    z = tz;
-# 114 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
+#114 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
     }
   };
 
@@ -33931,7 +34156,7 @@ namespace cordic_apfixed {
  ap_uint<2> k;
  ap_ufixed<Fr,1> r;
  circ_range_redux(inabs, k, r);
-# 155 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
+#155 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
    ap_fixed<W+2,3> x, y, z;
 
    const ap_fixed<W+2,3> K1("0x0.9B74EDA8435E47F277F7");
@@ -34315,7 +34540,7 @@ namespace cordic_apfixed {
    x = tx;
    y = ty;
    z = tz;
-# 546 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
+#546 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_cordic_apfixed.h"
     }
   }
 
@@ -34476,9 +34701,9 @@ namespace cordic_apfixed {
   };
 
 }
-# 951 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h" 1
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+#951 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h" 1
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
 namespace exp_reduce {
 
 template<int W_, int I_>
@@ -34574,17 +34799,23 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
             ap_uint<4> x_lsb_ind;
             x_lsb_ind(3,0) = x_l(3,0);
             ap_ufixed<4,-1> x_lsb = x_l;
-# 147 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+#147 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
             const ap_ufixed<12,0> exp_x_lsb_m_1_table[16] = {
                 0, "0x0.082p0", "0x0.108p0", "0x0.193p0", "0x0.221p0", "0x0.2b5p0", "0x0.34dp0", "0x0.3eap0",
                 "0x0.48bp0", "0x0.532p0", "0x0.5dfp0", "0x0.69p0", "0x0.748p0", "0x0.805p0", "0x0.8c8p0", "0x0.991p0",
             };
+_ssdm_SpecConstant(exp_x_lsb_m_1_table);
+#150 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<12, 0> exp_x_lsb_m_1 = exp_x_lsb_m_1_table[x_lsb_ind];
 
             const ap_ufixed<12,5> exp_x_msb_table[16] = {
                 1, "0x1.a6p0", "0x2.b8p0", "0x4.7cp0", "0x7.64p0", "0xc.2ep0", "0x14.16p0", "0x21.1ep0",
                 "0x0.04p0", "0x0.08p0", "0x0.0cp0", "0x0.16p0", "0x0.22p0", "0x0.3ap0", "0x0.5ep0", "0x0.9cp0",
             };
+_ssdm_SpecConstant(exp_x_msb_table);
+#156 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<12,5> exp_x_msb = exp_x_msb_table[x_msb_ind];
             ap_ufixed<24,5> y_lo = exp_x_msb * exp_x_lsb_m_1;
             ap_ufixed<12,5> y_lo_s = y_lo;
@@ -34647,6 +34878,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
                 "0x0.000485p0", "0x0.0004e7p0", "0x0.00054ep0", "0x0.0005b9p0",
                 "0x0.000627p0", "0x0.00069ap0", "0x0.000711p0", "0x0.00078cp0",
             };
+_ssdm_SpecConstant(f_x_lsb_table);
+#218 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<11,-13> f_x_lsb = f_x_lsb_table[x_lsb_ind];
             ap_ufixed<18, -6> exp_x_lsb_m_1 = 0;
             exp_x_lsb_m_1(17,13) = x_lsb_ind(4,0);
@@ -34662,6 +34896,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
                 "0x0.747a510p0", "0x0.7a57ee0p0", "0x0.804d300p0", "0x0.865a778p0",
                 "0x0.8c80248p0", "0x0.92be998p0", "0x0.99163b0p0", "0x0.9f876e8p0",
             };
+_ssdm_SpecConstant(exp_x_msb_2_m_1_table);
+#233 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<25, 0> exp_x_msb_2_m_1 = exp_x_msb_2_m_1_table[x_msb_ind_2];
 
             ap_ufixed<43,-6> f_x_msb_2_lsb = exp_x_msb_2_m_1 * exp_x_lsb_m_1;
@@ -34678,6 +34915,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
                 "0x0.04b0p0", "0x0.07bcp0", "0x0.0cc0p0", "0x0.1504p0",
                 "0x0.22a4p0", "0x0.3920p0", "0x0.5e2cp0", "0x0.9b44p0",
             };
+_ssdm_SpecConstant(exp_x_msb_1_table);
+#249 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<25,11> exp_x_msb_1 = exp_x_msb_1_table[x_msb_ind_1];
             ap_ufixed<50,11> y_lo = exp_x_msb_1 * exp_x_msb_2_lsb_m_1;
             ap_ufixed<25,11> y_lo_s = y_lo;
@@ -34741,10 +34981,16 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.0000000000p0", "0x0.0000000002p0", "0x0.0000000008p0", "0x0.0000000012p0",
 "0x0.0000000020p0", "0x0.0000000032p0", "0x0.0000000048p0", "0x0.0000000062p0",
             };
+_ssdm_SpecConstant(f_x_msb_4_h_table);
+#312 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             const ap_ufixed< 7,-51> f_x_msb_4_l_table[8] = {
 "0x0.000000000000000p0", "0x0.000000000000000p0", "0x0.00000000000000cp0", "0x0.000000000000024p0",
 "0x0.000000000000054p0", "0x0.0000000000000a8p0", "0x0.000000000000120p0", "0x0.0000000000001c8p0",
             };
+_ssdm_SpecConstant(f_x_msb_4_l_table);
+#316 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed< 6,-33> f_x_msb_4_h = f_x_msb_4_h_table[x_msb_ind_4];
             ap_ufixed< 7,-51> f_x_msb_4_l = f_x_msb_4_l_table[x_msb_ind_4];
 
@@ -34754,6 +35000,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.000000000080p0", "0x0.0000000000a2p0", "0x0.0000000000c8p0", "0x0.0000000000f2p0",
 "0x0.000000000120p0", "0x0.000000000152p0", "0x0.000000000188p0", "0x0.0000000001c2p0",
             };
+_ssdm_SpecConstant(f_x_lsb_table);
+#325 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed< 8,-39> f_x_lsb = f_x_lsb_table[x_lsb_ind];
 
             ap_ufixed< 7,-35> f_x_msb_4_lsb = x_msb_4 * x_lsb;
@@ -34780,6 +35029,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.00000120090036p0", "0x0.000001388a2c6ap0", "0x0.000001520b71a0p0", "0x0.0000016c8cd0d6p0",
 "0x0.000001880e4b0ep0", "0x0.000001a48fe148p0", "0x0.000001c2119484p0", "0x0.000001e09365c0p0",
             };
+_ssdm_SpecConstant(f_x_msb_3_table);
+#351 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
 
             ap_ufixed<32,-23> f_x_msb_3 = f_x_msb_3_table[x_msb_ind_3];
             ap_ufixed<44,-11> exp_x_msb_3_m_1 = 0;
@@ -34857,6 +35109,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.01F47F31C92E4p0", "0x0.01F8A003B07AFp0", "0x0.01FCC559FA492p0", "0x0.0200EF35372E4p0",
 "0x0.02051D95F7D1Cp0", "0x0.0209507CCCED1p0", "0x0.020D87EA474BEp0", "0x0.0211C3DEF7CBDp0",
             };
+_ssdm_SpecConstant(f_x_msb_2_table);
+#428 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<46,-6> f_x_msb_2 = f_x_msb_2_table[x_msb_ind_2];
             ap_ufixed< 5,-6> f_x_msb_2_h;
             f_x_msb_2_h(4,0) = f_x_msb_2(45,41);
@@ -34935,6 +35190,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.5E2D58Dp0", "0x0.6AB7782p0", "0x0.78ED03Ap0", "0x0.8906E49p0",
 "0x0.9B4597Ep0", "0x0.AFF230Ap0", "0x0.C75F7CFp0", "0x0.E1EB512p0",
             };
+_ssdm_SpecConstant(exp_x_msb_1_table);
+#506 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<50,23> exp_x_msb_1 = exp_x_msb_1_table[x_msb_ind_1];
             ap_ufixed<100,21> y_lo = exp_x_msb_1 * exp_x_msb_2_3_4_lsb_m_1;
             ap_ufixed<48,21> y_lo_s = y_lo;
@@ -35067,6 +35325,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.000000000782009B29p0", "0x0.000000000791889D0Bp0", "0x0.0000000007A1209EF2p0", "0x0.0000000007B0C8A0DCp0",
 "0x0.0000000007C080A2CAp0", "0x0.0000000007D048A4BCp0", "0x0.0000000007E020A6B2p0", "0x0.0000000007F008A8ACp0",
             };
+_ssdm_SpecConstant(f_x_msb_4_table);
+#638 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<31,-37> f_x_msb_4 = f_x_msb_4_table[x_msb_ind_4];
 
             const ap_ufixed<12,-53> f_x_lsb_table[64] = {
@@ -35087,6 +35348,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.00000000000006200p0", "0x0.00000000000006588p0", "0x0.00000000000006920p0", "0x0.00000000000006cc8p0",
 "0x0.00000000000007080p0", "0x0.00000000000007448p0", "0x0.00000000000007820p0", "0x0.00000000000007c08p0",
             };
+_ssdm_SpecConstant(f_x_lsb_table);
+#658 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<12,-53> f_x_lsb = f_x_lsb_table[x_lsb_ind];
 
             ap_ufixed<14,-44> f_x_msb_4_lsb = x_msb_4 * x_lsb;
@@ -35176,6 +35440,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.000007829B32BACA82p0", "0x0.000007922515527E1Ap0", "0x0.000007A1BEFBCEAAD4p0", "0x0.000007B168E63351AAp0",
 "0x0.000007C122D4847397p0", "0x0.000007D0ECC6C61195p0", "0x0.000007E0C6BCFC2CA3p0", "0x0.000007F0B0B72AC5BEp0",
             };
+_ssdm_SpecConstant(f_x_msb_3_table);
+#747 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<51,-21> f_x_msb_3 = f_x_msb_3_table[x_msb_ind_3];
             ap_ufixed<62,-10> exp_x_msb_3_m_1 = 0;
             exp_x_msb_3_m_1(61,54) = x_msb_3(7,0);
@@ -35253,6 +35520,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.082707B2BAC20DB40p0", "0x0.08389BA6B92B46284p0", "0x0.084A4402416A1EE6Fp0", "0x0.085C00CA6E045741Fp0",
 "0x0.086DD2045AC678D2Bp0", "0x0.087FB7B524C42936Cp0", "0x0.0891B1E1EA587BE12p0", "0x0.08A3C08FCB2643FFEp0",
             };
+_ssdm_SpecConstant(f_x_msb_2_table);
+#824 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<64,-4> f_x_msb_2 = f_x_msb_2_table[x_msb_ind_2];
             ap_ufixed< 6,-4> f_x_msb_2_h;
             f_x_msb_2_h(5,0) = f_x_msb_2(63,58);
@@ -35331,6 +35601,9 @@ ap_fixed<W_,I_> exp(ap_fixed<W_,I_> x)
 "0x0.22A555477p0", "0x0.2C7C72FC0p0", "0x0.391F0EE49p0", "0x0.495860DCAp0",
 "0x0.5E2D58D8Bp0", "0x0.78ED03AFBp0", "0x0.9B4597E37p0", "0x0.C75F7CF56p0",
             };
+_ssdm_SpecConstant(exp_x_msb_1_table);
+#902 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_exp_apfixed.h"
+
             ap_ufixed<68,32> exp_x_msb_1 = exp_x_msb_1_table[x_msb_ind_1];
             ap_ufixed<140,32> y_lo = exp_x_msb_1 * exp_x_msb_2_3_4_lsb_m_1;
             ap_ufixed<68,32> y_lo_s = y_lo;
@@ -35378,9 +35651,9 @@ ap_uint<I_> exp(ap_uint<I_> x) {
 
 
 }
-# 952 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h" 1
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+#952 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h" 1
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 namespace log_apfixed_reduce {
 
 
@@ -35542,6 +35815,10 @@ public:
     static ap_ufixed<MaxPrecision-p_generic, -p_generic> range_reduction(ap_ufixed<size, -p1> z1, LOG_TYPE &log_sum) {
         return z1;
     }
+
+public :
+inline __attribute__((always_inline)) log_traits<1>() { _ssdm_SpecConstant(&we); _ssdm_SpecConstant(&wf); _ssdm_SpecConstant(&org_wf); _ssdm_SpecConstant(&gbits); _ssdm_SpecConstant(&p_generic); _ssdm_SpecConstant(&MaxPrecision);  }
+#193 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 };
 
 template <>
@@ -35568,6 +35845,10 @@ public:
         log_sum += logn;
         return z2;
     }
+
+public :
+inline __attribute__((always_inline)) log_traits<2>() { _ssdm_SpecConstant(&we); _ssdm_SpecConstant(&wf); _ssdm_SpecConstant(&org_wf); _ssdm_SpecConstant(&gbits); _ssdm_SpecConstant(&p_generic); _ssdm_SpecConstant(&MaxPrecision); _ssdm_SpecConstant(&w1); _ssdm_SpecConstant(&w2);  }
+#219 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 };
 
 template <>
@@ -35598,6 +35879,10 @@ public:
         log_sum += logn;
         return z3;
     }
+
+public :
+inline __attribute__((always_inline)) log_traits<3>() { _ssdm_SpecConstant(&we); _ssdm_SpecConstant(&wf); _ssdm_SpecConstant(&org_wf); _ssdm_SpecConstant(&gbits); _ssdm_SpecConstant(&p_generic); _ssdm_SpecConstant(&MaxPrecision); _ssdm_SpecConstant(&w1); _ssdm_SpecConstant(&w2); _ssdm_SpecConstant(&w3);  }
+#249 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 };
 
 template <>
@@ -35632,6 +35917,10 @@ public:
         log_sum += logn;
         return z4;
     }
+
+public :
+inline __attribute__((always_inline)) log_traits<4>() { _ssdm_SpecConstant(&we); _ssdm_SpecConstant(&wf); _ssdm_SpecConstant(&org_wf); _ssdm_SpecConstant(&gbits); _ssdm_SpecConstant(&p_generic); _ssdm_SpecConstant(&MaxPrecision); _ssdm_SpecConstant(&w1); _ssdm_SpecConstant(&w2); _ssdm_SpecConstant(&w3); _ssdm_SpecConstant(&w4);  }
+#283 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 };
 
 template <>
@@ -35670,6 +35959,10 @@ public:
         log_sum += logn;
         return z5;
     }
+
+public :
+inline __attribute__((always_inline)) log_traits<5>() { _ssdm_SpecConstant(&we); _ssdm_SpecConstant(&wf); _ssdm_SpecConstant(&org_wf); _ssdm_SpecConstant(&gbits); _ssdm_SpecConstant(&p_generic); _ssdm_SpecConstant(&MaxPrecision); _ssdm_SpecConstant(&w1); _ssdm_SpecConstant(&w2); _ssdm_SpecConstant(&w3); _ssdm_SpecConstant(&w4); _ssdm_SpecConstant(&w5);  }
+#321 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 };
 
 template <>
@@ -35712,6 +36005,10 @@ public:
         log_sum += logn;
         return z6;
     }
+
+public :
+inline __attribute__((always_inline)) log_traits<6>() { _ssdm_SpecConstant(&we); _ssdm_SpecConstant(&wf); _ssdm_SpecConstant(&org_wf); _ssdm_SpecConstant(&gbits); _ssdm_SpecConstant(&p_generic); _ssdm_SpecConstant(&MaxPrecision); _ssdm_SpecConstant(&w1); _ssdm_SpecConstant(&w2); _ssdm_SpecConstant(&w3); _ssdm_SpecConstant(&w4); _ssdm_SpecConstant(&w5); _ssdm_SpecConstant(&w6);  }
+#363 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 };
 
 template <>
@@ -35758,8 +36055,12 @@ public:
         log_sum += logn;
         return z7;
     }
+
+public :
+inline __attribute__((always_inline)) log_traits<7>() { _ssdm_SpecConstant(&we); _ssdm_SpecConstant(&wf); _ssdm_SpecConstant(&org_wf); _ssdm_SpecConstant(&gbits); _ssdm_SpecConstant(&p_generic); _ssdm_SpecConstant(&MaxPrecision); _ssdm_SpecConstant(&w1); _ssdm_SpecConstant(&w2); _ssdm_SpecConstant(&w3); _ssdm_SpecConstant(&w4); _ssdm_SpecConstant(&w5); _ssdm_SpecConstant(&w6); _ssdm_SpecConstant(&w7);  }
+#409 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 };
-# 478 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+#478 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
 template<int W_, int I_>
 ap_fixed<W_,I_> log(ap_fixed<W_,I_> x)
 {
@@ -35969,10 +36270,22 @@ ap_fixed<W_,I_> log(ap_fixed<W_,I_> x)
         else {
 
             const static int W_s_ = (W_+14)/10+(W_+54)/64-(W_+58)/64;
+_ssdm_SpecConstant(&W_s_);
+#686 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
 
             const static int wf = log_traits<W_s_>::wf;
+_ssdm_SpecConstant(&wf);
+#688 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
             const static int org_wf = log_traits<W_s_>::org_wf;
+_ssdm_SpecConstant(&org_wf);
+#689 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
             const static int MaxPrecision = log_traits<W_s_>::MaxPrecision;
+_ssdm_SpecConstant(&MaxPrecision);
+#690 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
 
 
 
@@ -35992,9 +36305,12 @@ ap_fixed<W_,I_> log(ap_fixed<W_,I_> x)
             const ap_ufixed<43,0> LOG2_l = 0.69314718055989033018704503774643;
             ap_fixed<31,6> Elog2_s = LOG2_s * b_exp;
             ap_fixed<49,6> Elog2_l = LOG2_l * b_exp;
-# 720 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+#720 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
             typedef typename log_traits<W_s_>::LOG_TYPE LOG_TYPE;
             const static int bypass_threshold = log_traits<W_s_>::p_generic;
+_ssdm_SpecConstant(&bypass_threshold);
+#721 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
 
             ap_uint<1+alpha0> index0;
             if (b_frac[org_wf]) index0 = b_frac(org_wf-1,org_wf-6);
@@ -36174,10 +36490,22 @@ ap_fixed<W_,I_> log10(ap_fixed<W_,I_> x)
         else {
 
             const static int W_s_ = (W_+14)/10+(W_+54)/64-(W_+58)/64;
+_ssdm_SpecConstant(&W_s_);
+#900 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
 
             const static int wf = log_traits<W_s_>::wf;
+_ssdm_SpecConstant(&wf);
+#902 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
             const static int org_wf = log_traits<W_s_>::org_wf;
+_ssdm_SpecConstant(&org_wf);
+#903 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
             const static int MaxPrecision = log_traits<W_s_>::MaxPrecision;
+_ssdm_SpecConstant(&MaxPrecision);
+#904 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
 
 
 
@@ -36201,6 +36529,9 @@ ap_fixed<W_,I_> log10(ap_fixed<W_,I_> x)
 
             typedef typename log_traits<W_s_>::LOG_TYPE LOG_TYPE;
             const static int bypass_threshold = log_traits<W_s_>::p_generic;
+_ssdm_SpecConstant(&bypass_threshold);
+#927 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+
 
             ap_uint<1+alpha0> index0;
             if (b_frac[org_wf]) index0 = b_frac(org_wf-1,org_wf-6);
@@ -36235,7 +36566,7 @@ ap_fixed<W_,I_> log10(ap_fixed<W_,I_> x)
 
             if (F_<=16) log_base = Elog2_s + log_base * LOG1_54_s;
             else log_base = Elog2_l + log_base * LOG1_54_l;
-# 970 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
+#970 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_log_apfixed.h"
             r = log_base;
         }
 
@@ -36263,9 +36594,9 @@ ap_uint<I_> log10(ap_uint<I_> x) {
 }
 
 }
-# 953 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h" 1
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
+#953 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h" 1
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
 template <int W_, int I_>
 ap_fixed<W_,I_> sqrt_fixed(ap_fixed<W_,I_> x)
 {
@@ -36451,13 +36782,28 @@ ap_fixed<W_,I_> sqrt_fixed(ap_fixed<W_,I_> x)
         if (x[W_-1]) return 0;
         if (I_<=0) {
             const static int lsbx = (-I_+2<=W_) ? (W_+I_-2) : 0;
+_ssdm_SpecConstant(&lsbx);
+#216 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
+
             if ( x(W_-1,lsbx) != 0 ) return 0;
         }
 
         const static int prcs = (F_+1)*2;
+_ssdm_SpecConstant(&prcs);
+#220 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
+
         const static int msbr = (I_>0) ? (I_+1)/2 : 1;
+_ssdm_SpecConstant(&msbr);
+#221 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
+
         const static int msbx = (I_>0) ? I_+3 : 4;
+_ssdm_SpecConstant(&msbx);
+#222 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
+
         const static int msbm = (I_>0) ? I_+1 : 2;
+_ssdm_SpecConstant(&msbm);
+#223 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
+
 
 
         ap_ufixed<msbx , msbx> x_l_I = x;
@@ -36466,7 +36812,7 @@ ap_fixed<W_,I_> sqrt_fixed(ap_fixed<W_,I_> x)
         ap_ufixed<msbr + prcs , msbr> res = 0;
         ap_ufixed<msbr , msbr> res_I = 0;
         ap_ufixed< prcs/2, 0> res_FH = 0;
-# 256 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
+#256 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_sqrt_apfixed.h"
     if (I_>0)
 #pragma unroll
  for ( int pos = msbr-1; pos >= 0; pos-- ) {
@@ -36640,9 +36986,9 @@ ap_uint<I_> recip_fixed(ap_uint<I_> x) {
     ap_fixed<I_+1,I_+1> xf = x;
     return recip_fixed(xf);
 }
-# 954 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_round_copysign_apfixed.h" 1
-# 32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_round_copysign_apfixed.h"
+#954 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_round_copysign_apfixed.h" 1
+#32 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_round_copysign_apfixed.h"
 template <int W_, int I_>
 ap_fixed<W_,I_> ceil_fixed(ap_fixed<W_,I_> x)
 {
@@ -36774,10 +37120,10 @@ ap_uint<I_> fabs_fixed(ap_uint<I_> x)
 {
     return x;
 }
-# 955 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
+#955 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h" 2
 
 namespace hls {
-# 979 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h"
+#979 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_math.h"
   template<int W, int I>
   ap_fixed<W, 2> sinpi(ap_fixed<W,I> x){
     return hotbm_apfixed::sinf_or_cosf<W,I>(x, 0, 1);
@@ -37213,11 +37559,11 @@ namespace hls {
   int32_t tan(int32_t);
   uint32_t tan(uint32_t);
 };
-# 50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h" 1
-# 66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_enum.h" 1
-# 58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_enum.h"
+#50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h" 1
+#66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_enum.h" 1
+#58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/etc/autopilot_enum.h"
 enum SsdmDataTypes {
     _ssdm_sc_int = 0,
     _ssdm_c_int = _ssdm_sc_int,
@@ -37290,11 +37636,11 @@ enum SsdmRegionTypes {
     _ssdm_region_pipeline,
     _ssdm_region_parallel,
 };
-# 67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h" 2
+#67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h" 2
 
 
 namespace hls {
-# 78 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h"
+#78 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_stream.h"
 template<typename __STREAM_T__>
 class stream
 {
@@ -37384,17 +37730,17 @@ class stream
 };
 
 }
-# 51 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#51 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h" 1
-# 35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
-# 36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h" 1
+#35 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_fixed.h" 1
+#36 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h" 2
 
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_defines.h" 1
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_defines.h" 1
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h" 2
 
 
 namespace hls
@@ -37411,7 +37757,7 @@ struct x_traits_default {
 
 template<typename T1, typename T2>
 struct x_traits {
-# 66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
+#66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
 };
 
 template<>
@@ -37465,6 +37811,10 @@ struct x_traits<int64_t, int64_t> : public x_traits_default<int64_t> { };
 template<int A,int B> class MAX{
   public:
     const static int value = (A > B) ? A : B;
+
+public :
+inline __attribute__((always_inline)) MAX() { _ssdm_SpecConstant(&value);  }
+#119 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
 };
 
 template<int W1, int I1, ap_q_mode Q1, ap_o_mode O1, int W2, int I2, ap_q_mode Q2, ap_o_mode O2>
@@ -37649,7 +37999,7 @@ struct x_traits_default {
 
 template<typename T1, typename T2>
 struct x_traits {
-# 314 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
+#314 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
 };
 
 template<>
@@ -37703,6 +38053,10 @@ struct x_traits<int64_t, int64_t> : public x_traits_default<int64_t> { };
 template<int A,int B> class MAX{
   public:
     const static int value = (A > B) ? A : B;
+
+public :
+inline __attribute__((always_inline)) MAX() { _ssdm_SpecConstant(&value);  }
+#367 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_traits.h"
 };
 
 template<int W1, int I1, ap_q_mode Q1, ap_o_mode O1, int W2, int I2, ap_q_mode Q2, ap_o_mode O2>
@@ -37870,23 +38224,71 @@ struct x_traits_d <ap_ufixed<W,I,Q,O>,DIM> {
 };
 
 }
-# 54 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_defines.h" 1
-# 55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h" 1
-# 177 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
-template<int T> struct Type { typedef ap_int<T-12> name; static const int bitdepth = T-12; };
-template<> struct Type<0> { typedef unsigned char name; static const int bitdepth = 8; };
-template<> struct Type<1> { typedef char name; static const int bitdepth = 8; };
-template<> struct Type<8> { typedef ap_uint<10> name; static const int bitdepth = 10; };
-template<> struct Type<9> { typedef ap_int<10> name; static const int bitdepth = 10; };
-template<> struct Type<10> { typedef ap_uint<12> name; static const int bitdepth = 12; };
-template<> struct Type<11> { typedef ap_int<12> name; static const int bitdepth = 12; };
-template<> struct Type<2> { typedef unsigned short name; static const int bitdepth = 16; };
-template<> struct Type<3> { typedef short name; static const int bitdepth = 16; };
-template<> struct Type<4> { typedef int name; static const int bitdepth = 32; };
-template<> struct Type<5> { typedef float name; static const int bitdepth = 32; };
-template<> struct Type<6> { typedef double name; static const int bitdepth = 64; };
+#54 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/utils/x_hls_defines.h" 1
+#55 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h" 1
+#177 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+template<int T> struct Type { typedef ap_int<T-12> name; static const int bitdepth = T-12; 
+public :
+inline __attribute__((always_inline)) Type() { _ssdm_SpecConstant(&bitdepth);  }
+#177 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<0> { typedef unsigned char name; static const int bitdepth = 8; 
+public :
+inline __attribute__((always_inline)) Type<0>() { _ssdm_SpecConstant(&bitdepth);  }
+#178 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<1> { typedef char name; static const int bitdepth = 8; 
+public :
+inline __attribute__((always_inline)) Type<1>() { _ssdm_SpecConstant(&bitdepth);  }
+#179 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<8> { typedef ap_uint<10> name; static const int bitdepth = 10; 
+public :
+inline __attribute__((always_inline)) Type<8>() { _ssdm_SpecConstant(&bitdepth);  }
+#180 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<9> { typedef ap_int<10> name; static const int bitdepth = 10; 
+public :
+inline __attribute__((always_inline)) Type<9>() { _ssdm_SpecConstant(&bitdepth);  }
+#181 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<10> { typedef ap_uint<12> name; static const int bitdepth = 12; 
+public :
+inline __attribute__((always_inline)) Type<10>() { _ssdm_SpecConstant(&bitdepth);  }
+#182 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<11> { typedef ap_int<12> name; static const int bitdepth = 12; 
+public :
+inline __attribute__((always_inline)) Type<11>() { _ssdm_SpecConstant(&bitdepth);  }
+#183 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<2> { typedef unsigned short name; static const int bitdepth = 16; 
+public :
+inline __attribute__((always_inline)) Type<2>() { _ssdm_SpecConstant(&bitdepth);  }
+#184 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<3> { typedef short name; static const int bitdepth = 16; 
+public :
+inline __attribute__((always_inline)) Type<3>() { _ssdm_SpecConstant(&bitdepth);  }
+#185 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<4> { typedef int name; static const int bitdepth = 32; 
+public :
+inline __attribute__((always_inline)) Type<4>() { _ssdm_SpecConstant(&bitdepth);  }
+#186 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<5> { typedef float name; static const int bitdepth = 32; 
+public :
+inline __attribute__((always_inline)) Type<5>() { _ssdm_SpecConstant(&bitdepth);  }
+#187 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
+template<> struct Type<6> { typedef double name; static const int bitdepth = 64; 
+public :
+inline __attribute__((always_inline)) Type<6>() { _ssdm_SpecConstant(&bitdepth);  }
+#188 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
 
 template<typename PIXEL_T> struct pixel_op_type { typedef PIXEL_T T; };
 template<> struct pixel_op_type<unsigned char> { typedef ap_uint<8> T; };
@@ -37897,19 +38299,43 @@ template<> struct pixel_op_type<unsigned int> { typedef ap_uint<32> T; };
 template<> struct pixel_op_type<int> { typedef ap_int<32> T; };
 template<int W> struct pixel_op_type<ap_int<W> > { typedef ap_int<W> T; };
 template<int W> struct pixel_op_type<ap_uint<W> > { typedef ap_uint<W> T; };
-# 225 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+#225 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
 template<typename T> struct Name
-{ static const int _min = -2147483647; static const int _max = 2147483647; };
+{ static const int _min = -2147483647; static const int _max = 2147483647; 
+public :
+inline __attribute__((always_inline)) Name() { _ssdm_SpecConstant(&_min); _ssdm_SpecConstant(&_max);  }
+#226 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
 template<> struct Name<unsigned char>
-{ static const int _min = 0; static const int _max = 255; };
+{ static const int _min = 0; static const int _max = 255; 
+public :
+inline __attribute__((always_inline)) Name<unsigned char>() { _ssdm_SpecConstant(&_min); _ssdm_SpecConstant(&_max);  }
+#228 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
 template<> struct Name<char>
-{ static const int _min = -127; static const int _max = 127; };
+{ static const int _min = -127; static const int _max = 127; 
+public :
+inline __attribute__((always_inline)) Name<char>() { _ssdm_SpecConstant(&_min); _ssdm_SpecConstant(&_max);  }
+#230 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
 template<> struct Name<unsigned short>
-{ static const int _min = 0; static const int _max = 65535; };
+{ static const int _min = 0; static const int _max = 65535; 
+public :
+inline __attribute__((always_inline)) Name<unsigned short>() { _ssdm_SpecConstant(&_min); _ssdm_SpecConstant(&_max);  }
+#232 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
 template<> struct Name<short>
-{ static const int _min = -32767; static const int _max = 32767; };
+{ static const int _min = -32767; static const int _max = 32767; 
+public :
+inline __attribute__((always_inline)) Name<short>() { _ssdm_SpecConstant(&_min); _ssdm_SpecConstant(&_max);  }
+#234 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
 template<> struct Name<int>
-{ static const int _min = -2147483647; static const int _max = 2147483647; };
+{ static const int _min = -2147483647; static const int _max = 2147483647; 
+public :
+inline __attribute__((always_inline)) Name<int>() { _ssdm_SpecConstant(&_min); _ssdm_SpecConstant(&_max);  }
+#236 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_types.h"
+};
 
 template<typename T>
 unsigned char Convert2uchar(T v)
@@ -38252,9 +38678,9 @@ typedef struct{
 }luma_8;
 
 }
-# 56 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h" 1
-# 45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#56 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h" 1
+#45 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 namespace hls {
 
 
@@ -38301,7 +38727,7 @@ _ssdm_SpecArrayPartition( val, 2, "COMPLETE", 0, "");
 
 
 };
-# 113 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#113 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::shift_pixels_left() {
 _ssdm_InlineSelf(0, "");
 
@@ -38319,7 +38745,7 @@ _ssdm_Unroll(0,0,0, "");
             val[i][j] = val[i][j+1];
         }
     }
-# 145 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#145 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38343,7 +38769,7 @@ _ssdm_Unroll(0,0,0, "");
             val[i][j] = val[i][j-1];
         }
     }
-# 183 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#183 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38367,7 +38793,7 @@ _ssdm_Unroll(0,0,0, "");
             val[i][j] = val[i+1][j];
         }
     }
-# 221 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#221 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38391,7 +38817,7 @@ _ssdm_Unroll(0,0,0, "");
             val[i][j] = val[i-1][j];
         }
     }
-# 259 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#259 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38408,13 +38834,13 @@ _ssdm_InlineSelf(0, "");
 
 
     val[row][col] = value;
-# 291 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#291 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_row(T value[COLS], int row) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_row(T value[COLS], int row) {_ssdm_SpecArrayDimSize(value,COLS);
 _ssdm_InlineSelf(0, "");
 
 
@@ -38428,13 +38854,13 @@ _ssdm_InlineSelf(0, "");
 _ssdm_Unroll(0,0,0, "");
         val[row][j] = value[j];
     }
-# 326 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#326 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_top_row(T value[COLS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_top_row(T value[COLS]) {_ssdm_SpecArrayDimSize(value,COLS);
 _ssdm_InlineSelf(0, "");
 
 
@@ -38444,13 +38870,13 @@ _ssdm_InlineSelf(0, "");
 
 
     insert_row(value, 0);
-# 357 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#357 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_bottom_row(T value[COLS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_bottom_row(T value[COLS]) {_ssdm_SpecArrayDimSize(value,COLS);
 _ssdm_InlineSelf(0, "");
 
 
@@ -38460,13 +38886,13 @@ _ssdm_InlineSelf(0, "");
 
 
     insert_row(value, ROWS-1);
-# 388 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#388 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_col(T value[ROWS], int col) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_col(T value[ROWS], int col) {_ssdm_SpecArrayDimSize(value,ROWS);
 _ssdm_InlineSelf(0, "");
 
 
@@ -38480,13 +38906,13 @@ _ssdm_InlineSelf(0, "");
 _ssdm_Unroll(0,0,0, "");
         val[i][col] = value[i];
     }
-# 423 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#423 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_left_col(T value[ROWS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_left_col(T value[ROWS]) {_ssdm_SpecArrayDimSize(value,ROWS);
 _ssdm_InlineSelf(0, "");
 
 
@@ -38496,13 +38922,13 @@ _ssdm_InlineSelf(0, "");
 
 
     insert_col(value, 0);
-# 454 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#454 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_right_col(T value[ROWS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_right_col(T value[ROWS]) {_ssdm_SpecArrayDimSize(value,ROWS);
 _ssdm_InlineSelf(0, "");
 
 
@@ -38512,7 +38938,7 @@ _ssdm_InlineSelf(0, "");
 
 
     insert_col(value, COLS-1);
-# 485 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#485 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38531,7 +38957,7 @@ template<int ROWS, int COLS, typename T> T& Window<ROWS, COLS, T>::operator ()(i
 _ssdm_InlineSelf(0, "");
     return getval(row, col);
 }
-# 531 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#531 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::shift_left() {
 _ssdm_InlineSelf(0, "");
     shift_pixels_left();
@@ -38582,7 +39008,7 @@ _ssdm_InlineSelf(0, "");
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_top(T value[COLS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_top(T value[COLS]) {_ssdm_SpecArrayDimSize(value,COLS);
 _ssdm_InlineSelf(0, "");
     insert_bottom_row(value);
 }
@@ -38592,7 +39018,7 @@ _ssdm_InlineSelf(0, "");
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_bottom(T value[COLS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_bottom(T value[COLS]) {_ssdm_SpecArrayDimSize(value,COLS);
 _ssdm_InlineSelf(0, "");
     insert_top_row(value);
 }
@@ -38602,7 +39028,7 @@ _ssdm_InlineSelf(0, "");
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_left(T value[ROWS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_left(T value[ROWS]) {_ssdm_SpecArrayDimSize(value,ROWS);
 _ssdm_InlineSelf(0, "");
     insert_right_col(value);
 }
@@ -38612,7 +39038,7 @@ _ssdm_InlineSelf(0, "");
 
 
 
-template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_right(T value[ROWS]) {
+template<int ROWS, int COLS, typename T> void Window<ROWS, COLS, T>::insert_right(T value[ROWS]) {_ssdm_SpecArrayDimSize(value,ROWS);
 _ssdm_InlineSelf(0, "");
     insert_left_col(value);
 }
@@ -38653,7 +39079,7 @@ _ssdm_SpecDependence( val, 0, 0, -1, 0, 0);
 
 
 };
-# 676 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#676 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 template<int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T>::shift_pixels_down(int col) {
 _ssdm_InlineSelf(0, "");
     ((col >= 0 && col < COLS) ? static_cast<void> (0) : __assert_fail ("col >= 0 && col < COLS", "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h", 678, __PRETTY_FUNCTION__));
@@ -38669,7 +39095,7 @@ _ssdm_InlineSelf(0, "");
 _ssdm_Unroll(0,0,0, "");
         val[i][col] = val[i-1][col];
     }
-# 710 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#710 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38691,7 +39117,7 @@ _ssdm_InlineSelf(0, "");
 _ssdm_Unroll(0,0,0, "");
         val[i][col] = val[i+1][col];
     }
-# 750 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#750 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38708,7 +39134,7 @@ _ssdm_InlineSelf(0, "");
 
 
     val[ROWS-1][col] = value;
-# 782 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#782 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38725,13 +39151,13 @@ _ssdm_InlineSelf(0, "");
 
 
     val[0][col] = value;
-# 814 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#814 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template <int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T>::get_col(T value[ROWS], int col) {
+template <int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T>::get_col(T value[ROWS], int col) {_ssdm_SpecArrayDimSize(value,ROWS);
 _ssdm_InlineSelf(0, "");
     ((col >= 0 && col < COLS) ? static_cast<void> (0) : __assert_fail ("col >= 0 && col < COLS", "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h", 821, __PRETTY_FUNCTION__));
     HLS_SIZE_T i;
@@ -38797,7 +39223,7 @@ template <int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T>::insert
 _ssdm_InlineSelf(0, "");
     insert_bottom_row(value, col);
 }
-# 907 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#907 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 template<int ROWS, int COLS, typename T>
 class LineBuffer<ROWS, COLS, T, 1> {
 public:
@@ -38830,7 +39256,7 @@ _ssdm_SpecDependence( val, 0, 0, -1, 0, 0);
 
 
 };
-# 964 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#964 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 template<int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T, 1>::shift_pixels_down(int col) {
 _ssdm_InlineSelf(0, "");
     ((col >= 0 && col < COLS) ? static_cast<void> (0) : __assert_fail ("col >= 0 && col < COLS", "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h", 966, __PRETTY_FUNCTION__));
@@ -38846,7 +39272,7 @@ _ssdm_InlineSelf(0, "");
 _ssdm_Unroll(0,0,0, "");
         val[i][col] = val[i-1][col];
     }
-# 998 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#998 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38868,7 +39294,7 @@ _ssdm_InlineSelf(0, "");
 _ssdm_Unroll(0,0,0, "");
         val[i][col] = val[i+1][col];
     }
-# 1038 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#1038 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38885,7 +39311,7 @@ _ssdm_InlineSelf(0, "");
 
 
     val[ROWS-1][col] = value;
-# 1070 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#1070 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
@@ -38902,13 +39328,13 @@ _ssdm_InlineSelf(0, "");
 
 
     val[0][col] = value;
-# 1102 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#1102 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
 
 
 
 
-template <int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T, 1>::get_col(T value[ROWS], int col) {
+template <int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T, 1>::get_col(T value[ROWS], int col) {_ssdm_SpecArrayDimSize(value,ROWS);
 _ssdm_InlineSelf(0, "");
     ((col >= 0 && col < COLS) ? static_cast<void> (0) : __assert_fail ("col >= 0 && col < COLS", "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h", 1109, __PRETTY_FUNCTION__));
     HLS_SIZE_T i;
@@ -38974,11 +39400,11 @@ template <int ROWS, int COLS, typename T> void LineBuffer<ROWS, COLS, T, 1>::ins
 _ssdm_InlineSelf(0, "");
     insert_bottom_row(value, col);
 }
-# 1194 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
+#1194 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_mem.h"
 }
-# 57 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h" 1
-# 84 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h"
+#57 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h" 1
+#84 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h"
 namespace hls {
 
 
@@ -39591,9 +40017,9 @@ _ssdm_InlineSelf(0, "");
 }
 
 }
-# 58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h" 1
-# 86 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+#58 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h" 1
+#86 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
 namespace hls {
 
 enum {MORPH_RECT,MORPH_CROSS,MORPH_ELLIPSE};
@@ -39604,13 +40030,37 @@ public:
     typedef void isBorderMode;
 };
 
-class BORDER_CONSTANT : public border_mode { public: static const values value = border_mode::BORDER_CONSTANT; };
-class BORDER_REPLICATE : public border_mode { public: static const values value = border_mode::BORDER_REPLICATE; };
-class BORDER_REFLECT : public border_mode { public: static const values value = border_mode::BORDER_REFLECT; };
-class BORDER_WRAP : public border_mode { public: static const values value = border_mode::BORDER_WRAP; };
-class BORDER_REFLECT_101 : public border_mode { public: static const values value = border_mode::BORDER_REFLECT_101; };
-class BORDER_DEFAULT : public border_mode { public: static const values value = border_mode::BORDER_REFLECT_101; };
-# 113 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+class BORDER_CONSTANT : public border_mode { public: static const values value = border_mode::BORDER_CONSTANT; 
+public :
+inline __attribute__((always_inline)) BORDER_CONSTANT() { _ssdm_SpecConstant(&value);  }
+#96 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+};
+class BORDER_REPLICATE : public border_mode { public: static const values value = border_mode::BORDER_REPLICATE; 
+public :
+inline __attribute__((always_inline)) BORDER_REPLICATE() { _ssdm_SpecConstant(&value);  }
+#97 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+};
+class BORDER_REFLECT : public border_mode { public: static const values value = border_mode::BORDER_REFLECT; 
+public :
+inline __attribute__((always_inline)) BORDER_REFLECT() { _ssdm_SpecConstant(&value);  }
+#98 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+};
+class BORDER_WRAP : public border_mode { public: static const values value = border_mode::BORDER_WRAP; 
+public :
+inline __attribute__((always_inline)) BORDER_WRAP() { _ssdm_SpecConstant(&value);  }
+#99 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+};
+class BORDER_REFLECT_101 : public border_mode { public: static const values value = border_mode::BORDER_REFLECT_101; 
+public :
+inline __attribute__((always_inline)) BORDER_REFLECT_101() { _ssdm_SpecConstant(&value);  }
+#100 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+};
+class BORDER_DEFAULT : public border_mode { public: static const values value = border_mode::BORDER_REFLECT_101; 
+public :
+inline __attribute__((always_inline)) BORDER_DEFAULT() { _ssdm_SpecConstant(&value);  }
+#101 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
+};
+#113 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgbase.h"
 static int borderInterpolate( int p, int len, int borderType )
 {
     _ssdm_InlineSelf(0, "");
@@ -39698,11 +40148,11 @@ _ssdm_op_SpecPipeline(-1, 1, 1, 0, "");
         }
 }
 }
-# 59 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h" 1
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h"
+#59 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h" 1
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h"
 namespace hls {
-# 50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h"
+#50 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h"
 template<int W, int ROWS, int COLS, int T>
 int AXIvideo2Mat(stream<ap_axiu<W,1,1,1> >& AXI_video_strm,
                  Mat<ROWS, COLS, T>& img)
@@ -39811,7 +40261,7 @@ _ssdm_op_SpecPipeline(1, 1, 1, 0, "");
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int Array2Mat(FB_T fb[ROWS*FB_COLS], int rowStride,
              Mat<ROWS, COLS, T>& img)
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     HLS_SIZE_T rows = img.rows;
     HLS_SIZE_T cols = img.cols;
@@ -39848,7 +40298,7 @@ _ssdm_Unroll(0,0,0, "");
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int Array2Mat(FB_T fb[ROWS*FB_COLS],
               Mat<ROWS, COLS, T>& img)
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     res=Array2Mat<FB_COLS>(fb, FB_COLS, img);
     return res;
@@ -39857,7 +40307,7 @@ int Array2Mat(FB_T fb[ROWS*FB_COLS],
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int AXIM2Mat(FB_T fb[ROWS*FB_COLS],
              Mat<ROWS, COLS, T>& img)
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     res=Array2Mat<FB_COLS>(fb, FB_COLS, img);
     return res;
@@ -39866,7 +40316,7 @@ int AXIM2Mat(FB_T fb[ROWS*FB_COLS],
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int AXIM2Mat(FB_T fb[ROWS*FB_COLS], int rowStride,
              Mat<ROWS, COLS, T>& img)
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     res=Array2Mat<FB_COLS>(fb, rowStride, img);
     return res;
@@ -39877,7 +40327,7 @@ int AXIM2Mat(FB_T fb[ROWS*FB_COLS], int rowStride,
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int Mat2Array(Mat<ROWS, COLS, T>& img,
              FB_T fb[ROWS*FB_COLS], int rowStride)
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     HLS_SIZE_T rows = img.rows;
     HLS_SIZE_T cols = img.cols;
@@ -39915,7 +40365,7 @@ _ssdm_Unroll(0,0,0, "");
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int Mat2Array(Mat<ROWS, COLS, T>& img,
               FB_T fb[ROWS*FB_COLS])
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     res=Mat2Array<FB_COLS>(img, fb, FB_COLS);
     return res;
@@ -39924,7 +40374,7 @@ int Mat2Array(Mat<ROWS, COLS, T>& img,
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int Mat2AXIM(Mat<ROWS, COLS, T>& img,
              FB_T fb[ROWS*FB_COLS])
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     res=Mat2Array<FB_COLS>(img, fb, FB_COLS);
     return res;
@@ -39933,19 +40383,19 @@ int Mat2AXIM(Mat<ROWS, COLS, T>& img,
 template <int FB_COLS, typename FB_T, int ROWS, int COLS, int T>
 int Mat2AXIM(Mat<ROWS, COLS, T>& img,
              FB_T fb[ROWS*FB_COLS], int rowStride)
-{
+{_ssdm_SpecArrayDimSize(fb,ROWS*FB_COLS);
     int res = 0;
     res=Mat2Array<FB_COLS>(img, fb, rowStride);
     return res;
 }
 
 }
-# 60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#60 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
 
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_arithm.h" 1
-# 88 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_arithm.h"
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_arithm.h" 1
+#88 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_arithm.h"
 namespace hls {
-# 111 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_arithm.h"
+#111 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_arithm.h"
 typedef ap_fixed<64,32,SC_RND> _AP_T;
 typedef unsigned long long _SUM_T;
 
@@ -41541,9 +41991,9 @@ _ssdm_op_SpecPipeline(1, 1, 1, 0, "");
 }
 
 }
-# 62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h" 1
-# 91 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+#62 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h" 1
+#91 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
 namespace hls {
 
 inline void assert_cn(int SRC_T,int DST_T)
@@ -42807,30 +43257,110 @@ public:
 
 }
 
-class HLS_RGB2GRAY : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2GRAY; };
-class HLS_BGR2GRAY : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2GRAY; };
-class HLS_GRAY2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::GRAY2RGB; };
-class HLS_GRAY2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::GRAY2BGR; };
+class HLS_RGB2GRAY : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2GRAY; 
+public :
+inline __attribute__((always_inline)) HLS_RGB2GRAY() { _ssdm_SpecConstant(&value);  }
+#1354 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_BGR2GRAY : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2GRAY; 
+public :
+inline __attribute__((always_inline)) HLS_BGR2GRAY() { _ssdm_SpecConstant(&value);  }
+#1355 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_GRAY2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::GRAY2RGB; 
+public :
+inline __attribute__((always_inline)) HLS_GRAY2RGB() { _ssdm_SpecConstant(&value);  }
+#1356 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_GRAY2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::GRAY2BGR; 
+public :
+inline __attribute__((always_inline)) HLS_GRAY2BGR() { _ssdm_SpecConstant(&value);  }
+#1357 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
 
-class HLS_RGB2XYZ : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2XYZ; };
-class HLS_BGR2XYZ : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2XYZ; };
-class HLS_XYZ2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::XYZ2RGB; };
-class HLS_XYZ2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::XYZ2BGR; };
+class HLS_RGB2XYZ : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2XYZ; 
+public :
+inline __attribute__((always_inline)) HLS_RGB2XYZ() { _ssdm_SpecConstant(&value);  }
+#1359 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_BGR2XYZ : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2XYZ; 
+public :
+inline __attribute__((always_inline)) HLS_BGR2XYZ() { _ssdm_SpecConstant(&value);  }
+#1360 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_XYZ2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::XYZ2RGB; 
+public :
+inline __attribute__((always_inline)) HLS_XYZ2RGB() { _ssdm_SpecConstant(&value);  }
+#1361 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_XYZ2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::XYZ2BGR; 
+public :
+inline __attribute__((always_inline)) HLS_XYZ2BGR() { _ssdm_SpecConstant(&value);  }
+#1362 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
 
-class HLS_RGB2YCrCb : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2YCrCb; };
-class HLS_BGR2YCrCb : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2YCrCb; };
-class HLS_YCrCb2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::YCrCb2RGB; };
-class HLS_YCrCb2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::YCrCb2BGR; };
+class HLS_RGB2YCrCb : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2YCrCb; 
+public :
+inline __attribute__((always_inline)) HLS_RGB2YCrCb() { _ssdm_SpecConstant(&value);  }
+#1364 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_BGR2YCrCb : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2YCrCb; 
+public :
+inline __attribute__((always_inline)) HLS_BGR2YCrCb() { _ssdm_SpecConstant(&value);  }
+#1365 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_YCrCb2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::YCrCb2RGB; 
+public :
+inline __attribute__((always_inline)) HLS_YCrCb2RGB() { _ssdm_SpecConstant(&value);  }
+#1366 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_YCrCb2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::YCrCb2BGR; 
+public :
+inline __attribute__((always_inline)) HLS_YCrCb2BGR() { _ssdm_SpecConstant(&value);  }
+#1367 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
 
-class HLS_RGB2HSV : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2HSV; };
-class HLS_BGR2HSV : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2HSV; };
-class HLS_HSV2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HSV2RGB; };
-class HLS_HSV2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HSV2BGR; };
+class HLS_RGB2HSV : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2HSV; 
+public :
+inline __attribute__((always_inline)) HLS_RGB2HSV() { _ssdm_SpecConstant(&value);  }
+#1369 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_BGR2HSV : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2HSV; 
+public :
+inline __attribute__((always_inline)) HLS_BGR2HSV() { _ssdm_SpecConstant(&value);  }
+#1370 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_HSV2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HSV2RGB; 
+public :
+inline __attribute__((always_inline)) HLS_HSV2RGB() { _ssdm_SpecConstant(&value);  }
+#1371 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_HSV2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HSV2BGR; 
+public :
+inline __attribute__((always_inline)) HLS_HSV2BGR() { _ssdm_SpecConstant(&value);  }
+#1372 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
 
-class HLS_RGB2HLS : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2HLS; };
-class HLS_BGR2HLS : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2HLS; };
-class HLS_HLS2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HLS2RGB; };
-class HLS_HLS2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HLS2BGR; };
+class HLS_RGB2HLS : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::RGB2HLS; 
+public :
+inline __attribute__((always_inline)) HLS_RGB2HLS() { _ssdm_SpecConstant(&value);  }
+#1374 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_BGR2HLS : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::BGR2HLS; 
+public :
+inline __attribute__((always_inline)) HLS_BGR2HLS() { _ssdm_SpecConstant(&value);  }
+#1375 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_HLS2RGB : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HLS2RGB; 
+public :
+inline __attribute__((always_inline)) HLS_HLS2RGB() { _ssdm_SpecConstant(&value);  }
+#1376 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
+class HLS_HLS2BGR : public hls::CvtColor_mode { public: static const values value = hls::CvtColor_mode::HLS2BGR; 
+public :
+inline __attribute__((always_inline)) HLS_HLS2BGR() { _ssdm_SpecConstant(&value);  }
+#1377 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+};
 
 namespace hls {
 
@@ -43211,6 +43741,9 @@ public:
  typename CvtColor_traits<DST_T>::S_MULT_T f;
  static const int sector_data[][3]=
   {{0,3,1}, {2,0,1}, {1,0,3}, {1,2,0}, {3,1,0},{0,1,2}};
+_ssdm_SpecConstant(sector_data);
+#1757 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+
  typename CvtColor_traits<DST_T>::S_MULT_T S_scale;
  unsigned char h_i;
 
@@ -43344,6 +43877,9 @@ public:
  typename CvtColor_traits<DST_T>::S_MULT_T f;
  static const int sector_data[][3]=
   {{0,3,1}, {2,0,1}, {1,0,3}, {1,2,0}, {3,1,0},{0,1,2}};
+_ssdm_SpecConstant(sector_data);
+#1890 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+
  typename CvtColor_traits<DST_T>::S_MULT_T S_scale;
  unsigned char h_i;
 
@@ -43508,6 +44044,9 @@ void init_scale_coefficients(HT *Hcoefs, VT *Vcoefs) {
 
 _ssdm_InlineSelf(2, "");
     static const float A = -0.5;
+_ssdm_SpecConstant(&A);
+#2054 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_imgproc.h"
+
     double t;
     double coeff[NPHASES][NTAPS];
     int i,j;
@@ -44536,9 +45075,9 @@ void PyrDown(
 }
 
 }
-# 63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_histogram.h" 1
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_histogram.h"
+#63 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_histogram.h" 1
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_histogram.h"
 namespace hls {
 
 template<int SRC_T, int DST_T,int ROW, int COL, int N>
@@ -44682,9 +45221,9 @@ _ssdm_InlineSelf(0, "");
     Equalize(_src, _dst, lut);
 }
 }
-# 64 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_fast.h" 1
-# 39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_fast.h"
+#64 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_fast.h" 1
+#39 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_fast.h"
 namespace hls {
 
     template<int PSize,int KERNEL_SIZE,int NUM,typename SRC_T, typename DIFF_T>
@@ -45133,14 +45672,14 @@ _ssdm_op_SpecPipeline(1, 1, 1, 0, "");
     }
 }
 }
-# 65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h" 1
-# 83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#65 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h" 1
+#83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
 namespace hls {
 
 template <int N, typename T,typename PT>
 void LU( T A[N][N], PT pos[N])
-{
+{_ssdm_SpecArrayDimSize(A,N);_ssdm_SpecArrayDimSize(pos,N);
     int imax = 0;
     T lu[N] ;
     for (int i = 0; i < N; i++)
@@ -45191,7 +45730,7 @@ void LU( T A[N][N], PT pos[N])
 }
 template <int N, typename T, typename PT,typename BT>
 void LUex(T A[N][N], PT pos[N],BT b[N])
-{
+{_ssdm_SpecArrayDimSize(A,N);_ssdm_SpecArrayDimSize(b,N);_ssdm_SpecArrayDimSize(pos,N);
     int ii = 0;
     for (int i = 0; i < N; i++) {
         int ip = pos[i];
@@ -45217,7 +45756,7 @@ void LUex(T A[N][N], PT pos[N],BT b[N])
 
 template <int N,typename T>
 void Invert(T A[N][N],T Ar[N][N], int flags=0)
-{
+{_ssdm_SpecArrayDimSize(A,N);_ssdm_SpecArrayDimSize(Ar,N);
     T b[N];
     int pos[N];
     for (int i = 0; i < N; i++) {
@@ -45238,7 +45777,7 @@ void mul(
                BT B [AROW][ BCOL],
                CT C [AROW][ BCOL]
 )
-{
+{_ssdm_SpecArrayDimSize(A,AROW);_ssdm_SpecArrayDimSize(B,AROW);_ssdm_SpecArrayDimSize(C,AROW);
  loop_i: for(int i=0; i<AROW; i++)
     {
     loop_j: for(int j=0; j<BCOL; j++)
@@ -45377,7 +45916,7 @@ _ssdm_SpecDependence( 0, 1, 0, -1, 0, 1);
                 bool in_range = (y>=0 && y<rows && r1[y%WIN_ROW] == y && r2[ynext%WIN_ROW] == ynext && x>=0 && x<cols);
 
                 int xa0, xa1, ya0, ya1;
-# 337 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#337 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
                 ((((WIN_ROW & (WIN_ROW-1)) == 0) && "WIN_ROW must be a power of two") ? static_cast<void> (0) : __assert_fail ("((WIN_ROW & (WIN_ROW-1)) == 0) && \"WIN_ROW must be a power of two\"", "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h", 337, __PRETTY_FUNCTION__));
                 xa0 = x/2 + x%2;
                 xa1 = x/2;
@@ -45446,13 +45985,13 @@ void Remap(
 template <typename T>
 class RangeAnalyzer {
 public:
-# 416 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#416 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
     void operator ()(T x) {};
 
 
 
 };
-# 439 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#439 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
 template<typename T>
 T one_over_x_approx(T x) {
     return T(1.0)/x;
@@ -45508,7 +46047,7 @@ void computeUndistortCoordinates(Window<3,3, CMT> cameraMatrix,
     CMT v0= cameraMatrix.val[1][2];
     CMT fx= cameraMatrix.val[0][0];
     CMT fy= cameraMatrix.val[1][1];
-# 505 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#505 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
     FRAMET _x, _y, x, y;
     _x=i*ir.val[0][1] + j * ir.val[0][0] + ir.val[0][2];
     _y=i*ir.val[1][1] + j * ir.val[1][0] + ir.val[1][2];
@@ -45547,7 +46086,7 @@ void computeUndistortCoordinates(Window<3,3, CMT> cameraMatrix,
 
     u = fx*(FRAMET(x*kr) + FRAMET(p1*_2xy) + FRAMET(p2*(2*x2 + r2))) + u0;
     v = fy*(FRAMET(y*kr) + FRAMET(p1*(r2 + 2*y2)) + FRAMET(p2*_2xy)) + v0;
-# 556 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#556 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
 }
 
 template <typename ROWT, typename COLT, typename ROWOUTT, typename COLOUTT, int N>
@@ -45611,7 +46150,7 @@ void computeUndistortCoordinatesRef(Window<3,3, float> cameraMatrix,
 
     u = fx*(FRAMET(x*kr) + FRAMET(p1*_2xy) + FRAMET(p2*(2*x2 + r2))) + u0;
     v = fy*(FRAMET(y*kr) + FRAMET(p1*(r2 + 2*y2)) + FRAMET(p2*_2xy)) + v0;
-# 632 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#632 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
 }
 
 template<typename T>
@@ -45659,7 +46198,7 @@ _ssdm_op_SpecPipeline(1, 1, 1, 0, "");
             computeUndistortCoordinates
                 <typename InitUndistortRectifyMap_traits<CMT>::FRAMET, typename InitUndistortRectifyMap_traits<CMT>::FRAME2T>
                 (cameraMatrix, distCoeffs, ir, noRotation,ifixed,jfixed,u,v);
-# 700 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
+#700 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h"
             ((MAP1_T==(((3) & ((1 << 11) - 1)) + (((2)-1) << 11))) ? static_cast<void> (0) : __assert_fail ("MAP1_T==(((3) & ((1 << 11) - 1)) + (((2)-1) << 11))", "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_undistort.h", 700, __PRETTY_FUNCTION__));
             {
                 int iu = sr_cast<int>(u*32);
@@ -45703,9 +46242,9 @@ void InitUndistortRectifyMap(
     InitUndistortRectifyMapInverse(cameraMatrix, distCoeffs,ir,map1,map2);
 }
 }
-# 66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_hough.h" 1
-# 83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_hough.h"
+#66 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_hough.h" 1
+#83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_hough.h"
 namespace hls {
 
 typedef ap_fixed<19,2,SC_RND> angleAccuracy_T;
@@ -45927,7 +46466,7 @@ void HoughLinesStandard(
     Sort_insert<rho,ROW,COL>(_accum,lines, _threshold,theta,storenum);
     GetTopLines(_lines,lines,storenum,theta,rho,Half_rhoN);
 }
-# 312 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_hough.h"
+#312 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_hough.h"
 template<unsigned int theta,unsigned int rho,typename AT,typename RT,int SRC_T,int ROW,int COL,unsigned int linesMax>
 void HoughLines2(
         Mat<ROW,COL,SRC_T> & _src,
@@ -45949,9 +46488,9 @@ void HoughLines2(
 }
 
 }
-# 67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_harris.h" 1
-# 83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_harris.h"
+#67 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_harris.h" 1
+#83 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_harris.h"
 namespace hls {
 
 template<int KH,int KW, typename SRC_T>
@@ -46183,9 +46722,9 @@ _ssdm_InlineSelf(0, "");
 }
 
 }
-# 68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h" 1
-# 41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h"
+#68 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h" 1
+#41 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h"
 namespace hls {
 
 typedef ap_fixed<12,6,SC_RND> VAR_T;
@@ -46454,7 +46993,7 @@ _ssdm_SpecExprBalance(0, "");
             col_sum_sq += ss.val[0] * ss.val[0];
             swin.val[K_H][K_W] = (j == 0 ? ap_uint<24>(0) : swin.val[K_H][K_W-1]) + col_sum;
             sqwin.val[0][K_W] = (j == 0 ? ap_uint<32>(0) : sqwin.val[0][K_W-1]) + col_sum_sq;
-# 322 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h"
+#322 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h"
             }
 
             m.val[0]=0;
@@ -46532,7 +47071,7 @@ void HaarClassifierObject(
                 )
 {
 _ssdm_InlineSelf(0, "");
-# 409 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h"
+#409 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_haar.h"
         HaarClassifierObject_opr<K_H,K_W>(_cascade,_src, _mask);
 }
 
@@ -46657,9 +47196,9 @@ _ssdm_InlineSelf(0, "");
 }
 
 }
-# 69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_stereobm.h" 1
-# 100 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_stereobm.h"
+#69 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#1 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_stereobm.h" 1
+#100 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_stereobm.h"
 namespace hls {
 
 
@@ -46839,7 +47378,7 @@ int SAD_compute_inc(
             int d,
             int col,
             int sad_cols_d[WSIZE])
-{
+{_ssdm_SpecArrayDimSize(sad_cols_d,WSIZE);
 _ssdm_InlineSelf(0, "");
     int a_sum = 0, b_sum = 0;
 
@@ -46864,7 +47403,7 @@ template<int SIZE>
 class MinSAD {
 public:
     template <typename T, typename T_idx>
-    static void find(T a[SIZE], T_idx &loc, T &val) {
+    static void find(T a[SIZE], T_idx &loc, T &val) {_ssdm_SpecArrayDimSize(a,SIZE);
 _ssdm_InlineSelf(0, "");
 _ssdm_SpecArrayPartition( a, 0, "COMPLETE", 0, "");
         T a1[SIZE/2];
@@ -46893,7 +47432,7 @@ template<>
 class MinSAD<1> {
 public:
     template <typename T, typename T_idx>
-    static void find(T a[1], T_idx &loc, T &val) {
+    static void find(T a[1], T_idx &loc, T &val) {_ssdm_SpecArrayDimSize(a,1);
 _ssdm_InlineSelf(0, "");
 _ssdm_SpecArrayPartition( a, 0, "COMPLETE", 0, "");
         loc = 0;
@@ -46905,7 +47444,7 @@ template<>
 class MinSAD<2> {
 public:
     template <typename T, typename T_idx>
-    static void find(T a[2], T_idx &loc, T &val) {
+    static void find(T a[2], T_idx &loc, T &val) {_ssdm_SpecArrayDimSize(a,2);
 _ssdm_InlineSelf(0, "");
 _ssdm_SpecArrayPartition( a, 0, "COMPLETE", 0, "");
         T_idx l1=0, l2=1;
@@ -47149,9 +47688,10 @@ _ssdm_op_SpecDataflowPipeline(-1, "");
 }
 
 }
-# 70 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 6 "project_tracking_on_soc/sources/tracking_tools.h" 2
-# 16 "project_tracking_on_soc/sources/tracking_tools.h"
+#70 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
+#6 "project_tracking_on_soc/sources/traitement.h" 2
+#1 "project_tracking_on_soc/sources/tracking_tools.h" 1
+#16 "project_tracking_on_soc/sources/tracking_tools.h"
 typedef hls::stream<ap_axiu<24,1,1,1> > AXI_STREAM;
 typedef hls::Mat<1024, 768, (((0) & ((1 << 11) - 1)) + (((1)-1) << 11))> IMAGE_C1;
 typedef hls::Mat<1024, 768, (((0) & ((1 << 11) - 1)) + (((3)-1) << 11))> IMAGE_C3;
@@ -47164,46 +47704,71 @@ typedef hls::Scalar<1, unsigned char> PIXEL_GRAY;
 
 void colorToNdg(IMAGE_C3& imgColor, IMAGE_C1& imgNdg);
 void ndgToBinary(IMAGE_C1& imgNdg, IMAGE_C1& imgBinary);
-# 2 "project_tracking_on_soc/sources/tracking_tools.cpp" 2
-# 1 "project_tracking_on_soc/sources/traitement.h" 1
-# 14 "project_tracking_on_soc/sources/traitement.h"
+#7 "project_tracking_on_soc/sources/traitement.h" 2
+
+
+
+
+
+
+
 typedef hls::stream<ap_axiu<24,1,1,1> > AXI_STREAM;
 typedef hls::Mat<1024, 768, (((0) & ((1 << 11) - 1)) + (((1)-1) << 11))> IMAGE_C1;
 typedef hls::Mat<1024, 768, (((0) & ((1 << 11) - 1)) + (((3)-1) << 11))> IMAGE_C3;
 
 void process(AXI_STREAM& video_in, AXI_STREAM& video_out, int rows, int cols);
-# 3 "project_tracking_on_soc/sources/tracking_tools.cpp" 2
+#2 "project_tracking_on_soc/sources/traitement.cpp" 2
 
-void colorToNdg(IMAGE_C3& imgColor, IMAGE_C1& imgNdg)
-{
- int lig, col;
- for(lig=0; lig<=imgColor.rows; lig++)
- {
-  for(col=0; col<=imgColor.cols; col++)
-  {
-   PIXEL_COLOR pixColor;
-   pixColor = imgColor.read();
-   int moy = (pixColor.val[0] + pixColor.val[1] + pixColor.val[2])/3;
-   PIXEL_GRAY pixG;
-   pixG = moy;
-   imgNdg.write(pixG);
-  }
- }
+void process(AXI_STREAM& video_in, AXI_STREAM& video_out, int rows, int cols){
+
+
+
+
+#pragma HLS INTERFACE axis port=&video_in bundle=INPUT_STREAM
+#pragma HLS INTERFACE axis port=&video_out bundle=OUTPUT_STREAM
+#pragma HLS INTERFACE s_axilite port=return bundle=CONTROL_BUS
+
+#pragma HLS INTERFACE s_axilite port=rows bundle=CONTROL_BUS offset=0x14
+#pragma HLS INTERFACE s_axilite port=cols bundle=CONTROL_BUS offset=0x1C
+#pragma HLS INTERFACE ap_stable port=rows
+#pragma HLS INTERFACE ap_stable port=cols
+
+#pragma HLS dataflow
+
+ IMAGE_C3 imgColor(rows, cols);
+ IMAGE_C1 imgNdg(rows, cols);
+ IMAGE_C1 imgBinary(rows, cols);
+ hls::AXIvideo2Mat(video_in, imgColor);
+
+
+
+ colorToNdg(imgColor,imgNdg);
+ ndgToBinary(imgNdg, imgBinary);
+
+ hls::Mat2AXIvideo(imgBinary, video_out);
+
 }
 
-void ndgToBinary(IMAGE_C1& imgNdg, IMAGE_C1& imgBinary)
-{
- int lig, col;
- for(lig=0; lig<=imgNdg.rows; lig++)
- {
-  for(col=0; col<=imgNdg.cols; col++)
-  {
-   PIXEL_GRAY pixG = imgNdg.read();
-   PIXEL_GRAY pixBinary;
-   if(pixG > 200)
-    pixBinary = 255;
-   else
-    pixBinary = 0;
-  }
- }
-}
+class ssdm_global_array_traitementpp0cppaplinecpp {
+	public:
+		 inline __attribute__((always_inline)) ssdm_global_array_traitementpp0cppaplinecpp() {
+			_ssdm_SpecConstant(&log_apfixed_reduce::p0);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha0);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p1);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha1);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p2);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha2);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p3);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha3);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p4);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha4);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p5);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha5);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p6);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha6);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p7);
+			_ssdm_SpecConstant(&log_apfixed_reduce::alpha7);
+			_ssdm_SpecConstant(&log_apfixed_reduce::p8);
+		}
+};
+static ssdm_global_array_traitementpp0cppaplinecpp ssdm_global_array_ins;

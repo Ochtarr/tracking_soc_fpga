@@ -7,185 +7,41 @@ Copyright (C) 1986-2018 Xilinx, Inc. All Rights Reserved.
 
 INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
 INFO: [HLS 200-10] Setting target device to 'xc7z020clg484-1'
-INFO: [HLS 200-10] Analyzing design file 'project_tracking_on_soc/sources/main.cpp' ...
+INFO: [HLS 200-10] Analyzing design file 'project_tracking_on_soc/sources/traitement.cpp' ...
 INFO: [HLS 200-10] Analyzing design file 'project_tracking_on_soc/sources/tracking_tools.cpp' ...
-INFO: [HLS 200-10] Validating synthesis directives ...
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'first_order_fixed_16::sin_cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K4' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K3' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K4' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'first_order_fixed_16::sin_cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K3' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K4' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K3' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:01:08 ; elapsed = 00:00:34 . Memory (MB): peak = 448.375 ; gain = 13.590 ; free physical = 11866 ; free virtual = 17269
-INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:01:10 ; elapsed = 00:00:36 . Memory (MB): peak = 448.375 ; gain = 13.590 ; free physical = 11856 ; free virtual = 17268
-INFO: [HLS 200-10] Starting code transformations ...
-INFO: [XFORM 203-501] Unrolling loop 'Loop-1' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:214) in function 'hls::Scalar<1, unsigned char>::operator=(unsigned char)' completely.
-INFO: [XFORM 203-501] Unrolling loop 'Loop-1' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:646) in function 'hls::Mat<1024, 768, 0>::write(hls::Scalar<1, unsigned char>)' completely.
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::init' into 'hls::Mat<1024, 768, 4096>::Mat.2' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:581).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::init' into 'hls::Mat<1024, 768, 4096>::Mat.3' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:587).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 0>::init' into 'hls::Mat<1024, 768, 0>::Mat.2' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:581).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 0>::init' into 'hls::Mat<1024, 768, 0>::Mat.3' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:587).
-INFO: [XFORM 203-603] Inlining function 'hls::AXIGetBitFields<24, unsigned char>.1' into 'hls::AXIGetBitFields<24, unsigned char>' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h:71).
-INFO: [XFORM 203-603] Inlining function 'hls::AXIGetBitFields<24, unsigned char>' into 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:92).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::write' into 'hls::Mat<1024, 768, 4096>::operator<<' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:662).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::operator<<' into 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:94).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::read' into 'colorToNdg' (project_tracking_on_soc/sources/tracking_tools.cpp:11).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 0>::write' into 'colorToNdg' (project_tracking_on_soc/sources/tracking_tools.cpp:15).
-INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:01:11 ; elapsed = 00:00:38 . Memory (MB): peak = 578.070 ; gain = 143.285 ; free physical = 11806 ; free virtual = 17233
-INFO: [HLS 200-10] Checking synthesizability ...
-WARNING: [SYNCHK 200-23] /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h:49: variable-indexed range selection may cause suboptimal QoR.
-INFO: [SYNCHK 200-10] 0 error(s), 1 warning(s).
-INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:01:12 ; elapsed = 00:00:38 . Memory (MB): peak = 578.070 ; gain = 143.285 ; free physical = 11772 ; free virtual = 17202
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.data.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.keep.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.strb.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.user.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.last.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.id.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.dest.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.data.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.keep.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.strb.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.user.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.last.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.id.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.dest.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'imgColor.data_stream.V' (project_tracking_on_soc/sources/main.cpp:30).
-WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'imgNdg.data_stream.V' (project_tracking_on_soc/sources/main.cpp:32).
-WARNING: [XFORM 203-152] Cannot apply array mapping directives with instance name 'tmp.8': cannot find another array to be merged with.
-WARNING: [XFORM 203-152] Cannot apply array mapping directives with instance name 'tmp.12': cannot find another array to be merged with.
-INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'loop_width' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:73) in function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' for pipelining.
-INFO: [XFORM 203-501] Unrolling loop 'loop_channels' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:91) in function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' completely.
-INFO: [XFORM 203-501] Unrolling loop 'Loop-2.1.2' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:646) in function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' completely.
-INFO: [XFORM 203-501] Unrolling loop 'Loop-1.1.1' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:622) in function 'colorToNdg' completely.
-INFO: [XFORM 203-102] Partitioning array 's.val.assign' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:563) automatically.
-INFO: [XFORM 203-102] Automatically partitioning streamed array 'imgColor.data_stream.V' (project_tracking_on_soc/sources/main.cpp:30) .
-INFO: [XFORM 203-102] Automatically partitioning streamed array 'imgNdg.data_stream.V' (project_tracking_on_soc/sources/main.cpp:32) .
-INFO: [XFORM 203-101] Partitioning array 'pix.val' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:56) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'pixColor.val' (project_tracking_on_soc/sources/tracking_tools.cpp:10) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'scl.val' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:615) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'pixG.val' (project_tracking_on_soc/sources/tracking_tools.cpp:13) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'imgColor.data_stream.V' (project_tracking_on_soc/sources/main.cpp:30) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'imgNdg.data_stream.V' (project_tracking_on_soc/sources/main.cpp:32) in dimension 1 completely.
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.data.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.keep.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.strb.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.user.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.last.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.id.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.dest.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'imgNdg.data_stream[0].V' (project_tracking_on_soc/sources/main.cpp:32) is invalid: it has no data consumer.
-INFO: [XFORM 203-712] Applying dataflow to function 'main' (project_tracking_on_soc/sources/main.cpp:7:1), detected/extracted 4 process function(s): 
-	 'Block__proc'
-	 'hls::AXIvideo2Mat<24, 1024, 768, 4096>'
-	 'colorToNdg'
-	 '__project_tracking_on_soc/sources/main.cpp_line35_proc'.
-INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:01:13 ; elapsed = 00:00:40 . Memory (MB): peak = 642.004 ; gain = 207.219 ; free physical = 11695 ; free virtual = 17143
-WARNING: [XFORM 203-631] Renaming function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' to 'AXIvideo2Mat' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:49:9)
-INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:01:14 ; elapsed = 00:00:41 . Memory (MB): peak = 642.004 ; gain = 207.219 ; free physical = 11660 ; free virtual = 17112
-INFO: [HLS 200-10] Starting hardware synthesis ...
-INFO: [HLS 200-10] Synthesizing 'main' ...
-WARNING: [SYN 201-103] Legalizing function name 'Block__proc' to 'Block_proc'.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'Block_proc'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 40.72 seconds; current allocated memory: 205.749 MB.
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 0.04 seconds; current allocated memory: 205.802 MB.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'AXIvideo2Mat'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-61] Pipelining loop 'loop_wait_for_start'.
-INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
-INFO: [SCHED 204-61] Pipelining loop 'loop_width'.
-INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 2.
-INFO: [SCHED 204-61] Pipelining loop 'loop_wait_for_eol'.
-INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
-INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 0.25 seconds; current allocated memory: 206.238 MB.
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 0.09 seconds; current allocated memory: 206.595 MB.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'colorToNdg'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 0.19 seconds; current allocated memory: 206.788 MB.
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 0.05 seconds; current allocated memory: 206.962 MB.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'main'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-11] Finished scheduling.
-INFO: [HLS 200-111]  Elapsed time: 0.07 seconds; current allocated memory: 207.102 MB.
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-INFO: [HLS 200-111]  Elapsed time: 0.09 seconds; current allocated memory: 207.348 MB.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'Block_proc'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [RTGEN 206-100] Finished creating RTL model for 'Block_proc'.
-INFO: [HLS 200-111]  Elapsed time: 0.07 seconds; current allocated memory: 207.508 MB.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'AXIvideo2Mat'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [RTGEN 206-100] Finished creating RTL model for 'AXIvideo2Mat'.
-INFO: [HLS 200-111]  Elapsed time: 0.07 seconds; current allocated memory: 208.108 MB.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'colorToNdg'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [SYN 201-210] Renamed object name 'main_am_addmul_9ns_8ns_12ns_22_1_1' to 'main_am_addmul_9nbkb' due to the length limit 20
-INFO: [RTGEN 206-100] Generating core module 'main_am_addmul_9nbkb': 1 instance(s).
-INFO: [RTGEN 206-100] Finished creating RTL model for 'colorToNdg'.
-INFO: [HLS 200-111]  Elapsed time: 0.23 seconds; current allocated memory: 209.548 MB.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'main'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [RTGEN 206-500] Setting interface mode on function 'main' to 's_axilite & ap_ctrl_hs'.
-INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port CONTROL_BUS.
-INFO: [RTGEN 206-100] Finished creating RTL model for 'main'.
-INFO: [HLS 200-111]  Elapsed time: 0.13 seconds; current allocated memory: 210.669 MB.
-INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:01:15 ; elapsed = 00:00:43 . Memory (MB): peak = 642.004 ; gain = 207.219 ; free physical = 11635 ; free virtual = 17090
-INFO: [SYSC 207-301] Generating SystemC RTL for main.
-INFO: [VHDL 208-304] Generating VHDL RTL for main.
-INFO: [VLOG 209-307] Generating Verilog RTL for main.
-INFO: [HLS 200-112] Total elapsed time: 43.34 seconds; peak allocated memory: 210.669 MB.
+WARNING: [HLS 200-40] In file included from project_tracking_on_soc/sources/tracking_tools.cpp:1:
+project_tracking_on_soc/sources/tracking_tools.cpp:30:12: error: invalid operands to binary expression ('PIXEL_GRAY' (aka 'Scalar<1, unsigned char>') and 'int')
+   if(pixG > 200)
+      ~~~~ ^ ~~~
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:854: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:1051: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3554:850: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator <= (ap_int_base<8,true>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                    ERROR: [HLS 200-70] Compilation errors found:
+Pragma processor failed: In file included from project_tracking_on_soc/sources/tracking_tools.cpp:1:
+project_tracking_on_soc/sources/tracking_tools.cpp:30:12: error: invalid operands to binary expression ('PIXEL_GRAY' (aka 'Scalar<1, unsigned char>') and 'int')
+   if(pixG > 200)
+      ~~~~ ^ ~~~
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:854: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:1051: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3554:850: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator <= (ap_int_base<8,true>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                 Failed checking during preprocessing.
+    while executing
+"source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/csynth.tcl"
+    invoked from within
+"hls::main /users/florcath/vivado_hls/project_tracking_on_soc/solution1/csynth.tcl"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 hls::main {*}$args"
+    (procedure "hls_proc" line 5)
+    invoked from within
+"hls_proc $argv"

@@ -1,4 +1,4 @@
-INFO: [HLS 200-0] Workspace /users/florcath/vivado_hls/project_tracking_on_soc/solution1 opened at Tue May 15 13:41:00 CEST 2018
+INFO: [HLS 200-0] Workspace /users/florcath/vivado_hls/project_tracking_on_soc/solution1 opened at Tue May 15 15:49:34 CEST 2018
 Execute     config_clock -quiet -name default -period 10 -default=false 
 INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
 Command     config_clock returned 0; 0 sec.
@@ -12,12 +12,12 @@ Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/fsl.lib 
 Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/axi4.lib 
-Command           ap_source returned 0; 0.01 sec.
+Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/maxi.lib 
 Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/saxilite.lib 
 Command           ap_source returned 0; 0 sec.
-Command         ap_source returned 0; 0.01 sec.
+Command         ap_source returned 0; 0 sec.
 Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/dsp48.lib 
 Command         ap_source returned 0; 0 sec.
 Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/dds_compiler.lib 
@@ -26,11 +26,11 @@ Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xili
 Command         ap_source returned 0; 0 sec.
 Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/xfir.lib 
 Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0.01 sec.
+Command       ap_source returned 0; 0 sec.
 Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/xilinx_old.lib 
 Command       ap_source returned 0; 0 sec.
 Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/xilinx_vivado.lib 
-Command       ap_source returned 0; 0.01 sec.
+Command       ap_source returned 0; 0 sec.
 Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/xilinx.hlp 
 Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/target_info.tcl 
 Command         ap_source returned 0; 0 sec.
@@ -44,7 +44,7 @@ Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xili
 Command         ap_source returned 0; 0 sec.
 Command       ap_source returned 0; 0 sec.
 Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/zynq/dsp48e1.hlp 
-Command       ap_source returned 0; 0 sec.
+Command       ap_source returned 0; 0.01 sec.
 Execute       get_default_platform 
 Command       get_default_platform returned 0; 0 sec.
 Execute       config_chip_info -quiet -resource  {SLICE 13300}  {LUT 53200}     {FF 106400} {DSP48E 220}   {BRAM 280}  
@@ -59,10 +59,10 @@ Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xi
 Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/saxilite.hlp 
 Command           ap_source returned 0; 0 sec.
-Command         ap_source returned 0; 0.01 sec.
+Command         ap_source returned 0; 0 sec.
 Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/dsp48.hlp 
 Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0.01 sec.
+Command       ap_source returned 0; 0 sec.
 Command     import_lib returned 0; 0.03 sec.
 Execute     source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/zynq/zynq.gen 
 Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/virtex.gen 
@@ -72,13 +72,13 @@ Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/fsl.gen 
 Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/axi4.gen 
-Command           ap_source returned 0; 0 sec.
+Command           ap_source returned 0; 0.01 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/nativeAXI4.gen 
 Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/saxilite.gen 
-Command             ap_source returned 0; 0.01 sec.
+Command             ap_source returned 0; 0 sec.
 Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/maxi.gen 
 Command             ap_source returned 0; 0 sec.
-Command           ap_source returned 0; 0.01 sec.
+Command           ap_source returned 0; 0 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/scripts/xilinxcoregen.gen 
 Command           ap_source returned 0; 0.01 sec.
 Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/XilEDKCoreGen.gen 
@@ -94,7 +94,7 @@ Command           ap_source returned 0; 0.06 sec.
 Command         ap_source returned 0; 0.09 sec.
 Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/dsp48.gen 
 Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0.09 sec.
+Command       ap_source returned 0; 0.1 sec.
 Command     ap_source returned 0; 0.1 sec.
 Execute     open_platform DefaultPlatform 
 Command     open_platform returned 0; 0 sec.
@@ -151,7 +151,7 @@ Execute     config_chip_info -quiet -resource  {SLICE 13300}  {LUT 53200}     {F
 Command     config_chip_info returned 0; 0 sec.
 Execute     config_chip_info -quiet -speed slow 
 Command     config_chip_info returned 0; 0 sec.
-Command   open_solution returned 0; 0.2 sec.
+Command   open_solution returned 0; 0.21 sec.
 Execute   set_part xc7z020clg484-1 -tool vivado 
 Execute     add_library xilinx/zynq/zynq:xc7z020:clg484:-1 
 Execute       get_default_platform 
@@ -171,37 +171,37 @@ Command       get_default_platform returned 0; 0 sec.
 Command     add_library returned 0; 0.01 sec.
 Execute     get_default_platform 
 Command     get_default_platform returned 0; 0 sec.
-Command   set_part returned 0; 0.04 sec.
+Command   set_part returned 0; 0.03 sec.
 Execute   create_clock -period 10 -name default 
 Command   create_clock returned 0; 0 sec.
 Execute   csynth_design 
 Execute     elaborate -effort=medium -skip_syncheck=0 -keep_printf=0 -lm=0 -skip_cdt=0 -skip_transform=0 -VP9_rom_infer_simplify=0 -ng=0 -g=0 -opt_fp=0 -enable_clang39=0 
-INFO: [HLS 200-10] Analyzing design file 'project_tracking_on_soc/sources/main.cpp' ...
+INFO: [HLS 200-10] Analyzing design file 'project_tracking_on_soc/sources/traitement.cpp' ...
 INFO: [HLS 200-0] Compiling one TU...
 Execute       is_m_axi_addr64 
 Command       is_m_axi_addr64 returned 0; 0 sec.
-INFO: [HLS 200-0] Handling project_tracking_on_soc/sources/main.cpp as C++
+INFO: [HLS 200-0] Handling project_tracking_on_soc/sources/traitement.cpp as C++
 Execute       get_default_platform 
 Command       get_default_platform returned 0; 0 sec.
-Execute       is_encrypted project_tracking_on_soc/sources/main.cpp 
+Execute       is_encrypted project_tracking_on_soc/sources/traitement.cpp 
 Command       is_encrypted returned 0; 0 sec.
 Execute       get_default_platform 
 Command       get_default_platform returned 0; 0 sec.
 INFO: [HLS 200-0] Source preprocessing
-Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls  -fno-exceptions  -D__llvm__  -E "project_tracking_on_soc/sources/main.cpp"     -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp" 
-INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-exceptions -D__llvm__ -E project_tracking_on_soc/sources/main.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp
-Command       clang returned 0; 0.85 sec.
+Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls  -fno-exceptions  -D__llvm__  -E "project_tracking_on_soc/sources/traitement.cpp"     -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp" 
+INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-exceptions -D__llvm__ -E project_tracking_on_soc/sources/traitement.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp
+Command       clang returned 0; 0.86 sec.
 INFO: [HLS 200-0] Syntax Checking before pre-processing...
-Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls    -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp"  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/useless.bc"  
-INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/useless.bc
-Command       clang returned 0; 2.13 sec.
-INFO: [HLS 200-0] GCC PP time: 2 seconds per iteration
+Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls    -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp"  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/useless.bc"  
+INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/useless.bc
+Command       clang returned 0; 2.18 sec.
+INFO: [HLS 200-0] GCC PP time: 3 seconds per iteration
 Execute       list_core -type functional_unit 
 Command       list_core returned 0; 0 sec.
 INFO: [HLS 200-0] CDT Preprocessing...
-INFO: [HLS 200-0] Marker-Pragma convertor: /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp.ap-line.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp.ap-line.cpp.CXX 1
+INFO: [HLS 200-0] Marker-Pragma convertor: /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp.ap-line.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp.ap-line.cpp.CXX 1
 INFO: [HLS 200-0] Converting Markers to Pragmas...
-Execute       cdt  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp.ap-line.cpp"  -m "main" -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp.ap-cdt.cpp" --pp --directive /users/florcath/vivado_hls/project_tracking_on_soc/solution1/solution1.directive --source /users/florcath/vivado_hls/project_tracking_on_soc/sources/main.cpp --error /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --funcunit "AddSub AddSub_DSP AddSubnS DAddSub_fulldsp DAddSub_nodsp DDiv DExp_fulldsp DExp_meddsp DExp_nodsp DLog_fulldsp DLog_meddsp DLog_nodsp DMul_fulldsp DMul_maxdsp DMul_meddsp DMul_nodsp DRSqrt DRecip DSP_Double_Pump_Mac16 DSP_Double_Pump_Mac8 DSP_Macro DSqrt DivnS FAddSub_fulldsp FAddSub_nodsp FDiv FExp_fulldsp FExp_meddsp FExp_nodsp FLog_fulldsp FLog_meddsp FLog_nodsp FMul_fulldsp FMul_maxdsp FMul_meddsp FMul_nodsp FRSqrt_fulldsp FRSqrt_nodsp FRecip_fulldsp FRecip_nodsp FSqrt HAddSub_fulldsp HAddSub_meddsp HAddSub_nodsp HDiv HMul_fulldsp HMul_maxdsp HMul_nodsp HSqrt Mul Mul2S Mul3S Mul4S Mul5S Mul6S Mul_LUT MulnS MuxnS" --ve --vetcl /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --ca --es --gf --pd --p2d /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --sd --scff /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/.systemc_flag --ad 
+Execute       cdt  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp.ap-line.cpp"  -m "main" -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp.ap-cdt.cpp" --pp --directive /users/florcath/vivado_hls/project_tracking_on_soc/solution1/solution1.directive --source /users/florcath/vivado_hls/project_tracking_on_soc/sources/traitement.cpp --error /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --funcunit "AddSub AddSub_DSP AddSubnS DAddSub_fulldsp DAddSub_nodsp DDiv DExp_fulldsp DExp_meddsp DExp_nodsp DLog_fulldsp DLog_meddsp DLog_nodsp DMul_fulldsp DMul_maxdsp DMul_meddsp DMul_nodsp DRSqrt DRecip DSP_Double_Pump_Mac16 DSP_Double_Pump_Mac8 DSP_Macro DSqrt DivnS FAddSub_fulldsp FAddSub_nodsp FDiv FExp_fulldsp FExp_meddsp FExp_nodsp FLog_fulldsp FLog_meddsp FLog_nodsp FMul_fulldsp FMul_maxdsp FMul_meddsp FMul_nodsp FRSqrt_fulldsp FRSqrt_nodsp FRecip_fulldsp FRecip_nodsp FSqrt HAddSub_fulldsp HAddSub_meddsp HAddSub_nodsp HDiv HMul_fulldsp HMul_maxdsp HMul_nodsp HSqrt Mul Mul2S Mul3S Mul4S Mul5S Mul6S Mul_LUT MulnS MuxnS" --ve --vetcl /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --ca --es --gf --pd --p2d /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --sd --scff /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/.systemc_flag --ad 
 INFO: [HLS 200-0] Error:Syntax error in source:for (__decltype(__n + 0) __niter = __n;
 Error:Missing ; in source:t
 Error:Syntax error in source:)
@@ -210,22 +210,22 @@ Error:Syntax error in source:for (__decltype(__n + 0) __niter = __n;
 Error:Missing ; in source:t
 Error:Syntax error in source:)
  *__first = __tmp;
-Command       cdt returned 0; 9.18 sec.
-INFO: [HLS 200-0] Marker-Pragma convertor: /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pp.0.cpp.ap-cdt.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.0.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.0.cpp.ap-line.CXX 0
+Command       cdt returned 0; 8.96 sec.
+INFO: [HLS 200-0] Marker-Pragma convertor: /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pp.0.cpp.ap-cdt.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.0.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.0.cpp.ap-line.CXX 0
 INFO: [HLS 200-0] Converting Pragmas to Markers...
 Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/pragma.status.tcl 
-Command       ap_source returned 0; 0 sec.
+Command       ap_source returned 0; 0.01 sec.
 INFO: [HLS 200-0] Pragma Handling...
 INFO: [HLS 200-0] Source preprocessing
-Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls  -fno-exceptions  -D__llvm__  -E "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.1.cpp"     -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.2.cpp" 
-INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-exceptions -D__llvm__ -E /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.1.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.2.cpp
-Command       clang returned 0; 0.8 sec.
+Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls  -fno-exceptions  -D__llvm__  -E "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.1.cpp"     -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.2.cpp" 
+INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-exceptions -D__llvm__ -E /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.1.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.2.cpp
+Command       clang returned 0; 0.79 sec.
 Execute       get_default_platform 
 Command       get_default_platform returned 0; 0 sec.
 INFO: [HLS 200-0] Processing labels
-Execute       clang  -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -hls-analyze-label -hls-analyze-pragma -fno-exceptions  -D__llvm__  -w  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.2.cpp"    -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -g -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.g.bc" 
-INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -hls-analyze-label -hls-analyze-pragma -fno-exceptions -D__llvm__ -w /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.pragma.2.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -g -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.g.bc
-Command       clang returned 0; 2.46 sec.
+Execute       clang  -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -hls-analyze-label -hls-analyze-pragma -fno-exceptions  -D__llvm__  -w  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.2.cpp"    -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -g -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.g.bc" 
+INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -hls-analyze-label -hls-analyze-pragma -fno-exceptions -D__llvm__ -w /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.pragma.2.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -g -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/traitement.g.bc
+Command       clang returned 0; 2.28 sec.
 INFO: [HLS 200-10] Analyzing design file 'project_tracking_on_soc/sources/tracking_tools.cpp' ...
 INFO: [HLS 200-0] Compiling one TU...
 Execute       is_m_axi_addr64 
@@ -240,870 +240,49 @@ Command       get_default_platform returned 0; 0 sec.
 INFO: [HLS 200-0] Source preprocessing
 Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls  -fno-exceptions  -D__llvm__  -E "project_tracking_on_soc/sources/tracking_tools.cpp"     -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp" 
 INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-exceptions -D__llvm__ -E project_tracking_on_soc/sources/tracking_tools.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp
-Command       clang returned 0; 0.85 sec.
+Command       clang returned 0; 0.81 sec.
 INFO: [HLS 200-0] Syntax Checking before pre-processing...
 Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls    -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp"  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/useless.bc"  
 INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/useless.bc
-Command       clang returned 0; 2.49 sec.
-INFO: [HLS 200-0] GCC PP time: 3 seconds per iteration
-Execute       list_core -type functional_unit 
-Command       list_core returned 0; 0 sec.
-INFO: [HLS 200-0] CDT Preprocessing...
-INFO: [HLS 200-0] Marker-Pragma convertor: /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp.ap-line.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp.ap-line.cpp.CXX 1
-INFO: [HLS 200-0] Converting Markers to Pragmas...
-Execute       cdt  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp.ap-line.cpp"  -m "main" -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp.ap-cdt.cpp" --pp --directive /users/florcath/vivado_hls/project_tracking_on_soc/solution1/solution1.directive --source /users/florcath/vivado_hls/project_tracking_on_soc/sources/tracking_tools.cpp --error /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --funcunit "AddSub AddSub_DSP AddSubnS DAddSub_fulldsp DAddSub_nodsp DDiv DExp_fulldsp DExp_meddsp DExp_nodsp DLog_fulldsp DLog_meddsp DLog_nodsp DMul_fulldsp DMul_maxdsp DMul_meddsp DMul_nodsp DRSqrt DRecip DSP_Double_Pump_Mac16 DSP_Double_Pump_Mac8 DSP_Macro DSqrt DivnS FAddSub_fulldsp FAddSub_nodsp FDiv FExp_fulldsp FExp_meddsp FExp_nodsp FLog_fulldsp FLog_meddsp FLog_nodsp FMul_fulldsp FMul_maxdsp FMul_meddsp FMul_nodsp FRSqrt_fulldsp FRSqrt_nodsp FRecip_fulldsp FRecip_nodsp FSqrt HAddSub_fulldsp HAddSub_meddsp HAddSub_nodsp HDiv HMul_fulldsp HMul_maxdsp HMul_nodsp HSqrt Mul Mul2S Mul3S Mul4S Mul5S Mul6S Mul_LUT MulnS MuxnS" --ve --vetcl /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --ca --es --gf --pd --p2d /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db --sd --scff /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/.systemc_flag --ad 
-INFO: [HLS 200-0] Error:Syntax error in source:for (__decltype(__n + 0) __niter = __n;
-Error:Missing ; in source:t
-Error:Syntax error in source:)
- *__first = __value;
-Error:Syntax error in source:for (__decltype(__n + 0) __niter = __n;
-Error:Missing ; in source:t
-Error:Syntax error in source:)
- *__first = __tmp;
-Command       cdt returned 0; 9.28 sec.
-INFO: [HLS 200-0] Marker-Pragma convertor: /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pp.0.cpp.ap-cdt.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.0.cpp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.0.cpp.ap-line.CXX 0
-INFO: [HLS 200-0] Converting Pragmas to Markers...
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/pragma.status.tcl 
-Command       ap_source returned 0; 0 sec.
-INFO: [HLS 200-0] Pragma Handling...
-INFO: [HLS 200-0] Source preprocessing
-Execute       clang  -fno-limit-debug-info -gcc-toolchain "/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc" -hls  -fno-exceptions  -D__llvm__  -E "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.1.cpp"     -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit  -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__  -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.2.cpp" 
-INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -fno-exceptions -D__llvm__ -E /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.1.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -fno-threadsafe-statics -fno-use-cxa-atexit -D__CLANG_3_1__ -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.2.cpp
-Command       clang returned 0; 0.81 sec.
-Execute       get_default_platform 
-Command       get_default_platform returned 0; 0 sec.
-INFO: [HLS 200-0] Processing labels
-Execute       clang  -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -hls-analyze-label -hls-analyze-pragma -fno-exceptions  -D__llvm__  -w  "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.2.cpp"    -fno-math-errno -c -emit-llvm -O0  -mllvm -disable-llvm-optzns -fno-threadsafe-statics  -fno-use-cxa-atexit -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot" -I "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc" -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -g -o "/users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.g.bc" 
-INFO: [HLS 200-0] exec clang -fno-limit-debug-info -gcc-toolchain /usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/tools/gcc -hls -hls-analyze-label -hls-analyze-pragma -fno-exceptions -D__llvm__ -w /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.pragma.2.cpp -fno-math-errno -c -emit-llvm -O0 -mllvm -disable-llvm-optzns -fno-threadsafe-statics -fno-use-cxa-atexit -DAESL_SYN -D__SYNTHESIS__ -D__HLS_SYN__ -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot -I /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_sysc -include etc/autopilot_ssdm_op.h -D__DSP48E1__ -g -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.g.bc
-Command       clang returned 0; 2.32 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/ve_warning.tcl 
-Command       ap_source returned 0; 0 sec.
-INFO: [HLS 200-10] Validating synthesis directives ...
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/pragma.status.tcl 
-Command       ap_source returned 0; 0 sec.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'first_order_fixed_16::sin_cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K4' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K3' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_K0' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K2' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'second_order_float::sin_K1' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K1' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K4' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'first_order_fixed_16::sin_cos_K0' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_cos_K3' can not be recognized(UNKNOWN VARIABLE) in 'sin_or_cos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::cos_K4' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-WARNING: [HLS 200-40] Directive 'RESOURCE' for core 'ROM_1P_LUTRAM' cannot be applied: Variable 'fourth_order_double::sin_K3' can not be recognized(UNKNOWN VARIABLE) in 'sincos_approximation'.
-INFO: [HLS 200-111] Finished Checking Pragmas Time (s): cpu = 00:01:08 ; elapsed = 00:00:34 . Memory (MB): peak = 448.375 ; gain = 13.590 ; free physical = 11866 ; free virtual = 17269
-INFO: [HLS 200-0] Linking Release ...
-Execute       llvm-ld /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.bc /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.bc -hls-opt -except-internalize main -L/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/lib -lm_basic -lhlsmc++ -lhlsm -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o 
-Command       llvm-ld returned 0; 0.75 sec.
-Execute       disassemble /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o 
-Execute         is_encrypted /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.bc 
-Command         is_encrypted returned 0; 0 sec.
-Command       disassemble returned 0; 0.57 sec.
-INFO: [HLS 200-0] Disassemble time: 0 seconds per iteration
-INFO: [HLS 200-0] Linking Debug ...
-Execute       llvm-ld /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.g.bc /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/tracking_tools.g.bc -hls-opt -except-internalize main -L/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/lib -lm_basic -lhlsmc++ -lhlsm -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g 
-Command       llvm-ld returned 0; 0.68 sec.
-INFO: [HLS 200-0] Disassemble time: 0 seconds per iteration
-INFO: [HLS 200-111] Finished Linking Time (s): cpu = 00:01:10 ; elapsed = 00:00:36 . Memory (MB): peak = 448.375 ; gain = 13.590 ; free physical = 11856 ; free virtual = 17268
-Execute       ::config_rtl 
-Command       config_rtl returned 0; 0 sec.
-Execute       opt_and_import_c a -opt_level=2 -skip_syncheck=0 -ng=0 -keep_printf=0 -enable_clang39=0 -VP9_rom_infer_simplify=0 
-Execute         cleanup_all_models 
-Command         cleanup_all_models returned 0; 0 sec.
-INFO: [HLS 200-10] Starting code transformations ...
-Execute         transform -promote-dbg-pointer /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.pp.bc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.pp.0.bc -f 
-Command         transform returned 0; 0.14 sec.
-Execute         llvm-ld /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.pp.0.bc -disable-opt -L/usr/lsa/apps/Xilinx/Vivado/2017.4/lnx64/lib -lfloatconversion -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.0 
-Command         llvm-ld returned 0; 0.64 sec.
-INFO: [HLS 200-0] Running Standard Transforms...
-Execute         transform -hls -share-std-xform -demangle-name -inline-byval-memcpy -always-inline -promote-dbg-pointer -interface-preproc -scalarrepl -mem2reg -keep-read-access -instcombine -dce -promote-dbg-pointer -bitop-raise -loop-simplify -indvarspre -indvars -loop-simplify -xunroll -constprop -instcombine -simplifycfg -indvars -simplifycfg -dce -globaldce -basicaa -simplifycfg -mem2reg -globalopt -global-constprop -deadargelim -instcombine -simplifycfg -prune-eh -simplifycfg -scalarrepl -instcombine -reassociate -licm -simplifycfg -loop-simplify -indvars -instcombine -simplifycfg -mem2reg -loop-simplify -indvars -instcombine -gvn -gvn -instcombine -adce -break-crit-edges -simplifycfg -loop-delete -global-array-opt -dce -dse -adce -find-syn-modules -top main -deadargelim -mem2reg -instcombine -dce -presyn-prepare -auto-rom-infer -interface-preproc -syn-check -check-rec-only -find-region -simplifycfg -func-extr -function-inline -globaldce -mem2reg -instcombine -dce -gvn -globaldce -adce -adse -constprop -instcombine -bit-constprop -instcombine -dce -simplifycfg -bitop-raise -simplifycfg -dce -loop-delete -reassociate -globalopt -global-privatize -mem2reg -dce -global-constprop -pointer-simplify -constprop -dce -func-inst -deadargelim -auto-shift-reg-idiom -promote-dbg-pointer -norm-name /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.0.bc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.1.bc -f -phase std-opt 
-INFO: [XFORM 203-501] Unrolling loop 'Loop-1' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:214) in function 'hls::Scalar<1, unsigned char>::operator=(unsigned char)' completely.
-INFO: [XFORM 203-501] Unrolling loop 'Loop-1' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:646) in function 'hls::Mat<1024, 768, 0>::write(hls::Scalar<1, unsigned char>)' completely.
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::init' into 'hls::Mat<1024, 768, 4096>::Mat.2' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:581).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::init' into 'hls::Mat<1024, 768, 4096>::Mat.3' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:587).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 0>::init' into 'hls::Mat<1024, 768, 0>::Mat.2' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:581).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 0>::init' into 'hls::Mat<1024, 768, 0>::Mat.3' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:587).
-INFO: [XFORM 203-603] Inlining function 'hls::AXIGetBitFields<24, unsigned char>.1' into 'hls::AXIGetBitFields<24, unsigned char>' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h:71).
-INFO: [XFORM 203-603] Inlining function 'hls::AXIGetBitFields<24, unsigned char>' into 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:92).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::write' into 'hls::Mat<1024, 768, 4096>::operator<<' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:662).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::operator<<' into 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:94).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 4096>::read' into 'colorToNdg' (project_tracking_on_soc/sources/tracking_tools.cpp:11).
-INFO: [XFORM 203-603] Inlining function 'hls::Mat<1024, 768, 0>::write' into 'colorToNdg' (project_tracking_on_soc/sources/tracking_tools.cpp:15).
-Command         transform returned 0; 0.28 sec.
-Execute         disassemble /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.1 /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.1 
-Execute           is_encrypted /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.1.bc 
-Command           is_encrypted returned 0; 0 sec.
-Command         disassemble returned 0; 0.57 sec.
-INFO: [HLS 200-111] Finished Standard Transforms Time (s): cpu = 00:01:11 ; elapsed = 00:00:38 . Memory (MB): peak = 578.070 ; gain = 143.285 ; free physical = 11806 ; free virtual = 17233
-INFO: [HLS 200-10] Checking synthesizability ...
-INFO: [HLS 200-0] Checking Synthesizability 1/2..
-Execute         transform -hls -syn-check -check-rec-only -disaggr -scalarrepl -norm-name -dce -mem2reg -instcombine -function-uniquify -directive-preproc -mem2reg -dse -dce -auto-rom-infer -dce -array-normalize -instcombine -dce -warn-fifo-pointer -array-seg-normalize -instcombine -dce -array-flatten -instcombine -dce -array-burst -dce -deadargelim -promote-global-argument -simplifycfg -mem2reg -globaldce -resolve-double-ptr -dce -deadargelim -dce -instcombine -function-inline -globaldce -dce -doublePtrSimplify -doublePtrElim -dce -doublePtrSimplify -promote-dbg-pointer -dce -scalarrepl -dse -adse -instcombine -ptrLegalization -simplifycfg -dce -instcombine -pointer-simplify -ptrArgReplace -dce -instcombine -disaggr -scalarrepl -norm-name -dce -mem2reg -instcombine -ptrLegalization -simplifycfg -deadargelim -instcombine -dce -inst-simplify -function-uniquify -directive-preproc -mem2reg -dse -dce -globaldce /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.1.bc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.2.prechk.bc -f 
-Command         transform returned 0; 0.21 sec.
-INFO: [HLS 200-0] Checking Synthesizability 2/2..
-Execute         transform -syn-check /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.2.prechk.bc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.2.bc -f -phase syn-check 
-WARNING: [SYNCHK 200-23] /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_axi_io.h:49: variable-indexed range selection may cause suboptimal QoR.
-INFO: [SYNCHK 200-10] 0 error(s), 1 warning(s).
-Command         transform returned 0; 0.15 sec.
-INFO: [HLS 200-111] Finished Checking Synthesizability Time (s): cpu = 00:01:12 ; elapsed = 00:00:38 . Memory (MB): peak = 578.070 ; gain = 143.285 ; free physical = 11772 ; free virtual = 17202
-INFO: [HLS 200-0] Compiler optimizing ...
-INFO: [HLS 200-0] Share syncheck's 1.bc for syn flow: copy /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.g.1.bc to /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.1.bc
-INFO: [HLS 200-0] Presyn 1...
-Execute         transform -hls -tmp /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db -interface-port-rename -type-info -function-uniquify -directive-preproc -mem2reg -dse -dce -disaggr -scalarrepl -norm-name -deadargelim -mem2reg -instcombine -dce -auto-rom-infer -dce -function-uniquify -resource-proc -simplifycfg -mem2reg -globaldce -resolve-double-ptr -dce -deadargelim -dce -instcombine -clib-intrinsic-prepare -dce -func-buffer -dce -array-normalize -func-legal -instcombine -gvn -constprop -dce -ptrArgReplace -mem2reg -instcombine -dce -array-seg-normalize -deadargelim -instcombine -dce -pointer-simplify -dce -port-alignment -dce -interface-preproc -data-pack -instcombine -dce -basicaa -aggr-aa -aggrmodref-aa -aggr-aa -gvn -gvn -basicaa -aggr-aa -aggrmodref-aa -aggr-aa -dse -adse -adce -loop-simplify -indvars -instcombine -gvn -loop-simplify -mem2reg -dce -simplifycfg -find-region -instcombine -auto-loop-pipeline -inst-simplify -interface-preproc -cfgopt -instcombine -indvars -auto-loop-unroll -loop-simplify -loop-bound -xunroll -constprop -instcombine -simplifycfg -indvars -simplifycfg -dce -globaldce -clean-region -attach-range -gvn -inst-simplify -constprop -simplifycfg -dce -pointer-simplify -dce -globalopt -constprop -dce -array-promote -constprop -instcombine -dce -ptrArgReplace -mem2reg -instcombine -simplifycfg -dce -auto-par -instcombine -dce -array-transform-check -array-reshape -instcombine -simplifycfg -dce -ptrArgReplace -deadargelim -mem2reg -instcombine -simplifycfg -dce -indvars -loop-simplify -loop-bound -xunroll -constprop -instcombine -simplifycfg -indvars -simplifycfg -dce -globaldce -duplicate-dataflow-processes -globaldce -instcombine -array-partition -instcombine -simplifycfg -dce -ptrArgReplace -global-constprop -deadargelim -mem2reg -func-legal -instcombine -dce -global-constprop -deadargelim -mem2reg -instcombine -simplifycfg -dce -merge-param -deadargelim -globalopt -constprop -dce -array-promote -constprop -instcombine -dce -ptrArgReplace -mem2reg -instcombine -simplifycfg -dce -mem-intrinsic-preproc -dce -global-privatize -mem2reg -globaldce -promote-global-argument -ptrArgReplace -mem2reg -instcombine -dce -globalopt -mergereturn -simplify-global-access -mem2reg -dce -pointer-simplify -dce -functionattrs -basicaa -aggr-aa -aggrmodref-aa -aggr-aa -gvn -gvn -basicaa -aggr-aa -aggrmodref-aa -aggr-aa -dse -adse -adce -inst-simplify -dce -norm-name -function-inline -globaldce -func-inst -constprop -instcombine -simplifycfg -dce -func-legal -dce -loop-bound -arraycheck -bitwidthmin -on-by-dataflow -loop-delete -instcombine -simplifycfg -globaldce -dce -gvn -deadargelim -dce -loop-simplify -clean-region -simplifycfg -propagate-stable-arguments -loop-stream -instcombine -simplifycfg -dce -globaldce -duplicate-dataflow-processes -stream-intrinsic-preproc -dce -check-ap-stream -loop-simplify -eliminate-keepreads -extract-dataflow-in-loop -loop-simplify -dce -gvn -deadargelim -dse -check-dataflow-syntax -legalize-stream-variable -legalize-global -extract-subproc -dce -dead-channel-elimination -canonicalize-gep -globaldce -dce -gvn -deadargelim -annotate-dataflow-channels -scalar-propagation -deadargelim -globaldce -mem2reg -check-dataflow-channels -function-stream -dce -globaldce -prop-fifo-spec -internal-stream-gen -canonicalize-gep -globaldce -dce -gvn -deadargelim -mergereturn -indvars -loop-simplify -instcombine -array-stream -array-seg-normalize -array-partition -func-legal -instcombine -simplifycfg -dce -bundle-memfifo-ops -deadargelim -function-uniquify -directive-preproc -mem2reg -dse -dce -group-axi-access -licm -simplifycfg -dce -loop-delete -norm-name /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.1.bc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.1.tmp.bc -f 
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.data.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.keep.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.strb.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.user.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.last.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.id.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' (project_tracking_on_soc/sources/main.cpp:15:1) on internal object 'video_in.V.dest.V' (project_tracking_on_soc/sources/main.cpp:7). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.data.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.keep.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.strb.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.user.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.last.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.id.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-803] Cannot specify interface mode 'axis' on argument 'AXI_video_strm.V.dest.V' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:51). This interface directive will be discarded. Please apply it on an argument of top module.
-WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'imgColor.data_stream.V' (project_tracking_on_soc/sources/main.cpp:30).
-WARNING: [XFORM 203-1103] Ignored data pack directive on non-struct variable 'imgNdg.data_stream.V' (project_tracking_on_soc/sources/main.cpp:32).
-WARNING: [XFORM 203-152] Cannot apply array mapping directives with instance name 'tmp.8': cannot find another array to be merged with.
-WARNING: [XFORM 203-152] Cannot apply array mapping directives with instance name 'tmp.12': cannot find another array to be merged with.
-INFO: [XFORM 203-502] Unrolling all sub-loops inside loop 'loop_width' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:73) in function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' for pipelining.
-INFO: [XFORM 203-501] Unrolling loop 'loop_channels' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:91) in function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' completely.
-INFO: [XFORM 203-501] Unrolling loop 'Loop-2.1.2' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:646) in function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' completely.
-INFO: [XFORM 203-501] Unrolling loop 'Loop-1.1.1' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:622) in function 'colorToNdg' completely.
-INFO: [XFORM 203-102] Partitioning array 's.val.assign' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:563) automatically.
-INFO: [XFORM 203-102] Automatically partitioning streamed array 'imgColor.data_stream.V' (project_tracking_on_soc/sources/main.cpp:30) .
-INFO: [XFORM 203-102] Automatically partitioning streamed array 'imgNdg.data_stream.V' (project_tracking_on_soc/sources/main.cpp:32) .
-INFO: [XFORM 203-101] Partitioning array 'pix.val' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:56) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'pixColor.val' (project_tracking_on_soc/sources/tracking_tools.cpp:10) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'scl.val' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_core.h:615) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'pixG.val' (project_tracking_on_soc/sources/tracking_tools.cpp:13) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'imgColor.data_stream.V' (project_tracking_on_soc/sources/main.cpp:30) in dimension 1 completely.
-INFO: [XFORM 203-101] Partitioning array 'imgNdg.data_stream.V' (project_tracking_on_soc/sources/main.cpp:32) in dimension 1 completely.
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.data.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.keep.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.strb.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.user.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.last.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.id.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'video_in.V.dest.V' (project_tracking_on_soc/sources/main.cpp:7) is invalid: it has no data producer
-WARNING: [XFORM 203-731] Internal stream variable 'imgNdg.data_stream[0].V' (project_tracking_on_soc/sources/main.cpp:32) is invalid: it has no data consumer.
-INFO: [XFORM 203-712] Applying dataflow to function 'main' (project_tracking_on_soc/sources/main.cpp:7:1), detected/extracted 4 process function(s): 
-	 'Block__proc'
-	 'hls::AXIvideo2Mat<24, 1024, 768, 4096>'
-	 'colorToNdg'
-	 '__project_tracking_on_soc/sources/main.cpp_line35_proc'.
-Command         transform returned 0; 0.57 sec.
-INFO: [HLS 200-0] Presyn 2...
-Execute         transform -hls -keep-callgraph -scalarrepl -mem2reg -port-alignment -attach-range -dce -pipe-mux-gen -indvars -loop-bound -inst-simplify -instcombine -dce -merge-array-access -mem2reg -dce -clean-region -mergereturn -if-conv -instcombine -dce -constprop -basicaa -aggr-aa -aggrmodref-aa -aggr-aa -gvn -gvn -basicaa -aggr-aa -aggrmodref-aa -aggr-aa -dse -adse -adce -scalarrepl -mem2reg -global-constprop -deadargelim -deadargelim -instcombine -dce -simplifycfg -ptrArgReplace -mem2reg -function-inline -globaldce -mem2reg -instcombine -dce -expr-balance -instcombine -dce -bitwidthmin -interface-preproc -directive-preproc -inst-rectify -instcombine -dce -functionattrs -constprop -instcombine -bit-constprop -simplify-global-access -globalopt -globaldce -inst-simplify -instcombine -elimdeaddata -dce -loop-delete -simplifycfg -loop-simplify -auto-burst -norm-name /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.1.tmp.bc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.2.bc -f -phase presyn 
-Command         transform returned 0; 0.26 sec.
-Execute         disassemble /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.2 /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.2 
-Execute           is_encrypted /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.2.bc 
-Command           is_encrypted returned 0; 0 sec.
-Command         disassemble returned 0; 0.58 sec.
-INFO: [HLS 200-111] Finished Pre-synthesis Time (s): cpu = 00:01:13 ; elapsed = 00:00:40 . Memory (MB): peak = 642.004 ; gain = 207.219 ; free physical = 11695 ; free virtual = 17143
-INFO: [HLS 200-0] Building ssdm...
-Execute         transform -hls -function-uniquify -auto-function-inline -globaldce -ptrArgReplace -mem2reg -instcombine -dce -reset-lda -loop-simplify -indvars -licm -loop-dep -loop-bound -licm -loop-simplify -flattenloopnest -array-flatten -gvn -instcombine -dce -array-map -dce -func-legal -gvn -adce -instcombine -cfgopt -simplifycfg -loop-simplify -array-burst -promote-global-argument -dce -axi4-lower -array-seg-normalize -basicaa -aggrmodref-aa -globalsmodref-aa -aggr-aa -gvn -gvn -basicaa -aggrmodref-aa -globalsmodref-aa -aggr-aa -dse -adse -adce -licm -inst-simplify -dce -globaldce -instcombine -array-stream -eliminate-keepreads -instcombine -dce -deadargelim -doublePtrSimplify -doublePtrElim -dce -doublePtrSimplify -promote-dbg-pointer -dce -scalarrepl -mem2reg -disaggr -norm-name -mem2reg -instcombine -dse -adse -adce -ptrLegalization -dce -auto-rom-infer -array-flatten -dce -instcombine -check-doubleptr -loop-rot -constprop -cfgopt -simplifycfg -loop-simplify -indvars -pointer-simplify -dce -loop-bound -loop-simplify -loop-preproc -constprop -global-constprop -gvn -mem2reg -instcombine -dce -loop-bound -loop-merge -dce -bitwidthmin -deadargelim -dce -canonicalize-dataflow -dce -scalar-propagation -deadargelim -globaldce -mem2reg -interface-preproc -directive-preproc -interface-gen -deadargelim -inst-simplify -dce -gvn -mem2reg -instcombine -dce -adse -loop-bound -instcombine -cfgopt -simplifycfg -loop-simplify -clean-region -io-protocol -find-region -mem2reg -bitop-raise -inst-simplify -inst-rectify -instcombine -adce -deadargelim -loop-simplify -phi-opt -bitop-raise -cfgopt -simplifycfg -strip-dead-prototypes -interface-lower -bitop-lower -intrinsic-lower -auto-function-inline -basicaa -aggrmodref-aa -globalsmodref-aa -aggr-aa -inst-simplify -simplifycfg -loop-simplify -mergereturn -inst-simplify -inst-rectify -dce -bitop-lower -loop-rewind -pointer-simplify -dce -cfgopt -read-loop-dep -dce -bitwidth -loop-dep -check-stream -norm-name -legalize -validate-dataflow -cdfg-build /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.2.bc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.3.bc -f -phase build-ssdm 
-WARNING: [XFORM 203-631] Renaming function 'hls::AXIvideo2Mat<24, 1024, 768, 4096>' to 'AXIvideo2Mat' (/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls/hls_video_io.h:49:9)
-Command         transform returned 0; 0.33 sec.
-Execute         disassemble /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.3 /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.3 
-Execute           is_encrypted /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.o.3.bc 
-Command           is_encrypted returned 0; 0 sec.
-Command         disassemble returned 0; 0.49 sec.
-INFO: [HLS 200-111] Finished Architecture Synthesis Time (s): cpu = 00:01:14 ; elapsed = 00:00:41 . Memory (MB): peak = 642.004 ; gain = 207.219 ; free physical = 11660 ; free virtual = 17112
-INFO: [HLS 200-0] Finish building internal data model.
-Command       opt_and_import_c returned 0; 4.38 sec.
-Command     elaborate returned 0; 40.09 sec.
-Execute     autosyn 
-INFO: [HLS 200-10] Starting hardware synthesis ...
-INFO: [HLS 200-0] Synthesizing C/C++ design ...
-INFO: [HLS 200-10] Synthesizing 'main' ...
-Execute       ap_set_top_model main 
-WARNING: [SYN 201-103] Legalizing function name 'Block__proc' to 'Block_proc'.
-Command       ap_set_top_model returned 0; 0 sec.
-Execute       get_model_list main -filter all-wo-channel -topdown 
-Command       get_model_list returned 0; 0 sec.
-Execute       preproc_iomode -model main 
-Command       preproc_iomode returned 0; 0 sec.
-Execute       preproc_iomode -model colorToNdg 
-Command       preproc_iomode returned 0; 0 sec.
-Execute       preproc_iomode -model AXIvideo2Mat 
-Command       preproc_iomode returned 0; 0 sec.
-Execute       preproc_iomode -model Block__proc 
-Command       preproc_iomode returned 0; 0 sec.
-Execute       get_model_list main -filter all-wo-channel 
-Command       get_model_list returned 0; 0 sec.
-INFO: [HLS 200-0] Model list for configure: Block__proc AXIvideo2Mat colorToNdg main
-INFO: [HLS 200-0] Configuring Module : Block__proc ...
-Execute       set_default_model Block__proc 
-Command       set_default_model returned 0; 0 sec.
-Execute       apply_spec_resource_limit Block__proc 
-Command       apply_spec_resource_limit returned 0; 0 sec.
-INFO: [HLS 200-0] Configuring Module : AXIvideo2Mat ...
-Execute       set_default_model AXIvideo2Mat 
-Command       set_default_model returned 0; 0 sec.
-Execute       apply_spec_resource_limit AXIvideo2Mat 
-Command       apply_spec_resource_limit returned 0; 0 sec.
-INFO: [HLS 200-0] Configuring Module : colorToNdg ...
-Execute       set_default_model colorToNdg 
-Command       set_default_model returned 0; 0 sec.
-Execute       apply_spec_resource_limit colorToNdg 
-Command       apply_spec_resource_limit returned 0; 0 sec.
-INFO: [HLS 200-0] Configuring Module : main ...
-Execute       set_default_model main 
-Command       set_default_model returned 0; 0 sec.
-Execute       apply_spec_resource_limit main 
-Command       apply_spec_resource_limit returned 0; 0 sec.
-INFO: [HLS 200-0] Model list for preprocess: Block__proc AXIvideo2Mat colorToNdg main
-INFO: [HLS 200-0] Preprocessing Module: Block__proc ...
-Execute       set_default_model Block__proc 
-Command       set_default_model returned 0; 0 sec.
-Execute       cdfg_preprocess -model Block__proc 
-Command       cdfg_preprocess returned 0; 0 sec.
-Execute       rtl_gen_preprocess Block__proc 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-INFO: [HLS 200-0] Preprocessing Module: AXIvideo2Mat ...
-Execute       set_default_model AXIvideo2Mat 
-Command       set_default_model returned 0; 0 sec.
-Execute       cdfg_preprocess -model AXIvideo2Mat 
-Command       cdfg_preprocess returned 0; 0 sec.
-Execute       rtl_gen_preprocess AXIvideo2Mat 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-INFO: [HLS 200-0] Preprocessing Module: colorToNdg ...
-Execute       set_default_model colorToNdg 
-Command       set_default_model returned 0; 0 sec.
-Execute       cdfg_preprocess -model colorToNdg 
-Command       cdfg_preprocess returned 0; 0 sec.
-Execute       rtl_gen_preprocess colorToNdg 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-INFO: [HLS 200-0] Preprocessing Module: main ...
-Execute       set_default_model main 
-Command       set_default_model returned 0; 0 sec.
-Execute       cdfg_preprocess -model main 
-Command       cdfg_preprocess returned 0; 0 sec.
-Execute       rtl_gen_preprocess main 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-INFO: [HLS 200-0] Model list for synthesis: Block__proc AXIvideo2Mat colorToNdg main
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'Block_proc'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       set_default_model Block__proc 
-Command       set_default_model returned 0; 0 sec.
-Execute       schedule -model Block__proc 
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-11] Finished scheduling.
-Command       schedule returned 0; 0.06 sec.
-INFO: [HLS 200-111]  Elapsed time: 40.72 seconds; current allocated memory: 205.749 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.verbose.sched.rpt -verbose -f 
-Command       report returned 0; 0 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.sched.adb -f 
-Command       db_write returned 0; 0.01 sec.
-INFO: [HLS 200-0] Finish scheduling Block__proc.
-Execute       set_default_model Block__proc 
-Command       set_default_model returned 0; 0 sec.
-Execute       bind -model Block__proc 
-INFO: [BIND 205-110] clear=
-INFO: [BIND 205-110] debug=
-INFO: [BIND 205-110] drf=
-INFO: [BIND 205-110] effort=
-INFO: [BIND 205-110] fast_refine=
-INFO: [BIND 205-110] fu_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] global_opt=
-INFO: [BIND 205-110] gsearch=
-INFO: [BIND 205-110] help=
-INFO: [BIND 205-110] help-hidden=
-INFO: [BIND 205-110] min_mem_port=
-INFO: [BIND 205-110] min_op=
-INFO: [BIND 205-110] minreg=
-INFO: [BIND 205-110] ml=
-INFO: [BIND 205-110] model=Block__proc
-INFO: [BIND 205-110] no_false_path=
-INFO: [BIND 205-110] no_min_op=
-INFO: [BIND 205-110] normalize=
-INFO: [BIND 205-110] quiet=
-INFO: [BIND 205-110] refine=
-INFO: [BIND 205-110] reg_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] search=
-INFO: [BIND 205-110] tight_delay=
-INFO: [BIND 205-110] verbose=
-INFO: [BIND 205-110] wFF=
-INFO: [BIND 205-110] wFU=
-INFO: [BIND 205-110] wMUX=
-INFO: [BIND 205-110] wNET=
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-Command       bind returned 0; 0.02 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.04 seconds; current allocated memory: 205.802 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.verbose.bind.rpt -verbose -f 
-Command       report returned 0; 0 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.bind.adb -f 
-Command       db_write returned 0; 0 sec.
-INFO: [HLS 200-0] Finish binding Block__proc.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'AXIvideo2Mat'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       set_default_model AXIvideo2Mat 
-Command       set_default_model returned 0; 0 sec.
-Execute       schedule -model AXIvideo2Mat 
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-61] Pipelining loop 'loop_wait_for_start'.
-INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
-INFO: [SCHED 204-61] Pipelining loop 'loop_width'.
-INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 2.
-INFO: [SCHED 204-61] Pipelining loop 'loop_wait_for_eol'.
-INFO: [SCHED 204-61] Pipelining result : Target II = 1, Final II = 1, Depth = 1.
-INFO: [SCHED 204-11] Finished scheduling.
-Command       schedule returned 0; 0.22 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.25 seconds; current allocated memory: 206.238 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.verbose.sched.rpt -verbose -f 
-Command       report returned 0; 0.03 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.sched.adb -f 
-Command       db_write returned 0; 0.01 sec.
-INFO: [HLS 200-0] Finish scheduling AXIvideo2Mat.
-Execute       set_default_model AXIvideo2Mat 
-Command       set_default_model returned 0; 0 sec.
-Execute       bind -model AXIvideo2Mat 
-INFO: [BIND 205-110] clear=
-INFO: [BIND 205-110] debug=
-INFO: [BIND 205-110] drf=
-INFO: [BIND 205-110] effort=
-INFO: [BIND 205-110] fast_refine=
-INFO: [BIND 205-110] fu_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] global_opt=
-INFO: [BIND 205-110] gsearch=
-INFO: [BIND 205-110] help=
-INFO: [BIND 205-110] help-hidden=
-INFO: [BIND 205-110] min_mem_port=
-INFO: [BIND 205-110] min_op=
-INFO: [BIND 205-110] minreg=
-INFO: [BIND 205-110] ml=
-INFO: [BIND 205-110] model=AXIvideo2Mat
-INFO: [BIND 205-110] no_false_path=
-INFO: [BIND 205-110] no_min_op=
-INFO: [BIND 205-110] normalize=
-INFO: [BIND 205-110] quiet=
-INFO: [BIND 205-110] refine=
-INFO: [BIND 205-110] reg_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] search=
-INFO: [BIND 205-110] tight_delay=
-INFO: [BIND 205-110] verbose=
-INFO: [BIND 205-110] wFF=
-INFO: [BIND 205-110] wFU=
-INFO: [BIND 205-110] wMUX=
-INFO: [BIND 205-110] wNET=
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-Command       bind returned 0; 0.05 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.09 seconds; current allocated memory: 206.595 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.verbose.bind.rpt -verbose -f 
-Command       report returned 0; 0.03 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.bind.adb -f 
-Command       db_write returned 0; 0.01 sec.
-INFO: [HLS 200-0] Finish binding AXIvideo2Mat.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'colorToNdg'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       set_default_model colorToNdg 
-Command       set_default_model returned 0; 0 sec.
-Execute       schedule -model colorToNdg 
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-11] Finished scheduling.
-Command       schedule returned 0; 0.13 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.19 seconds; current allocated memory: 206.788 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.verbose.sched.rpt -verbose -f 
-Command       report returned 0; 0.01 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.sched.adb -f 
-Command       db_write returned 0; 0.01 sec.
-INFO: [HLS 200-0] Finish scheduling colorToNdg.
-Execute       set_default_model colorToNdg 
-Command       set_default_model returned 0; 0 sec.
-Execute       bind -model colorToNdg 
-INFO: [BIND 205-110] clear=
-INFO: [BIND 205-110] debug=
-INFO: [BIND 205-110] drf=
-INFO: [BIND 205-110] effort=
-INFO: [BIND 205-110] fast_refine=
-INFO: [BIND 205-110] fu_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] global_opt=
-INFO: [BIND 205-110] gsearch=
-INFO: [BIND 205-110] help=
-INFO: [BIND 205-110] help-hidden=
-INFO: [BIND 205-110] min_mem_port=
-INFO: [BIND 205-110] min_op=
-INFO: [BIND 205-110] minreg=
-INFO: [BIND 205-110] ml=
-INFO: [BIND 205-110] model=colorToNdg
-INFO: [BIND 205-110] no_false_path=
-INFO: [BIND 205-110] no_min_op=
-INFO: [BIND 205-110] normalize=
-INFO: [BIND 205-110] quiet=
-INFO: [BIND 205-110] refine=
-INFO: [BIND 205-110] reg_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] search=
-INFO: [BIND 205-110] tight_delay=
-INFO: [BIND 205-110] verbose=
-INFO: [BIND 205-110] wFF=
-INFO: [BIND 205-110] wFU=
-INFO: [BIND 205-110] wMUX=
-INFO: [BIND 205-110] wNET=
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-Command       bind returned 0; 0.02 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.05 seconds; current allocated memory: 206.962 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.verbose.bind.rpt -verbose -f 
-Command       report returned 0; 0.02 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.bind.adb -f 
-Command       db_write returned 0; 0.01 sec.
-INFO: [HLS 200-0] Finish binding colorToNdg.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-42] -- Implementing module 'main'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       set_default_model main 
-Command       set_default_model returned 0; 0 sec.
-Execute       schedule -model main 
-INFO: [SCHED 204-11] Starting scheduling ...
-INFO: [SCHED 204-11] Finished scheduling.
-Command       schedule returned 0; 0.02 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.07 seconds; current allocated memory: 207.102 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.verbose.sched.rpt -verbose -f 
-Command       report returned 0; 0.01 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.sched.adb -f 
-Command       db_write returned 0; 0.01 sec.
-INFO: [HLS 200-0] Finish scheduling main.
-Execute       set_default_model main 
-Command       set_default_model returned 0; 0 sec.
-Execute       bind -model main 
-INFO: [BIND 205-110] clear=
-INFO: [BIND 205-110] debug=
-INFO: [BIND 205-110] drf=
-INFO: [BIND 205-110] effort=
-INFO: [BIND 205-110] fast_refine=
-INFO: [BIND 205-110] fu_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] global_opt=
-INFO: [BIND 205-110] gsearch=
-INFO: [BIND 205-110] help=
-INFO: [BIND 205-110] help-hidden=
-INFO: [BIND 205-110] min_mem_port=
-INFO: [BIND 205-110] min_op=
-INFO: [BIND 205-110] minreg=
-INFO: [BIND 205-110] ml=
-INFO: [BIND 205-110] model=main
-INFO: [BIND 205-110] no_false_path=
-INFO: [BIND 205-110] no_min_op=
-INFO: [BIND 205-110] normalize=
-INFO: [BIND 205-110] quiet=
-INFO: [BIND 205-110] refine=
-INFO: [BIND 205-110] reg_weight=[ 0.0 -- 1.0 ]
-INFO: [BIND 205-110] search=
-INFO: [BIND 205-110] tight_delay=
-INFO: [BIND 205-110] verbose=
-INFO: [BIND 205-110] wFF=
-INFO: [BIND 205-110] wFU=
-INFO: [BIND 205-110] wMUX=
-INFO: [BIND 205-110] wNET=
-INFO: [BIND 205-100] Starting micro-architecture generation ...
-INFO: [BIND 205-101] Performing variable lifetime analysis.
-INFO: [BIND 205-101] Exploring resource sharing.
-INFO: [BIND 205-101] Binding ...
-INFO: [BIND 205-100] Finished micro-architecture generation.
-Command       bind returned 0; 0.07 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.09 seconds; current allocated memory: 207.348 MB.
-Execute       report -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.verbose.bind.rpt -verbose -f 
-Command       report returned 0; 0.03 sec.
-Execute       db_write -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.bind.adb -f 
-Command       db_write returned 0; 0.01 sec.
-INFO: [HLS 200-0] Finish binding main.
-Execute       get_model_list main -filter all-wo-channel 
-Command       get_model_list returned 0; 0 sec.
-INFO: [HLS 200-0] Preprocessing for RTLGen ...
-Execute       rtl_gen_preprocess Block__proc 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-Execute       rtl_gen_preprocess AXIvideo2Mat 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-Execute       rtl_gen_preprocess colorToNdg 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-Execute       rtl_gen_preprocess main 
-Command       rtl_gen_preprocess returned 0; 0 sec.
-INFO: [HLS 200-0] Model list for RTL generation: Block__proc AXIvideo2Mat colorToNdg main
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'Block_proc'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       create_rtl_model Block__proc -vendor xilinx -mg_file /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.compgen.tcl 
-INFO: [RTGEN 206-100] Finished creating RTL model for 'Block_proc'.
-Command       create_rtl_model returned 0; 0 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.07 seconds; current allocated memory: 207.508 MB.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.rtl_wrap.cfg.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       gen_rtl Block__proc -style xilinx -tracefl mytrace -tracefmt vcd -traceopt all -f -lang sc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/systemc/Block_proc -synmodules Block__proc AXIvideo2Mat colorToNdg main 
-Command       gen_rtl returned 0; 0.01 sec.
-Execute       gen_rtl Block__proc -style xilinx -f -lang vhdl -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/vhdl/Block_proc 
-Command       gen_rtl returned 0; 0 sec.
-Execute       gen_rtl Block__proc -style xilinx -f -lang vlog -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/verilog/Block_proc 
-Command       gen_rtl returned 0; 0 sec.
-Execute       gen_tb_info Block__proc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc -p /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db 
-Command       gen_tb_info returned 0; 0 sec.
-Execute       report -model Block__proc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/Block_proc_csynth.rpt -f 
-Command       report returned 0; 0.01 sec.
-Execute       report -model Block__proc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/Block_proc_csynth.xml -f -x 
-Command       report returned 0; 0 sec.
-Execute       report -model Block__proc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.verbose.rpt -verbose -f 
-Command       report returned 0; 0 sec.
-Execute       db_write -model Block__proc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.adb -f 
-Command       db_write returned 0; 0 sec.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'AXIvideo2Mat'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       create_rtl_model AXIvideo2Mat -vendor xilinx -mg_file /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.compgen.tcl 
-INFO: [RTGEN 206-100] Finished creating RTL model for 'AXIvideo2Mat'.
-Command       create_rtl_model returned 0; 0.02 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.07 seconds; current allocated memory: 208.108 MB.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.rtl_wrap.cfg.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       gen_rtl AXIvideo2Mat -style xilinx -tracefl mytrace -tracefmt vcd -traceopt all -f -lang sc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/systemc/AXIvideo2Mat -synmodules Block__proc AXIvideo2Mat colorToNdg main 
-Command       gen_rtl returned 0; 0 sec.
-Execute       gen_rtl AXIvideo2Mat -style xilinx -f -lang vhdl -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/vhdl/AXIvideo2Mat 
-Command       gen_rtl returned 0; 0.01 sec.
-Execute       gen_rtl AXIvideo2Mat -style xilinx -f -lang vlog -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/verilog/AXIvideo2Mat 
-Command       gen_rtl returned 0; 0 sec.
-Execute       gen_tb_info AXIvideo2Mat -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat -p /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db 
-Command       gen_tb_info returned 0; 0.02 sec.
-Execute       report -model AXIvideo2Mat -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/AXIvideo2Mat_csynth.rpt -f 
-Command       report returned 0; 0.02 sec.
-Execute       report -model AXIvideo2Mat -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/AXIvideo2Mat_csynth.xml -f -x 
-Command       report returned 0; 0.02 sec.
-Execute       report -model AXIvideo2Mat -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.verbose.rpt -verbose -f 
-Command       report returned 0; 0.06 sec.
-Execute       db_write -model AXIvideo2Mat -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.adb -f 
-Command       db_write returned 0; 0.04 sec.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'colorToNdg'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       create_rtl_model colorToNdg -vendor xilinx -mg_file /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.compgen.tcl 
-INFO: [SYN 201-210] Renamed object name 'main_am_addmul_9ns_8ns_12ns_22_1_1' to 'main_am_addmul_9nbkb' due to the length limit 20
-INFO: [RTGEN 206-100] Generating core module 'main_am_addmul_9nbkb': 1 instance(s).
-INFO: [RTGEN 206-100] Finished creating RTL model for 'colorToNdg'.
-Command       create_rtl_model returned 0; 0.02 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.23 seconds; current allocated memory: 209.548 MB.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.rtl_wrap.cfg.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       gen_rtl colorToNdg -style xilinx -tracefl mytrace -tracefmt vcd -traceopt all -f -lang sc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/systemc/colorToNdg -synmodules Block__proc AXIvideo2Mat colorToNdg main 
-Command       gen_rtl returned 0; 0 sec.
-Execute       gen_rtl colorToNdg -style xilinx -f -lang vhdl -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/vhdl/colorToNdg 
-Command       gen_rtl returned 0; 0 sec.
-Execute       gen_rtl colorToNdg -style xilinx -f -lang vlog -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/verilog/colorToNdg 
-Command       gen_rtl returned 0; 0.01 sec.
-Execute       gen_tb_info colorToNdg -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg -p /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db 
-Command       gen_tb_info returned 0; 0.01 sec.
-Execute       report -model colorToNdg -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/colorToNdg_csynth.rpt -f 
-Command       report returned 0; 0.01 sec.
-Execute       report -model colorToNdg -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/colorToNdg_csynth.xml -f -x 
-Command       report returned 0; 0 sec.
-Execute       report -model colorToNdg -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.verbose.rpt -verbose -f 
-Command       report returned 0; 0.03 sec.
-Execute       db_write -model colorToNdg -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.adb -f 
-Command       db_write returned 0; 0.03 sec.
-INFO: [HLS 200-10] ----------------------------------------------------------------
-INFO: [HLS 200-10] -- Generating RTL for module 'main'
-INFO: [HLS 200-10] ----------------------------------------------------------------
-Execute       create_rtl_model main -vendor xilinx -mg_file /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.compgen.tcl 
-INFO: [RTGEN 206-500] Setting interface mode on function 'main' to 's_axilite & ap_ctrl_hs'.
-INFO: [RTGEN 206-100] Bundling port 'return' to AXI-Lite port CONTROL_BUS.
-INFO: [RTGEN 206-100] Finished creating RTL model for 'main'.
-Command       create_rtl_model returned 0; 0.02 sec.
-INFO: [HLS 200-111]  Elapsed time: 0.13 seconds; current allocated memory: 210.669 MB.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.rtl_wrap.cfg.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       gen_rtl main -istop -style xilinx -tracefl mytrace -tracefmt vcd -traceopt all -f -lang sc -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/systemc/main -synmodules Block__proc AXIvideo2Mat colorToNdg main 
-Command       gen_rtl returned 0; 0 sec.
-Execute       gen_rtl main -istop -style xilinx -f -lang vhdl -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/vhdl/main 
-Command       gen_rtl returned 0; 0.03 sec.
-Execute       gen_rtl main -istop -style xilinx -f -lang vlog -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/verilog/main 
-Command       gen_rtl returned 0; 0.01 sec.
-Execute       export_constraint_db -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.constraint.tcl -f -tool general 
-Command       export_constraint_db returned 0; 0 sec.
-Execute       report -model main -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.design.xml -verbose -f -dv 
-Command       report returned 0; 0.06 sec.
-Execute       report -model main -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.sdaccel.xml -verbose -f -sdaccel 
-Command       report returned 0; 0.03 sec.
-Execute       gen_tb_info main -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main -p /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db 
-Command       gen_tb_info returned 0; 0.01 sec.
-Execute       report -model main -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/main_csynth.rpt -f 
-Command       report returned 0; 0.01 sec.
-Execute       report -model main -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/syn/report/main_csynth.xml -f -x 
-Command       report returned 0; 0.01 sec.
-Execute       report -model main -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.verbose.rpt -verbose -f 
-Command       report returned 0; 0.04 sec.
-Execute       db_write -model main -o /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.adb -f 
-Command       db_write returned 0; 0.02 sec.
-Execute       sc_get_clocks main 
-Command       sc_get_clocks returned 0; 0 sec.
-Execute       sc_get_portdomain main 
-Command       sc_get_portdomain returned 0; 0 sec.
-INFO: [HLS 200-0] Model list for RTL component generation: Block__proc AXIvideo2Mat colorToNdg main
-INFO: [HLS 200-0] Handling components in module [Block_proc] ... 
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-INFO: [HLS 200-0] Handling components in module [AXIvideo2Mat] ... 
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-INFO: [HLS 200-0] Handling components in module [colorToNdg] ... 
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.compgen.tcl 
-INFO: [HLS 200-0] Found component main_am_addmul_9nbkb.
-INFO: [HLS 200-0] Append model main_am_addmul_9nbkb
-Command       ap_source returned 0; 0 sec.
-INFO: [HLS 200-0] Handling components in module [main] ... 
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.compgen.tcl 
-INFO: [HLS 200-0] Found component fifo_w12_d1_A.
-INFO: [HLS 200-0] Append model fifo_w12_d1_A
-INFO: [HLS 200-0] Found component fifo_w11_d1_A.
-INFO: [HLS 200-0] Append model fifo_w11_d1_A
-INFO: [HLS 200-0] Found component fifo_w8_d1_A.
-INFO: [HLS 200-0] Append model fifo_w8_d1_A
-INFO: [HLS 200-0] Found component fifo_w8_d1_A.
-INFO: [HLS 200-0] Append model fifo_w8_d1_A
-INFO: [HLS 200-0] Found component fifo_w8_d1_A.
-INFO: [HLS 200-0] Append model fifo_w8_d1_A
-INFO: [HLS 200-0] Found component fifo_w12_d1_A.
-INFO: [HLS 200-0] Append model fifo_w12_d1_A
-INFO: [HLS 200-0] Found component fifo_w11_d1_A.
-INFO: [HLS 200-0] Append model fifo_w11_d1_A
-INFO: [HLS 200-0] Found component main_CONTROL_BUS_s_axi.
-INFO: [HLS 200-0] Append model main_CONTROL_BUS_s_axi
-Command       ap_source returned 0; 0 sec.
-INFO: [HLS 200-0] Append model Block_proc
-INFO: [HLS 200-0] Append model AXIvideo2Mat
-INFO: [HLS 200-0] Append model colorToNdg
-INFO: [HLS 200-0] Append model main
-INFO: [HLS 200-0] Generating RTL model list ...
-INFO: [HLS 200-0] All models in this session: main_am_addmul_9nbkb fifo_w12_d1_A fifo_w11_d1_A fifo_w8_d1_A fifo_w8_d1_A fifo_w8_d1_A fifo_w12_d1_A fifo_w11_d1_A main_CONTROL_BUS_s_axi Block_proc AXIvideo2Mat colorToNdg main
-INFO: [HLS 200-0] To file: write model main_am_addmul_9nbkb
-INFO: [HLS 200-0] To file: write model fifo_w12_d1_A
-INFO: [HLS 200-0] To file: write model fifo_w11_d1_A
-INFO: [HLS 200-0] To file: write model fifo_w8_d1_A
-INFO: [HLS 200-0] To file: write model fifo_w8_d1_A
-INFO: [HLS 200-0] To file: write model fifo_w8_d1_A
-INFO: [HLS 200-0] To file: write model fifo_w12_d1_A
-INFO: [HLS 200-0] To file: write model fifo_w11_d1_A
-INFO: [HLS 200-0] To file: write model main_CONTROL_BUS_s_axi
-INFO: [HLS 200-0] To file: write model Block_proc
-INFO: [HLS 200-0] To file: write model AXIvideo2Mat
-INFO: [HLS 200-0] To file: write model colorToNdg
-INFO: [HLS 200-0] To file: write model main
-INFO: [HLS 200-0] Finished generating RTL model list.
-
-
-INFO: [HLS 200-0] RTL Generation done.
-INFO: [HLS 200-0] CAS Generation done.
-INFO: [HLS 200-0] CBC Generation done.
-Execute       export_ssdm /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/a.export.ll 
-Command       export_ssdm returned 0; 0.01 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/common.gen 
-Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/APCoreGen.gen 
-Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/op.gen 
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/op_simcore.gen 
-Command       ap_source returned 0; 0.01 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/interface.gen 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/zynq/zynq.gen 
-Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/virtex.gen 
-Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/xilinx.gen 
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/plb46.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/fsl.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/axi4.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/nativeAXI4.gen 
-Execute               source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/saxilite.gen 
-Command               ap_source returned 0; 0.01 sec.
-Execute               source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/maxi.gen 
-Command               ap_source returned 0; 0 sec.
-Command             ap_source returned 0; 0.01 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/scripts/xilinxcoregen.gen 
-Command             ap_source returned 0; 0.01 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/XilEDKCoreGen.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/util.gen 
-Command             ap_source returned 0; 0.01 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/xfir.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/dds_compiler.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/xfft.gen 
-Command             ap_source returned 0; 0.06 sec.
-Command           ap_source returned 0; 0.09 sec.
-Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/dsp48.gen 
-Command           ap_source returned 0; 0 sec.
-Command         ap_source returned 0; 0.09 sec.
-Command       ap_source returned 0; 0.09 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/zynq/zynq_fpv6.gen 
-Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/xilinx_fpv6.gen 
-Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.compgen.tcl 
-Command       ap_source returned 0; 0.03 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.compgen.tcl 
-Execute         source ./CONTROL_BUS.slave.tcl 
-Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0.09 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/common.gen 
-Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/APCoreGen.gen 
-Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/op.gen 
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/op_simcore.gen 
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/generic/autopilot/interface.gen 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/zynq/zynq.gen 
-Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/virtex.gen 
-Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/xilinx.gen 
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/plb46.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/fsl.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/axi4.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/nativeAXI4.gen 
-Execute               source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/saxilite.gen 
-Command               ap_source returned 0; 0 sec.
-Execute               source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/maxi.gen 
-Command               ap_source returned 0; 0.01 sec.
-Command             ap_source returned 0; 0.01 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/scripts/xilinxcoregen.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/interface/XilEDKCoreGen.gen 
-Command             ap_source returned 0; 0.01 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/util.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/xfir.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/dds_compiler.gen 
-Command             ap_source returned 0; 0 sec.
-Execute             source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/ip/xfft.gen 
-Command             ap_source returned 0; 0.06 sec.
-Command           ap_source returned 0; 0.08 sec.
-Execute           source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/dsp48.gen 
-Command           ap_source returned 0; 0 sec.
-Command         ap_source returned 0; 0.08 sec.
-Command       ap_source returned 0; 0.08 sec.
-Execute       source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/zynq/zynq_fpv6.gen 
-Execute         source /usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/xilinx/common/xilinx_fpv6.gen 
-Command         ap_source returned 0; 0 sec.
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.rtl_wrap.cfg.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.rtl_wrap.cfg.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.rtl_wrap.cfg.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.tbgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.tbgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.compgen.tcl 
-Command       ap_source returned 0; 0.01 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/Block_proc.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/AXIvideo2Mat.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/colorToNdg.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.compgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.constraint.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.tbgen.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/main.constraint.tcl 
-Command       ap_source returned 0; 0 sec.
-Execute       sc_get_clocks main 
-Command       sc_get_clocks returned 0; 0 sec.
-Execute       source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/.autopilot/db/global.setting.tcl 
-Command       ap_source returned 0; 0 sec.
-INFO: [HLS 200-111] Finished generating all RTL models Time (s): cpu = 00:01:15 ; elapsed = 00:00:43 . Memory (MB): peak = 642.004 ; gain = 207.219 ; free physical = 11635 ; free virtual = 17090
-INFO: [SYSC 207-301] Generating SystemC RTL for main.
-INFO: [VHDL 208-304] Generating VHDL RTL for main.
-INFO: [VLOG 209-307] Generating Verilog RTL for main.
-Command     autosyn returned 0; 2.69 sec.
-Command   csynth_design returned 0; 42.79 sec.
-Command ap_source returned 0; 43.06 sec.
+WARNING: [HLS 200-40] In file included from project_tracking_on_soc/sources/tracking_tools.cpp:1:
+project_tracking_on_soc/sources/tracking_tools.cpp:30:12: error: invalid operands to binary expression ('PIXEL_GRAY' (aka 'Scalar<1, unsigned char>') and 'int')
+   if(pixG > 200)
+      ~~~~ ^ ~~~
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:854: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:1051: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3554:850: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator <= (ap_int_base<8,true>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                    Command       clang returned 2; 2.27 sec.
+ERROR: [HLS 200-70] Compilation errors found:
+Pragma processor failed: In file included from project_tracking_on_soc/sources/tracking_tools.cpp:1:
+project_tracking_on_soc/sources/tracking_tools.cpp:30:12: error: invalid operands to binary expression ('PIXEL_GRAY' (aka 'Scalar<1, unsigned char>') and 'int')
+   if(pixG > 200)
+      ~~~~ ^ ~~~
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:854: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3553:1051: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator == (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator != (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator > (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator >= (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator < (ap_int_base<1,false>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( bool i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<1,false>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, bool op2) { return op.operator <= (ap_int_base<1,false>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ^
+/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/ap_int_syn.h:3554:850: note: candidate template ignored: failed template argument deduction
+template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator == (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator == ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator == (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator != (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator != ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator != (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator > (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator > ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator > (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator >= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator >= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator >= (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator < (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator < ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator < (ap_int_base<8,true>(op2)); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( char i_op, const ap_int_base<_AP_W,_AP_S, false> &op) { return ap_int_base<8,true>(i_op).operator <= (op); } template<int _AP_W, bool _AP_S> inline __attribute__((always_inline)) bool operator <= ( const ap_int_base<_AP_W,_AP_S> &op, char op2) { return op.operator <= (ap_int_base<8,true>(op2)); }
+                                                                                                                                                                                                                                                                                                                                                 Command     elaborate returned 2; 19.36 sec.
+Command   csynth_design returned 2; 19.36 sec.
+Command ap_source returned 1; 19.64 sec.
+Failed checking during preprocessing.
+    while executing
+"source /users/florcath/vivado_hls/project_tracking_on_soc/solution1/csynth.tcl"
+    invoked from within
+"hls::main /users/florcath/vivado_hls/project_tracking_on_soc/solution1/csynth.tcl"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 hls::main {*}$args"
+    (procedure "hls_proc" line 5)
+    invoked from within
+"hls_proc $argv"
 Execute cleanup_all 
-Command cleanup_all returned 0; 0.01 sec.
+Command cleanup_all returned 0; 0 sec.

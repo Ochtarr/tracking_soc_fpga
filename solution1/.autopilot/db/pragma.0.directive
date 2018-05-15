@@ -261,28 +261,28 @@
 <directive functionLabel="" functionName="trunc_fixed" label="">
 <pragma name="PIPELINE"/>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="INTERFACE">
 <option name="axis" positionalBoolean="mode" value=""/>
 <option name="port" positionalBoolean="4" value="video_in"/>
 <option name="bundle" value="INPUT_STREAM"/>
 </pragma>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="INTERFACE">
 <option name="axis" positionalBoolean="mode" value=""/>
 <option name="port" positionalBoolean="4" value="video_out"/>
 <option name="bundle" value="OUTPUT_STREAM"/>
 </pragma>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="INTERFACE">
 <option name="s_axilite" positionalBoolean="mode" value=""/>
 <option name="port" positionalBoolean="4" value="return"/>
 <option name="bundle" value="CONTROL_BUS"/>
 </pragma>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="INTERFACE">
 <option name="s_axilite" positionalBoolean="mode" value=""/>
 <option name="port" positionalBoolean="4" value="rows"/>
@@ -290,7 +290,7 @@
 <option name="bundle" value="CONTROL_BUS"/>
 </pragma>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="INTERFACE">
 <option name="s_axilite" positionalBoolean="mode" value=""/>
 <option name="port" positionalBoolean="4" value="cols"/>
@@ -298,19 +298,19 @@
 <option name="bundle" value="CONTROL_BUS"/>
 </pragma>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="INTERFACE">
 <option name="ap_stable" positionalBoolean="mode" value=""/>
 <option name="port" positionalBoolean="4" value="rows"/>
 </pragma>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="INTERFACE">
 <option name="ap_stable" positionalBoolean="mode" value=""/>
 <option name="port" positionalBoolean="4" value="cols"/>
 </pragma>
 </directive>
-<directive functionLabel="" functionName="main" label="">
+<directive functionLabel="" functionName="process" label="">
 <pragma name="DATAFLOW"/>
 </directive>
 </sourceFile>

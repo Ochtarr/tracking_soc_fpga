@@ -1,5 +1,5 @@
-# 1 "project_tracking_on_soc/sources/tracking_tools.cpp"
-# 1 "project_tracking_on_soc/sources/tracking_tools.cpp" 1
+# 1 "project_tracking_on_soc/sources/traitement.cpp"
+# 1 "project_tracking_on_soc/sources/traitement.cpp" 1
 # 1 "<built-in>" 1
 # 1 "<built-in>" 3
 # 155 "<built-in>" 3
@@ -143,8 +143,8 @@ extern "C" {
 }
 # 8 "<command line>" 2
 # 1 "<built-in>" 2
-# 1 "project_tracking_on_soc/sources/tracking_tools.cpp" 2
-# 1 "project_tracking_on_soc/sources/tracking_tools.h" 1
+# 1 "project_tracking_on_soc/sources/traitement.cpp" 2
+# 1 "project_tracking_on_soc/sources/traitement.h" 1
 
 
 
@@ -47150,7 +47150,8 @@ _ssdm_op_SpecDataflowPipeline(-1, "");
 
 }
 # 70 "/usr/lsa/apps/Xilinx/Vivado/2017.4/common/technology/autopilot/hls_video.h" 2
-# 6 "project_tracking_on_soc/sources/tracking_tools.h" 2
+# 6 "project_tracking_on_soc/sources/traitement.h" 2
+# 1 "project_tracking_on_soc/sources/tracking_tools.h" 1
 # 16 "project_tracking_on_soc/sources/tracking_tools.h"
 typedef hls::stream<ap_axiu<24,1,1,1> > AXI_STREAM;
 typedef hls::Mat<1024, 768, (((0) & ((1 << 11) - 1)) + (((1)-1) << 11))> IMAGE_C1;
@@ -47164,46 +47165,47 @@ typedef hls::Scalar<1, unsigned char> PIXEL_GRAY;
 
 void colorToNdg(IMAGE_C3& imgColor, IMAGE_C1& imgNdg);
 void ndgToBinary(IMAGE_C1& imgNdg, IMAGE_C1& imgBinary);
-# 2 "project_tracking_on_soc/sources/tracking_tools.cpp" 2
-# 1 "project_tracking_on_soc/sources/traitement.h" 1
-# 14 "project_tracking_on_soc/sources/traitement.h"
+# 7 "project_tracking_on_soc/sources/traitement.h" 2
+
+
+
+
+
+
+
 typedef hls::stream<ap_axiu<24,1,1,1> > AXI_STREAM;
 typedef hls::Mat<1024, 768, (((0) & ((1 << 11) - 1)) + (((1)-1) << 11))> IMAGE_C1;
 typedef hls::Mat<1024, 768, (((0) & ((1 << 11) - 1)) + (((3)-1) << 11))> IMAGE_C3;
 
 void process(AXI_STREAM& video_in, AXI_STREAM& video_out, int rows, int cols);
-# 3 "project_tracking_on_soc/sources/tracking_tools.cpp" 2
+# 2 "project_tracking_on_soc/sources/traitement.cpp" 2
 
-void colorToNdg(IMAGE_C3& imgColor, IMAGE_C1& imgNdg)
-{
- int lig, col;
- for(lig=0; lig<=imgColor.rows; lig++)
- {
-  for(col=0; col<=imgColor.cols; col++)
-  {
-   PIXEL_COLOR pixColor;
-   pixColor = imgColor.read();
-   int moy = (pixColor.val[0] + pixColor.val[1] + pixColor.val[2])/3;
-   PIXEL_GRAY pixG;
-   pixG = moy;
-   imgNdg.write(pixG);
-  }
- }
-}
+void process(AXI_STREAM& video_in, AXI_STREAM& video_out, int rows, int cols){
 
-void ndgToBinary(IMAGE_C1& imgNdg, IMAGE_C1& imgBinary)
-{
- int lig, col;
- for(lig=0; lig<=imgNdg.rows; lig++)
- {
-  for(col=0; col<=imgNdg.cols; col++)
-  {
-   PIXEL_GRAY pixG = imgNdg.read();
-   PIXEL_GRAY pixBinary;
-   if(pixG > 200)
-    pixBinary = 255;
-   else
-    pixBinary = 0;
-  }
- }
+
+
+
+#pragma HLS INTERFACE axis port=video_in bundle=INPUT_STREAM
+#pragma HLS INTERFACE axis port=video_out bundle=OUTPUT_STREAM
+#pragma HLS INTERFACE s_axilite port=return bundle=CONTROL_BUS
+
+#pragma HLS INTERFACE s_axilite port=rows bundle=CONTROL_BUS offset=0x14
+#pragma HLS INTERFACE s_axilite port=cols bundle=CONTROL_BUS offset=0x1C
+#pragma HLS INTERFACE ap_stable port=rows
+#pragma HLS INTERFACE ap_stable port=cols
+
+#pragma HLS dataflow
+
+ IMAGE_C3 imgColor(rows, cols);
+ IMAGE_C1 imgNdg(rows, cols);
+ IMAGE_C1 imgBinary(rows, cols);
+ hls::AXIvideo2Mat(video_in, imgColor);
+
+
+
+ colorToNdg(imgColor,imgNdg);
+ ndgToBinary(imgNdg, imgBinary);
+
+ hls::Mat2AXIvideo(imgBinary, video_out);
+
 }
